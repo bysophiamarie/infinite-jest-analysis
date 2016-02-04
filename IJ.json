@@ -3,71 +3,87 @@
         "chapter": "1",
         "section": "1",
         "date": [ "Year of Glad", "", "" ],
-        "location": "",
+        "location": "University of Arizona",
         "synopsis": "Hal narrates: interview with University of Arizona Deans. Questions regarding Hal's rather stellar record.",
         "characters": {
-            "present": [ "Hal Incandenza" ],
-            "absent": [ ]
+            "present": [
+                "Hal Incandenza", "Charles Tavis", "Aubrey deLint",
+                "Dean of Admissions", "Dean of Academic Affairs", "Dean of Athletic Affairs",
+                "Director of Composition", "University tennis coach Kirk White"
+            ],
+            "absent": [ "Maury Klamkin", "Gerhardt Schtitt" ]
         },
-        "narrator": [ ],
-        "motifs": [ ],
-        "footnotes": [ ]
+        "narrator": [ "Hal Incandenza" ],
+        "motifs": [ "Brewster's Angle" ]
     },
     {
         "chapter": "1",
         "section": "2",
         "date": [ "(unspecified)", "", "" ],
-        "location": "",
+        "location": "Weston",
         "synopsis": "Hal narrates: Eating the mold.",
         "characters": {
-            "present": [ "Hal Incandenza" ],
-            "absent": [ ]
+            "present": [ "Hal Incandenza", "Avril Incandenza", "Orin Incandenza" ]
         },
-        "narrator": [ ],
-        "motifs": [ ],
-        "footnotes": [ ]
+        "narrator": [ "Hal Incandenza" ],
+        "motifs": [
+            "Garden", "Popsicle sticks", "Rototiller",
+            "Winnie-the-Pooh toddler wear", "Mold"
+        ]
     },
     {
         "chapter": "1",
         "section": "3",
         "date": [ "Year of Glad", "", "" ],
-        "location": "",
+        "location": "University of Arizona",
         "synopsis": "Hal attempts to explain his record to the deans. Is there something wrong with his voice?",
         "characters": {
-            "present": [ "Hal Incandenza" ],
-            "absent": [ ]
+            "present": [
+                "Hal Incandenza", "Charles Tavis", "Aubrey deLint",
+                "Dean of Admissions", "Dean of Academic Affairs", "Dean of Athletic Affairs",
+                "Director of Composition", "University tennis coach Kirk White"
+            ]
         },
-        "narrator": [ ],
-        "motifs": [ ],
-        "footnotes": [ ]
+        "narrator": [ "Hal Incandenza" ],
+        "motifs": [ "Dennis Gabor", "Holography", "Nunn Bush" ]
     },
     {
         "chapter": "1",
         "section": "4",
         "date": [ "Year of Glad", "", "" ],
-        "location": "",
+        "location": "University of Arizona",
         "synopsis": "Hal restrained in a University of Arizona men's room.",
         "characters": {
-            "present": [ "Hal Incandenza" ],
-            "absent": [ ]
+            "present": [
+                "Hal Incandenza", "Charles Tavis", "Aubrey deLint",
+                "Dean of Admissions", "Dean of Academic Affairs", "Dean of Athletic Affairs",
+                "Director of Composition", "University tennis coach Kirk White"
+            ]
         },
-        "narrator": [ ],
-        "motifs": [ ],
-        "footnotes": [ ]
+        "narrator": [ "Hal Incandenza" ],
+        "motifs": [ "Heimlich maneuver" ]
     },
     {
         "chapter": "1",
         "section": "5",
         "date": [ "Year of Glad", "", "" ],
-        "location": "",
+        "location": "University of Arizona",
         "synopsis": "Hal is taken away in an ambulance.",
         "characters": {
-            "present": [ "Hal Incandenza" ],
-            "absent": [ ]
+            "present": [ "Hal Incandenza", "Aubrey deLint", "Charles Tavis" ],
+            "absent": [
+                "Cosgrove Watt", "Grief Therapist", "James Orin Incandenza", "Avril Incandenza",
+                "John Wayne", "Don Gately",
+                "Dymphna", "Petropolis Kahn", "Ortho Stice"
+            ]
         },
-        "narrator": [ ],
-        "motifs": [ ],
-        "footnotes": [ ]
+        "narrator": [ "Hal Incandenza" ],
+        "motifs": [
+            "Emergency room",
+            "Knife in lavatory mirror",
+            "Quebecois woman titty",
+            "Himself's head"
+        ]
     },
     {
         "chapter": "2",
@@ -440,7 +456,7 @@
         "location": "",
         "synopsis": "Locker room banter at ETA.  Troeltsch, Pemulis, Wayne, Stice, Struck, Freer and Hal are present.",
         "characters": {
-            "present": [ "Jim Troeltsch", "Michael Pemulis", "John \"No Relation\" Wayne", "Ortho \"The Darkness\" Stice", "Jim Struck Jr.", "Keith \"The Viking\" Freer", "Hal Incandenza" ],
+            "present": [ "Jim Troeltsch", "Michael Pemulis", "John Wayne", "Ortho Stice", "Jim Struck Jr.", "Keith \"The Viking\" Freer", "Hal Incandenza" ],
             "absent": [ ]
         },
         "narrator": [ ],
@@ -468,7 +484,7 @@
         "location": "",
         "synopsis": "More banter in the locker room.  Complaints about Schtitt's expectations of them.",
         "characters": {
-            "present": [ "Jim Troeltsch", "Michael Pemulis", "John \"No Relation\" Wayne", "Ortho \"The Darkness\" Stice", "Jim Struck Jr.", "Keith \"The Viking\" Freer", "Hal Incandenza" ],
+            "present": [ "Jim Troeltsch", "Michael Pemulis", "John Wayne", "Ortho Stice", "Jim Struck Jr.", "Keith \"The Viking\" Freer", "Hal Incandenza" ],
             "absent": [ ]
         },
         "narrator": [ ],
@@ -496,7 +512,7 @@
         "location": "",
         "synopsis": "Hal with his \"little buddies\" (Kent Blott, Idris Arslanian, Ingersol).  He convinces them that their resentment of Schtitt is engineered by Schtitt and his staff.  Switches to John (NR) Wayne, Troeltsch, Struck, and Stice, each with his group of younger students.",
         "characters": {
-            "present": [ "Jim Troeltsch", "John \"No Relation\" Wayne", "Ortho \"The Darkness\" Stice", "Jim Struck Jr.", "Hal Incandenza", "Idris Arslanian", "Evan Ingersoll", "Kent Blott" ],
+            "present": [ "Jim Troeltsch", "John Wayne", "Ortho Stice", "Jim Struck Jr.", "Hal Incandenza", "Idris Arslanian", "Evan Ingersoll", "Kent Blott" ],
             "absent": [ ]
         },
         "narrator": [ ],
@@ -916,7 +932,7 @@
         "location": "",
         "synopsis": "Tennis meet at Port Washington Tennis Academy, Long Island, New York.  Descriptions of Hal and John \"No Relation\" Wayne playing their respective games.  Pemulis gets sick, Schacht plays a French-Canadian.",
         "characters": {
-            "present": [ "Hal Incandenza", "John \"No Relation\" Wayne", "Michael Pemulis", "Ted Schacht" ],
+            "present": [ "Hal Incandenza", "John Wayne", "Michael Pemulis", "Ted Schacht" ],
             "absent": [ ]
         },
         "narrator": [ ],
@@ -1168,7 +1184,7 @@
         "location": "",
         "synopsis": "Lyle tells Ortho \"The Darkness\" Stice, \"Do not underestimate objects\".  Stice's bed has been moving at night.",
         "characters": {
-            "present": [ "Lyle", "Ortho \"The Darkness\" Stice" ],
+            "present": [ "Lyle", "Ortho Stice" ],
             "absent": [ ]
         },
         "narrator": [ ],
@@ -1504,7 +1520,7 @@
         "location": "",
         "synopsis": "Pemulis interrupts John Wayne and Avril Incandenza in a game of sexual football.",
         "characters": {
-            "present": [ "Michael Pemulis", "John \"No Relation\" Wayne", "Avril Incandenza" ],
+            "present": [ "Michael Pemulis", "John Wayne", "Avril Incandenza" ],
             "absent": [ ]
         },
         "narrator": [ ],
@@ -1532,7 +1548,7 @@
         "location": "",
         "synopsis": "Hal in bed after lunch.  John Wayne stops by.",
         "characters": {
-            "present": [ "Hal Incandenza", "John \"No Relation\" Wayne" ],
+            "present": [ "Hal Incandenza", "John Wayne" ],
             "absent": [ ]
         },
         "narrator": [ ],
@@ -1742,7 +1758,7 @@
         "location": "",
         "synopsis": "The match between Stice and Hal. Narrrative \"clicks\" to scan Gatley, Poor Tony, Pemulis and Struck, Steeply's sedan, CT and even Orin in Arizona.  Steeply chats with Aubrey deLint as they watch the match.",
         "characters": {
-            "present": [ "Ortho \"The Darkness\" Stice", "Hal Incandenza", "Don Gately", "Poor Tony Krause", "Michael Pemulis", "Jim Struck Jr.", "Hugh/Helen Steeply", "Charles Tavis", "Orin Incandenza", "Aubrey DeLint" ],
+            "present": [ "Ortho Stice", "Hal Incandenza", "Don Gately", "Poor Tony Krause", "Michael Pemulis", "Jim Struck Jr.", "Hugh/Helen Steeply", "Charles Tavis", "Orin Incandenza", "Aubrey DeLint" ],
             "absent": [ ]
         },
         "narrator": [ ],
@@ -2386,7 +2402,7 @@
         "location": "",
         "synopsis": "Hal narrates: Ortho \"The Darkness\" Stice with his forehead stuck to a window in the dorm's hallway.  Late introduction of Kenkle and Brandt, ETA janitorial staff.",
         "characters": {
-            "present": [ "Ortho \"The Darkness\" Stice" ],
+            "present": [ "Ortho Stice" ],
             "absent": [ ]
         },
         "narrator": [ ],
