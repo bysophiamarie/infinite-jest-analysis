@@ -13,7 +13,7 @@
             ],
             "absent": [ "Maury Klamkin", "Gerhardt Schtitt" ]
         },
-        "narrator": [ "Hal Incandenza" ],
+        "narrator": "Hal Incandenza",
         "motifs": [ "Brewster's Angle" ]
     },
     {
@@ -25,7 +25,7 @@
         "characters": {
             "present": [ "Hal Incandenza", "Avril Incandenza", "Orin Incandenza" ]
         },
-        "narrator": [ "Hal Incandenza" ],
+        "narrator": "Hal Incandenza",
         "motifs": [
             "Garden", "Popsicle sticks", "Rototiller",
             "Winnie-the-Pooh toddler wear", "Mold"
@@ -44,7 +44,7 @@
                 "Director of Composition", "University tennis coach Kirk White"
             ]
         },
-        "narrator": [ "Hal Incandenza" ],
+        "narrator": "Hal Incandenza",
         "motifs": [ "Dennis Gabor", "Holography", "Nunn Bush" ]
     },
     {
@@ -60,7 +60,7 @@
                 "Director of Composition", "University tennis coach Kirk White"
             ]
         },
-        "narrator": [ "Hal Incandenza" ],
+        "narrator": "Hal Incandenza",
         "motifs": [ "Heimlich maneuver" ]
     },
     {
@@ -77,7 +77,7 @@
                 "Dymphna", "Petropolis Kahn", "Ortho Stice"
             ]
         },
-        "narrator": [ "Hal Incandenza" ],
+        "narrator": "Hal Incandenza",
         "motifs": [
             "Emergency room",
             "Knife in lavatory mirror",
@@ -95,7 +95,7 @@
             "present": [ "Ken Erdedy" ],
             "absent": [ ]
         },
-        "narrator": [ "Ken Erdedy" ],
+        "narrator": "Ken Erdedy",
         "motifs": [ "Marijuana" ],
         "footnotes": [ ]
     },
@@ -109,7 +109,7 @@
             "present": [ "Hal Incandenza", "James Orin Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -123,7 +123,7 @@
             "present": [ "Hal Incandenza", "Orin Incandenza", "Mario Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -137,7 +137,7 @@
             "present": [ "Medical Attache" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -151,7 +151,7 @@
             "present": [ "Clenette Henderson", "Wardine" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -165,7 +165,7 @@
             "present": [ "Bruce Green", "Mildred Bonk" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -179,7 +179,7 @@
             "present": [ "Hal Incandenza", "Mario Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -193,7 +193,7 @@
             "present": [ "Medical Attache" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -207,7 +207,7 @@
             "present": [ "Orin Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -221,7 +221,7 @@
             "present": [ "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -235,7 +235,7 @@
             "present": [ "Don Gately" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -249,7 +249,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -263,7 +263,7 @@
             "present": [ "Jim Troeltsch" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -277,7 +277,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -291,7 +291,7 @@
             "present": [ "James Orin Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -305,7 +305,7 @@
             "present": [ "Orin Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -319,7 +319,7 @@
             "present": [ "Michael Pemulis" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -333,7 +333,7 @@
             "present": [ "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -347,7 +347,7 @@
             "present": [ "Kate Gompert" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -361,7 +361,7 @@
             "present": [ "Medical Attache" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -375,7 +375,7 @@
             "present": [ "Gerhardt Schtitt", "Mario Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -389,7 +389,7 @@
             "present": [ "Tiny Ewell" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -403,7 +403,7 @@
             "present": [ "Medical Attache" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -417,7 +417,7 @@
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -431,7 +431,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -445,7 +445,7 @@
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -459,7 +459,7 @@
             "present": [ "Jim Troeltsch", "Michael Pemulis", "John Wayne", "Ortho Stice", "Jim Struck Jr.", "Keith \"The Viking\" Freer", "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -473,7 +473,7 @@
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -487,7 +487,7 @@
             "present": [ "Jim Troeltsch", "Michael Pemulis", "John Wayne", "Ortho Stice", "Jim Struck Jr.", "Keith \"The Viking\" Freer", "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -501,7 +501,7 @@
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -515,7 +515,7 @@
             "present": [ "Jim Troeltsch", "John Wayne", "Ortho Stice", "Jim Struck Jr.", "Hal Incandenza", "Idris Arslanian", "Evan Ingersoll", "Kent Blott" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -529,7 +529,7 @@
             "present": [ "Mario Incandenza", "\"USS\" Millicent Kent" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -543,7 +543,7 @@
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -557,7 +557,7 @@
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -571,7 +571,7 @@
             "present": [ "Lyle" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -585,7 +585,7 @@
             "present": [ "Poor Tony Krause" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -599,7 +599,7 @@
             "present": [ "Hal Incandenza", "Orin Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -613,7 +613,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -627,7 +627,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -641,7 +641,7 @@
             "present": [ "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -655,7 +655,7 @@
             "present": [ "Hugh/Helen Steeply", "Poor Tony Krause" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -669,7 +669,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -683,7 +683,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -697,7 +697,7 @@
             "present": [ "Michael Pemulis" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -711,7 +711,7 @@
             "present": [ "James Orin Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -725,7 +725,7 @@
             "present": [ "Michael Pemulis" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -739,7 +739,7 @@
             "present": [ "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -753,7 +753,7 @@
             "present": [ "Pat Montesian" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -767,7 +767,7 @@
             "present": [ "Madame Psychosis", "Mario Incandenza", "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -781,7 +781,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -795,7 +795,7 @@
             "present": [ "Keith \"The Viking\" Freer", "Eliot Kornspan", "Graham Rader", "Lyle", "Michael Pemulis" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -809,7 +809,7 @@
             "present": [ "Tiny Ewell" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -823,7 +823,7 @@
             "present": [ "Michael Pemulis" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -837,7 +837,7 @@
             "present": [ "Joelle Van Dyne", "Molly Notkin" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -851,7 +851,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -865,7 +865,7 @@
             "present": [ "Joelle Van Dyne", "Orin Incandenza", "James Orin Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -879,7 +879,7 @@
             "present": [ "Hugh/Helen Steeply", "Poor Tony Krause" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -893,7 +893,7 @@
             "present": [ "Joelle Van Dyne", "Molly Notkin" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -907,7 +907,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -921,7 +921,7 @@
             "present": [ "Hal Incandenza", "Orin Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -935,7 +935,7 @@
             "present": [ "Hal Incandenza", "John Wayne", "Michael Pemulis", "Ted Schacht" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -949,7 +949,7 @@
             "present": [ "Don Gately", "Geoffrey Day", "Charlotte Treat", "Randy Lenz" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -963,7 +963,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -977,7 +977,7 @@
             "present": [ "Orin Incandenza", "Joelle Van Dyne" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -991,7 +991,7 @@
             "present": [ "Poor Tony Krause" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1005,7 +1005,7 @@
             "present": [ "Hal Incandenza", "Jim Troeltsch" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1019,7 +1019,7 @@
             "present": [ "Mario Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1033,7 +1033,7 @@
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1047,7 +1047,7 @@
             "present": [ "Michael Pemulis", "Hal Incandenza", "Evan Ingersoll", "Jim Troeltsch", "LaMont Chu", "Jim Struck Jr.", "Otis P. Lord", "Trevor \"The Axehandle\" Axford", "Josh Gopnik", "J. J. Penn", "Keiran McKenna", "Todd \"Postal Weight\" Poselthwaite", "Ann Kittenplan", "Timmy \"Sleepy TP\" Peterson", "Mary Esther Thode" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1061,7 +1061,7 @@
             "present": [ "Don Gately", "Joelle Van Dyne" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1075,7 +1075,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1089,7 +1089,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1103,7 +1103,7 @@
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1117,7 +1117,7 @@
             "present": [ "James Orin Incandenza", "Lyle" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1131,7 +1131,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1145,7 +1145,7 @@
             "present": [ "James Orin Incandenza", "Lyle" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1159,7 +1159,7 @@
             "present": [ "Mario Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1173,7 +1173,7 @@
             "present": [ "Lyle", "Mario Incandenza", "Marlon Bain" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1187,7 +1187,7 @@
             "present": [ "Lyle", "Ortho Stice" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1201,7 +1201,7 @@
             "present": [ "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1215,7 +1215,7 @@
             "present": [ "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1229,7 +1229,7 @@
             "present": [ "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1243,7 +1243,7 @@
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1257,7 +1257,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1271,7 +1271,7 @@
             "present": [ "Don Gately" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1285,7 +1285,7 @@
             "present": [ "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1299,7 +1299,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1313,7 +1313,7 @@
             "present": [ "James Orin Incandenza", "Lyle" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1327,7 +1327,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1341,7 +1341,7 @@
             "present": [ "Don Gately" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1355,7 +1355,7 @@
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1369,7 +1369,7 @@
             "present": [ "Don Gately", "Pat Montesian" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1383,7 +1383,7 @@
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1397,7 +1397,7 @@
             "present": [ "James Orin Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1411,7 +1411,7 @@
             "present": [ "Ken Erdedy" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1425,7 +1425,7 @@
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1439,7 +1439,7 @@
             "present": [ "Hal Incandenza", "Charles Tavis", "\"Lateral\" Alice Moore", "Avril Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1453,7 +1453,7 @@
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1467,7 +1467,7 @@
             "present": [ "Don Gately", "Joelle Van Dyne" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1481,7 +1481,7 @@
             "present": [ "Randy Lenz" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1495,7 +1495,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1509,7 +1509,7 @@
             "present": [ "Rodney Tine Sr." ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1523,7 +1523,7 @@
             "present": [ "Michael Pemulis", "John Wayne", "Avril Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1537,7 +1537,7 @@
             "present": [ "Randy Lenz", "Bruce Green" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1551,7 +1551,7 @@
             "present": [ "Hal Incandenza", "John Wayne" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1565,7 +1565,7 @@
             "present": [ "Randy Lenz", "Bruce Green" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1579,7 +1579,7 @@
             "present": [ "Don Gately" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1593,7 +1593,7 @@
             "present": [ "Orin Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1607,7 +1607,7 @@
             "present": [ "Idris Arslanian", "Ted Schacht", "Michael Pemulis" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1621,7 +1621,7 @@
             "present": [ "Orin Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1635,7 +1635,7 @@
             "present": [ "Randy Lenz", "Bruce Green" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1649,7 +1649,7 @@
             "present": [ "Mario Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1663,7 +1663,7 @@
             "present": [ "Don Gately" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1677,7 +1677,7 @@
             "present": [ "Orin Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1691,7 +1691,7 @@
             "present": [ "Don Gately" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1705,7 +1705,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1719,7 +1719,7 @@
             "present": [ "Jim Troeltsch" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1733,7 +1733,7 @@
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1747,7 +1747,7 @@
             "present": [ "Kate Gompert", "Geoffrey Day", "Bruce Green" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1761,7 +1761,7 @@
             "present": [ "Ortho Stice", "Hal Incandenza", "Don Gately", "Poor Tony Krause", "Michael Pemulis", "Jim Struck Jr.", "Hugh/Helen Steeply", "Charles Tavis", "Orin Incandenza", "Aubrey deLint" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1775,7 +1775,7 @@
             "present": [ "Hugh/Helen Steeply", "Mildred Bonk" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1789,7 +1789,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1803,7 +1803,7 @@
             "present": [ "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1817,7 +1817,7 @@
             "present": [ "Matty Pemulis" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1831,7 +1831,7 @@
             "present": [ "Matty Pemulis" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1845,7 +1845,7 @@
             "present": [ "Poor Tony Krause" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1859,7 +1859,7 @@
             "present": [ "Geoffrey Day", "Randy Lenz" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1873,7 +1873,7 @@
             "present": [ "Kate Gompert" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1887,7 +1887,7 @@
             "present": [ "Kate Gompert", "Ruth van Cleve", "Poor Tony Krause" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1901,7 +1901,7 @@
             "present": [ "Jim Troeltsch" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1915,7 +1915,7 @@
             "present": [ "Michael Pemulis" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1929,7 +1929,7 @@
             "present": [ "Lyle" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1943,7 +1943,7 @@
             "present": [ "Mario Incandenza", "Gerhardt Schtitt" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1957,7 +1957,7 @@
             "present": [ "Avril Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1971,7 +1971,7 @@
             "present": [ "Hal Incandenza", "Joelle Van Dyne" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1985,7 +1985,7 @@
             "present": [ "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -1999,7 +1999,7 @@
             "present": [ "Kate Gompert", "Poor Tony Krause" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2013,7 +2013,7 @@
             "present": [ "Randy Lenz" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2027,7 +2027,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2041,7 +2041,7 @@
             "present": [ "Poor Tony Krause", "Ruth van Cleve" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2055,7 +2055,7 @@
             "present": [ "M. Fortier" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2069,7 +2069,7 @@
             "present": [ "M. Fortier" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2083,7 +2083,7 @@
             "present": [ "Joelle Van Dyne", "Molly Notkin" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2097,7 +2097,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2111,7 +2111,7 @@
             "present": [ "Randy Lenz" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2125,7 +2125,7 @@
             "present": [ "Remy Marathe" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2139,7 +2139,7 @@
             "present": [ "Joelle Van Dyne" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2153,7 +2153,7 @@
             "present": [ "Remy Marathe" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2167,7 +2167,7 @@
             "present": [ "Joelle Van Dyne" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2181,7 +2181,7 @@
             "present": [ "Remy Marathe", "Pat Montesian" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2195,7 +2195,7 @@
             "present": [ "Mario Incandenza", "Avril Incandenza", "LaMont Chu" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2209,7 +2209,7 @@
             "present": [ "Mario Incandenza", "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2223,7 +2223,7 @@
             "present": [ "Remy Marathe", "Kate Gompert" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2237,7 +2237,7 @@
             "present": [ "Remy Marathe", "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2251,7 +2251,7 @@
             "present": [ "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2265,7 +2265,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2279,7 +2279,7 @@
             "present": [ "Molly Notkin", "Rodney Tine Jr." ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2293,7 +2293,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2307,7 +2307,7 @@
             "present": [ "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2321,7 +2321,7 @@
             "present": [ "Don Gately", "Tiny Ewell", "Joelle Van Dyne", "Pat Montesian" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2335,7 +2335,7 @@
             "present": [ "Don Gately" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2349,7 +2349,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2363,7 +2363,7 @@
             "present": [ "Don Gately" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2377,7 +2377,7 @@
             "present": [ "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2391,7 +2391,7 @@
             "present": [ "Don Gately", "Joelle Van Dyne" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2405,7 +2405,7 @@
             "present": [ "Ortho Stice" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2419,7 +2419,7 @@
             "present": [ "Rodney Tine Sr." ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2433,7 +2433,7 @@
             "present": [ "Don Gately" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2447,7 +2447,7 @@
             "present": [ "Hal Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2461,7 +2461,7 @@
             "present": [ "Don Gately" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2475,7 +2475,7 @@
             "present": [ "Hal Incandenza", "Michael Pemulis" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2489,7 +2489,7 @@
             "present": [ "Don Gately" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2503,7 +2503,7 @@
             "present": [ "Michael Pemulis" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2517,7 +2517,7 @@
             "present": [ "Don Gately" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2531,7 +2531,7 @@
             "present": [ "Joelle Van Dyne" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2545,7 +2545,7 @@
             "present": [ "Don Gately" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2559,7 +2559,7 @@
             "present": [ "Joelle Van Dyne", "Hugh/Helen Steeply" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2573,7 +2573,7 @@
             "present": [ "Hal Incandenza", "Mario Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2587,7 +2587,7 @@
             "present": [ "Joelle Van Dyne" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2601,7 +2601,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2615,7 +2615,7 @@
             "present": [ "Pat Montesian" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2629,7 +2629,7 @@
             "present": [ "" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2643,7 +2643,7 @@
             "present": [ "Orin Incandenza" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     },
@@ -2657,7 +2657,7 @@
             "present": [ "Don Gately" ],
             "absent": [ ]
         },
-        "narrator": [ ],
+        "narrator": "",
         "motifs": [ ],
         "footnotes": [ ]
     }
