@@ -81,7 +81,7 @@
         "motifs": [
             "Emergency room",
             "Knife in lavatory mirror",
-            "Quebecois woman titty",
+            "Quebecois woman's titty",
             "Himself's head"
         ]
     },
@@ -95,8 +95,8 @@
             "present": [ "Ken Erdedy" ],
             "absent": [ ]
         },
-        "narrator": [ ],
-        "motifs": [ ],
+        "narrator": [ "Ken Erdedy" ],
+        "motifs": [ "Marijuana" ],
         "footnotes": [ ]
     },
     {
@@ -1758,7 +1758,7 @@
         "location": "",
         "synopsis": "The match between Stice and Hal. Narrrative \"clicks\" to scan Gatley, Poor Tony, Pemulis and Struck, Steeply's sedan, CT and even Orin in Arizona.  Steeply chats with Aubrey deLint as they watch the match.",
         "characters": {
-            "present": [ "Ortho Stice", "Hal Incandenza", "Don Gately", "Poor Tony Krause", "Michael Pemulis", "Jim Struck Jr.", "Hugh/Helen Steeply", "Charles Tavis", "Orin Incandenza", "Aubrey DeLint" ],
+            "present": [ "Ortho Stice", "Hal Incandenza", "Don Gately", "Poor Tony Krause", "Michael Pemulis", "Jim Struck Jr.", "Hugh/Helen Steeply", "Charles Tavis", "Orin Incandenza", "Aubrey deLint" ],
             "absent": [ ]
         },
         "narrator": [ ],
