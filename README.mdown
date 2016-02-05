@@ -1,0 +1,30 @@
+*Infinite Jest* Analysis
+------------------------
+
+The idea is to describe data about *Infinite Jest* in a machine-readable
+format on which it will be then possible to write analysis, correlation
+and (above all) visualisation and exploration tools.
+
+The data is in a JSON file consisting in a array of sections, each
+one being a hash with the following keys:
+
+    chapter: chapter number (except footnotes)
+    section: section number, sequential (except footnotes)
+    footnote: footnote number (if this describes a footnote)
+    footnotes: list of footnotes called in this section or footnote
+    date: array consisting of
+        - year (gregorian or subsidized)
+        - month (empty string if unknown)
+        - day (empty string if unknown)
+        - comments (if applicable)
+    location: broadly defined physical location
+    synopsis: short synopsis of the section
+    characters: hash consisting of
+        present: array of present characters
+        absent: array of characters only mentioned by name
+    narrator: name of the narrator if applicable, else empty
+    motifs: array of various items that appear at least twice in the book
+
+The initial data set, notably synopses and division in numbered sections, has
+been taken from [*Infinite Jest: a scene-by-scene
+guide*](http://faculty.sunydutchess.edu/oneill/Infinite.htm), by Keith O'Neill.
