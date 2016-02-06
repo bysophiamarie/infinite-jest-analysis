@@ -4,7 +4,7 @@
         "section": "1",
         "date": [ "Year of Glad", "", "" ],
         "location": "University of Arizona",
-        "synopsis": "Hal narrates: interview with University of Arizona Deans. Questions regarding Hal's rather stellar record.",
+        "synopsis": "Hal narrates: interview with University of Arizona Deans. Questions regarding Hal's subnormal grades.",
         "characters": {
             "present": [
                 "Hal Incandenza", "Charles Tavis", "Aubrey deLint",
@@ -81,37 +81,63 @@
         "motifs": [
             "Emergency room",
             "Knife in lavatory mirror",
-            "Quebecois woman's titty",
-            "Himself's head"
+            "Québecois woman's titty",
+            "Himself's head",
+            "O.E.D."
         ]
     },
     {
         "chapter": "2",
         "section": "6",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
-        "location": "",
+        "location": "Boston? Cambridge?",
         "synopsis": "Ken Erdedy, preparing for a marijuana binge, waits for a woman to deliver the goods.",
         "characters": {
-            "present": [ "Ken Erdedy" ],
-            "absent": [ ]
+            "present": [ "Ken Erdedy" ]
         },
         "narrator": "Ken Erdedy",
-        "motifs": [ "Marijuana" ],
-        "footnotes": [ ]
+        "motifs": [ "Marijuana", "Allston Spur", "Appropriation art", "Visine", "E.W.D." ],
+        "footnotes": [ "1" ]
+    },
+    {
+        "chapter": "2",
+        "section": "6",
+        "footnote": "1",
+        "motifs": [ "Meth" ]
     },
     {
         "chapter": "3",
         "section": "7",
         "date": [ "Year of the Tucks Medicated Pad", "4", "1" ],
-        "location": "",
-        "synopsis": "12-year-old Hal goes to see a \"conversation\" doctor, who turns out to be his father in disguise.",
+        "location": "An office near ETA",
+        "synopsis": "10-year-old Hal goes to see a \"conversation\" doctor, who turns out to be his father in disguise.",
         "characters": {
             "present": [ "Hal Incandenza", "James Orin Incandenza" ],
-            "absent": [ ]
+            "absent": [
+                "Dr. Zegarelli",
+                "M. DuPlessis",
+                "Luria P---",
+                "Avril Incandenza",
+                "Medical Attaché",
+                "Ted Schacht"
+            ]
         },
-        "narrator": "",
-        "motifs": [ ],
-        "footnotes": [ ]
+        "narrator": "none (dialogue)",
+        "motifs": [
+            "April 1st",
+            "Teeth",
+            "Saliva",
+            "O.E.D.",
+            "Byzantine Erotica",
+            "Québec",
+            "Wild Turkey",
+            "Ski",
+            "Dunlop",
+            "Himself's head",
+            "Appropriation art",
+            "Interdependence Day",
+            "Fifth wall"
+        ]
     },
     {
         "chapter": "4",
@@ -134,7 +160,7 @@
         "location": "",
         "synopsis": "The medical attaché comes home to relax and watch some \"Entertainment\".",
         "characters": {
-            "present": [ "Medical Attache" ],
+            "present": [ "Medical Attaché" ],
             "absent": [ ]
         },
         "narrator": "",
@@ -190,7 +216,7 @@
         "location": "",
         "synopsis": "The medical attaché is still watching the \"Entertainment\"",
         "characters": {
-            "present": [ "Medical Attache" ],
+            "present": [ "Medical Attaché" ],
             "absent": [ ]
         },
         "narrator": "",
@@ -358,7 +384,7 @@
         "location": "",
         "synopsis": "The medical attaché's wife returns home.",
         "characters": {
-            "present": [ "Medical Attache" ],
+            "present": [ "Medical Attaché" ],
             "absent": [ ]
         },
         "narrator": "",
@@ -400,7 +426,7 @@
         "location": "",
         "synopsis": "The list of people who have come to the medical attaché's house to look at him.",
         "characters": {
-            "present": [ "Medical Attache" ],
+            "present": [ "Medical Attaché" ],
             "absent": [ ]
         },
         "narrator": "",
@@ -2344,7 +2370,7 @@
         "section": "167",
         "date": [ "Year of the Depend Adult Undergarment", "11", "16" ],
         "location": "",
-        "synopsis": "The AFR's plan to replace the Quebecois tennis players en route to ETA.",
+        "synopsis": "The AFR's plan to replace the Québecois tennis players en route to ETA.",
         "characters": {
             "present": [ "" ],
             "absent": [ ]
@@ -2638,7 +2664,7 @@
         "section": "188",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "location": "",
-        "synopsis": "Orin in a huge inverted glass, interrogation by Luria P------",
+        "synopsis": "Orin in a huge inverted glass, interrogation by Luria P---",
         "characters": {
             "present": [ "Orin Incandenza" ],
             "absent": [ ]
