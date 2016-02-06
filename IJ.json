@@ -28,7 +28,7 @@
         "narrator": "Hal Incandenza",
         "motifs": [
             "Garden", "Popsicle sticks", "Rototiller",
-            "Winnie-the-Pooh toddler wear", "Mold"
+            "Winnie-the-Pooh toddler wear", "Mold/Yeast/Fungus"
         ]
     },
     {
@@ -90,7 +90,7 @@
         "chapter": "2",
         "section": "6",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
-        "location": "Boston? Cambridge?",
+        "location": "Ken Erdedy's apartment. Boston? Cambridge?",
         "synopsis": "Ken Erdedy, preparing for a marijuana binge, waits for a woman to deliver the goods.",
         "characters": {
             "present": [ "Ken Erdedy" ]
@@ -143,29 +143,35 @@
         "chapter": "4",
         "section": "8",
         "date": [ "Year of the Depend Adult Undergarment", "5", "9" ],
-        "location": "",
+        "location": "ETA, Hal and Mario's room",
         "synopsis": "Hal gets phone call from Orin, Mario wakes up.",
         "characters": {
-            "present": [ "Hal Incandenza", "Orin Incandenza", "Mario Incandenza" ],
-            "absent": [ ]
+            "present": [
+                "Hal Incandenza", "Orin Incandenza", "Mario Incandenza",
+                "Brandt", "Kenkle"
+            ]
         },
-        "narrator": "",
-        "motifs": [ ],
-        "footnotes": [ ]
+        "motifs": [ "Dunlop" ]
     },
     {
         "chapter": "5",
         "section": "9",
         "date": [ "Year of the Depend Adult Undergarment", "4", "1" ],
-        "location": "",
+        "location": "Medical Attaché's apartment, Boston",
         "synopsis": "The medical attaché comes home to relax and watch some \"Entertainment\".",
         "characters": {
             "present": [ "Medical Attaché" ],
-            "absent": [ ]
+            "absent": [ "Prince Q---", "Medical Attaché's wife" ]
         },
-        "narrator": "",
-        "motifs": [ ],
-        "footnotes": [ ]
+        "motifs": [
+            "April 1st",
+            "Statue of Liberty",
+            "Mold/Yeast/Fungus",
+            "Mr. Bouncety-Bounce",
+            "Tawni Kondo",
+            "Byzantine Erotica",
+            "The Entertainment"
+        ]
     },
     {
         "chapter": "5",
@@ -177,7 +183,7 @@
             "present": [ "Clenette Henderson", "Wardine" ],
             "absent": [ ]
         },
-        "narrator": "",
+        "narrator": "Clenette",
         "motifs": [ ],
         "footnotes": [ ]
     },
