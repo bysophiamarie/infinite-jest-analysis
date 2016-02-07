@@ -8,10 +8,10 @@ and (above all) visualisation and exploration tools.
 The data is in a JSON file consisting in a array of sections, each
 one being a hash with the following keys:
 
-    chapter: chapter number (except footnotes)
-    section: section number, sequential (except footnotes)
-    footnote: footnote number (if this describes a footnote)
-    footnotes: list of footnotes called in this section or footnote
+    chapter: chapter number (except endnotes)
+    section: section number, sequential (except endnotes)
+    endnote: endnote number (if this describes a endnote)
+    endnotes: list of endnotes called in this section or endnote
     date: array consisting of
         - year (gregorian or subsidized)
         - month (empty string if unknown)

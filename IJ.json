@@ -97,12 +97,12 @@
         },
         "narrator": "Ken Erdedy",
         "motifs": [ "Marijuana", "Allston Spur", "Appropriation art", "Visine", "E.W.D." ],
-        "footnotes": [ "1" ]
+        "endnotes": [ "1" ]
     },
     {
         "chapter": "2",
         "section": "6",
-        "footnote": "1",
+        "endnote": "1",
         "motifs": [ "Meth" ]
     },
     {
@@ -185,7 +185,7 @@
         },
         "narrator": "Clenette",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "5",
@@ -199,7 +199,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "6",
@@ -213,7 +213,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "6",
@@ -227,7 +227,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "6",
@@ -241,7 +241,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "7",
@@ -255,7 +255,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "7",
@@ -269,7 +269,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "7",
@@ -283,7 +283,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "7",
@@ -297,7 +297,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "7",
@@ -311,7 +311,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "8",
@@ -325,7 +325,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "8",
@@ -339,7 +339,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "9",
@@ -353,7 +353,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "9",
@@ -367,7 +367,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "10",
@@ -381,7 +381,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "10",
@@ -395,7 +395,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "10",
@@ -409,7 +409,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "10",
@@ -423,7 +423,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "11",
@@ -437,7 +437,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "11",
@@ -451,7 +451,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "11",
@@ -465,7 +465,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "11",
@@ -479,7 +479,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "11",
@@ -493,7 +493,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "11",
@@ -507,7 +507,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "11",
@@ -521,7 +521,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "11",
@@ -535,7 +535,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "11",
@@ -549,7 +549,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "11",
@@ -563,7 +563,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "11",
@@ -577,7 +577,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "11",
@@ -591,7 +591,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "12",
@@ -605,7 +605,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "12",
@@ -619,7 +619,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "13",
@@ -633,7 +633,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "13",
@@ -647,7 +647,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "13",
@@ -661,7 +661,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "13",
@@ -675,7 +675,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "13",
@@ -689,7 +689,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "13",
@@ -703,7 +703,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "13",
@@ -717,7 +717,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "14",
@@ -731,7 +731,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "15",
@@ -745,7 +745,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "15",
@@ -759,7 +759,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "15",
@@ -773,7 +773,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "15",
@@ -787,7 +787,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "16",
@@ -801,7 +801,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "16",
@@ -815,7 +815,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "16",
@@ -829,7 +829,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "16",
@@ -843,7 +843,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "16",
@@ -857,7 +857,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "17",
@@ -871,7 +871,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "17",
@@ -885,7 +885,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "17",
@@ -899,7 +899,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "17",
@@ -913,7 +913,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "17",
@@ -927,7 +927,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "18",
@@ -941,7 +941,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "18",
@@ -955,7 +955,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "19",
@@ -969,7 +969,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "19",
@@ -983,7 +983,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "19",
@@ -997,7 +997,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "20",
@@ -1011,7 +1011,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "20",
@@ -1025,7 +1025,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "21",
@@ -1039,7 +1039,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "21",
@@ -1053,7 +1053,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "21",
@@ -1067,7 +1067,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "22",
@@ -1081,7 +1081,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "22",
@@ -1095,7 +1095,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "22",
@@ -1109,7 +1109,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "22",
@@ -1123,7 +1123,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "22",
@@ -1137,7 +1137,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "22",
@@ -1151,7 +1151,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "22",
@@ -1165,7 +1165,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "22",
@@ -1179,7 +1179,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "23",
@@ -1193,7 +1193,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "23",
@@ -1207,7 +1207,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "23",
@@ -1221,7 +1221,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "23",
@@ -1235,7 +1235,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "23",
@@ -1249,7 +1249,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "23",
@@ -1263,7 +1263,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "23",
@@ -1277,7 +1277,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "23",
@@ -1291,7 +1291,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "23",
@@ -1305,7 +1305,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "23",
@@ -1319,7 +1319,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "24",
@@ -1333,7 +1333,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "24",
@@ -1347,7 +1347,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "24",
@@ -1361,7 +1361,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "24",
@@ -1375,7 +1375,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "24",
@@ -1389,7 +1389,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "24",
@@ -1403,7 +1403,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "25",
@@ -1417,7 +1417,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "25",
@@ -1431,7 +1431,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "25",
@@ -1445,7 +1445,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "25",
@@ -1459,7 +1459,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "25",
@@ -1473,7 +1473,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "25",
@@ -1487,7 +1487,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "25",
@@ -1501,7 +1501,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1515,7 +1515,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1529,7 +1529,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1543,7 +1543,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1557,7 +1557,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1571,7 +1571,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1585,7 +1585,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1599,7 +1599,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1613,7 +1613,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1627,7 +1627,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1641,7 +1641,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1655,7 +1655,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1669,7 +1669,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1683,7 +1683,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1697,7 +1697,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1711,7 +1711,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "26",
@@ -1725,7 +1725,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1739,7 +1739,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1753,7 +1753,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1767,7 +1767,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1781,7 +1781,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1795,7 +1795,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1809,7 +1809,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1823,7 +1823,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1837,7 +1837,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1851,7 +1851,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1865,7 +1865,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1879,7 +1879,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1893,7 +1893,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1907,7 +1907,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1921,7 +1921,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1935,7 +1935,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1949,7 +1949,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1963,7 +1963,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1977,7 +1977,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -1991,7 +1991,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2005,7 +2005,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2019,7 +2019,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2033,7 +2033,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2047,7 +2047,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2061,7 +2061,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2075,7 +2075,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2089,7 +2089,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2103,7 +2103,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2117,7 +2117,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2131,7 +2131,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2145,7 +2145,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2159,7 +2159,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2173,7 +2173,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2187,7 +2187,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2201,7 +2201,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2215,7 +2215,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2229,7 +2229,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2243,7 +2243,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2257,7 +2257,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2271,7 +2271,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2285,7 +2285,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2299,7 +2299,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2313,7 +2313,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2327,7 +2327,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "27",
@@ -2341,7 +2341,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2355,7 +2355,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2369,7 +2369,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2383,7 +2383,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2397,7 +2397,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2411,7 +2411,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2425,7 +2425,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2439,7 +2439,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2453,7 +2453,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2467,7 +2467,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2481,7 +2481,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2495,7 +2495,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2509,7 +2509,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2523,7 +2523,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2537,7 +2537,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2551,7 +2551,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2565,7 +2565,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2579,7 +2579,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2593,7 +2593,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2607,7 +2607,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2621,7 +2621,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2635,7 +2635,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2649,7 +2649,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2663,7 +2663,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2677,7 +2677,7 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     },
     {
         "chapter": "28",
@@ -2691,6 +2691,6 @@
         },
         "narrator": "",
         "motifs": [ ],
-        "footnotes": [ ]
+        "endnotes": [ ]
     }
 ]
