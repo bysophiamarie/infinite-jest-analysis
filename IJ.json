@@ -3,6 +3,7 @@
         "chapter": "1",
         "section": "1",
         "date": [ "Year of Glad", "", "" ],
+        "cluster": "ETA",
         "location": "University of Arizona",
         "synopsis": "Hal narrates: interview with University of Arizona Deans. Questions regarding Hal's subnormal grades.",
         "characters": {
@@ -20,6 +21,7 @@
         "chapter": "1",
         "section": "2",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "ETA",
         "location": "Weston",
         "synopsis": "Hal narrates: Eating the mold.",
         "characters": {
@@ -35,6 +37,7 @@
         "chapter": "1",
         "section": "3",
         "date": [ "Year of Glad", "", "" ],
+        "cluster": "ETA",
         "location": "University of Arizona",
         "synopsis": "Hal attempts to explain his record to the deans. Is there something wrong with his voice?",
         "characters": {
@@ -51,6 +54,7 @@
         "chapter": "1",
         "section": "4",
         "date": [ "Year of Glad", "", "" ],
+        "cluster": "ETA",
         "location": "University of Arizona",
         "synopsis": "Hal restrained in a University of Arizona men's room.",
         "characters": {
@@ -67,6 +71,7 @@
         "chapter": "1",
         "section": "5",
         "date": [ "Year of Glad", "", "" ],
+        "cluster": "ETA",
         "location": "University of Arizona",
         "synopsis": "Hal is taken away in an ambulance.",
         "characters": {
@@ -90,6 +95,7 @@
         "chapter": "2",
         "section": "6",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "Ennett",
         "location": "Ken Erdedy's apartment. Boston? Cambridge?",
         "synopsis": "Ken Erdedy, preparing for a marijuana binge, waits for a woman to deliver the goods.",
         "characters": {
@@ -109,6 +115,7 @@
         "chapter": "3",
         "section": "7",
         "date": [ "Year of the Tucks Medicated Pad", "4", "1" ],
+        "cluster": "ETA",
         "location": "An office near ETA",
         "synopsis": "10-year-old Hal goes to see a \"conversation\" doctor, who turns out to be his father in disguise.",
         "characters": {
@@ -143,6 +150,7 @@
         "chapter": "4",
         "section": "8",
         "date": [ "Year of the Depend Adult Undergarment", "5", "9" ],
+        "cluster": "ETA",
         "location": "ETA, Hal and Mario's room",
         "synopsis": "Hal gets phone call from Orin, Mario wakes up.",
         "characters": {
@@ -157,6 +165,7 @@
         "chapter": "5",
         "section": "9",
         "date": [ "Year of the Depend Adult Undergarment", "4", "1" ],
+        "cluster": "AFR",
         "location": "Medical Attaché's apartment, Boston",
         "synopsis": "The medical attaché comes home to relax and watch some \"Entertainment\".",
         "characters": {
@@ -177,6 +186,7 @@
         "chapter": "5",
         "section": "10",
         "date": [ "Year of the Trial-Size Dove Bar", "", "" ],
+        "cluster": "Ennett",
         "location": "",
         "synopsis": "Clenette narrates: tells a tale about her friend Wardine's abusive family.",
         "characters": {
@@ -191,6 +201,7 @@
         "chapter": "5",
         "section": "11",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "The tale of Bruce Green and Mildred Bonk.",
         "characters": {
@@ -205,6 +216,7 @@
         "chapter": "6",
         "section": "12",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal and Mario in their room at night. They discuss Himself's funeral.",
         "characters": {
@@ -219,6 +231,7 @@
         "chapter": "6",
         "section": "13",
         "date": [ "Year of the Depend Adult Undergarment", "4", "1" ],
+        "cluster": "",
         "location": "",
         "synopsis": "The medical attaché is still watching the \"Entertainment\"",
         "characters": {
@@ -233,6 +246,7 @@
         "chapter": "6",
         "section": "14",
         "date": [ "Year of the Depend Adult Undergarment", "10/16", "October" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Orin wakes up in Arizona, wishes last night's \"subject\" would leave.",
         "characters": {
@@ -247,6 +261,7 @@
         "chapter": "7",
         "section": "15",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "17-year-old Hal getting high in the basement of Enfield Tennis Academy.",
         "characters": {
@@ -261,6 +276,7 @@
         "chapter": "7",
         "section": "16",
         "date": [ "Year of Dairy Products from the American Heartland", "9/22", "Autumn" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Don Gately's criminal career comes to an end after accidentally murdering a Canadian VIP during a robbery. This VIP has ties to various anti-ONAN groups.",
         "characters": {
@@ -275,6 +291,7 @@
         "chapter": "7",
         "section": "17",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Description of a state-of-the-art teleputer.",
         "characters": {
@@ -289,6 +306,7 @@
         "chapter": "7",
         "section": "18",
         "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Troeltsch sick in bed at ETA.",
         "characters": {
@@ -303,6 +321,7 @@
         "chapter": "7",
         "section": "19",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Description of 12 yr old's nightmare at ETA.",
         "characters": {
@@ -317,6 +336,7 @@
         "chapter": "8",
         "section": "20",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Brief description and history of ETA and its founder, James O. Incandenza.",
         "characters": {
@@ -331,6 +351,7 @@
         "chapter": "8",
         "section": "21",
         "date": [ "Year of the Depend Adult Undergarment", "11", "1" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Orin at football practice.",
         "characters": {
@@ -345,6 +366,7 @@
         "chapter": "9",
         "section": "22",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Michael Pemulis as \"Big Buddy,\" talks about drugs to his younger charges",
         "characters": {
@@ -359,6 +381,7 @@
         "chapter": "9",
         "section": "23",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal, after a bong hit, relates a tennis dream.",
         "characters": {
@@ -373,6 +396,7 @@
         "chapter": "10",
         "section": "24",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Kate Gompert explains the extent of her addiction to marijuana (\"Bob Hope\") to a young doctor.",
         "characters": {
@@ -387,6 +411,7 @@
         "chapter": "10",
         "section": "25",
         "date": [ "Year of the Depend Adult Undergarment", "4", "2" ],
+        "cluster": "",
         "location": "",
         "synopsis": "The medical attaché's wife returns home.",
         "characters": {
@@ -401,6 +426,7 @@
         "chapter": "10",
         "section": "26",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gerhardt Schtitt and Mario talk game theory.",
         "characters": {
@@ -415,6 +441,7 @@
         "chapter": "10",
         "section": "27",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Tiny Ewell and an unnamed passenger are transported to the Enfield Marine VA hospital.",
         "characters": {
@@ -429,6 +456,7 @@
         "chapter": "11",
         "section": "28",
         "date": [ "Year of the Depend Adult Undergarment", "4", "2" ],
+        "cluster": "",
         "location": "",
         "synopsis": "The list of people who have come to the medical attaché's house to look at him.",
         "characters": {
@@ -443,6 +471,7 @@
         "chapter": "11",
         "section": "29",
         "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Tuscon, Arizona: Marathe and special agent Hugh Steeply (in drag) meet on a hillside to discuss the appearance, earlier that month, of a special form of \"Entertainment\".",
         "characters": {
@@ -457,6 +486,7 @@
         "chapter": "11",
         "section": "30",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Description of a herd of feral hamsters in the Great Concavity",
         "characters": {
@@ -471,6 +501,7 @@
         "chapter": "11",
         "section": "31",
         "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe and Steeply continued.",
         "characters": {
@@ -485,6 +516,7 @@
         "chapter": "11",
         "section": "32",
         "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Locker room banter at ETA.  Troeltsch, Pemulis, Wayne, Stice, Struck, Freer and Hal are present.",
         "characters": {
@@ -499,6 +531,7 @@
         "chapter": "11",
         "section": "33",
         "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe and Steeply continued.  Sunset.",
         "characters": {
@@ -513,6 +546,7 @@
         "chapter": "11",
         "section": "34",
         "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
+        "cluster": "",
         "location": "",
         "synopsis": "More banter in the locker room.  Complaints about Schtitt's expectations of them.",
         "characters": {
@@ -527,6 +561,7 @@
         "chapter": "11",
         "section": "35",
         "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe and Steeply continued. Talk of love.",
         "characters": {
@@ -541,6 +576,7 @@
         "chapter": "11",
         "section": "36",
         "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal with his \"little buddies\" (Kent Blott, Idris Arslanian, Ingersol).  He convinces them that their resentment of Schtitt is engineered by Schtitt and his staff.  Switches to John (NR) Wayne, Troeltsch, Struck, and Stice, each with his group of younger students.",
         "characters": {
@@ -555,6 +591,7 @@
         "chapter": "11",
         "section": "37",
         "date": [ "Year of the Depend Adult Undergarment", "10/16", "Mid October" ],
+        "cluster": "",
         "location": "",
         "synopsis": "\"Mario Incandenza's first and Only Even Remotely Romantic Experience, Thus Far\".  It is indeed only remote, with \"USS\" Millicent Kent.",
         "characters": {
@@ -569,6 +606,7 @@
         "chapter": "11",
         "section": "38",
         "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe and Steeply continued.",
         "characters": {
@@ -583,6 +621,7 @@
         "chapter": "11",
         "section": "39",
         "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe and Steeply continued.  (One line)",
         "characters": {
@@ -597,6 +636,7 @@
         "chapter": "12",
         "section": "40",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "First description of the ETA's oiled guru, Lyle.",
         "characters": {
@@ -611,6 +651,7 @@
         "chapter": "12",
         "section": "41",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "\"Yrstruly\" narrates a gruesome story involving C, Poor Tony and the despicable Dr. Wo in Chinatown.  C ODs",
         "characters": {
@@ -625,6 +666,7 @@
         "chapter": "13",
         "section": "42",
         "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal receives a phone call from Orin, who asks him about Canadian separatism.",
         "characters": {
@@ -639,6 +681,7 @@
         "chapter": "13",
         "section": "43",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Introduction to the Ennett House Drug and Alcohol Recovery House (sic).",
         "characters": {
@@ -653,6 +696,7 @@
         "chapter": "13",
         "section": "44",
         "date": [ "Year of Dairy Products from the American Heartland", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Excerpt from a letter to State Farm detailing a bricklayer's bizarre accident.  This is perhaps Wallace's most obvious example of borrowing from urban myths.",
         "characters": {
@@ -667,6 +711,7 @@
         "chapter": "13",
         "section": "45",
         "date": [ "Year of the Perdue Wonderchicken", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal's seventh-grade essay comparing \"Hawaii-Five-O\"'s Steve McGarrett with \"Hill Street Blues\"'s Frank Furillo. The latter is a post-modern, more complicated, and perhaps too mild hero.",
         "characters": {
@@ -681,6 +726,7 @@
         "chapter": "13",
         "section": "46",
         "date": [ "Year of the Depend Adult Undergarment", "8", "10" ],
+        "cluster": "",
         "location": "",
         "synopsis": "\"Helen\" Steeply's Moment article about a woman who carried her artificial heart in her purse.  She was mugged.  Poor Tony was the purse snatcher.",
         "characters": {
@@ -695,6 +741,7 @@
         "chapter": "13",
         "section": "47",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Alphabetic list of anti-ONAN groups.",
         "characters": {
@@ -709,6 +756,7 @@
         "chapter": "13",
         "section": "48",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Why videophony didn't work.",
         "characters": {
@@ -723,6 +771,7 @@
         "chapter": "14",
         "section": "49",
         "date": [ "Year of the Depend Adult Undergarment", "10", "15" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Urine tests at ETA; Pemulis sells clean samples.",
         "characters": {
@@ -737,6 +786,7 @@
         "chapter": "15",
         "section": "50",
         "date": [ "1960", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "James Incandenza's father narrates (addressing 10-year-old Jim): Discusses Marlon Brando, tennis, and his own father's reaction when he blew out his knee at a match.",
         "characters": {
@@ -751,6 +801,7 @@
         "chapter": "15",
         "section": "51",
         "date": [ "Year of the Depend Adult Undergarment", "11", "4" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Pemulis scores some DMZ (Madame Psychosis).",
         "characters": {
@@ -765,6 +816,7 @@
         "chapter": "15",
         "section": "52",
         "date": [ "Year of the Yushityu 2007 Mimetic-Resolution-Cartridge-View-Motherboard-Easy-To-Install-Upgrade For Infernatron/InterLace TP Systems For Home, Office, Or Mobile (sic)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal's narration of \"Tennis and the Feral Prodigy\", a film by Mario Incandenza.",
         "characters": {
@@ -779,6 +831,7 @@
         "chapter": "15",
         "section": "53",
         "date": [ "Year of the Depend Adult Undergarment", "11", "5" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Selected transcripts from Patricia Montesian's log at Ennett House.  Voices of recovering drug and alcohol abusers.",
         "characters": {
@@ -793,6 +846,7 @@
         "chapter": "16",
         "section": "54",
         "date": [ "Year of the Depend Adult Undergarment", "10/30", "Late October" ],
+        "cluster": "",
         "location": "",
         "synopsis": "At WYYY, \"Sixty Minutes More or Less\" with Madame Psychosis, is about to go on.  The late shift engineer goes to the roof to drink a Millennial Fizzy and listen to the show.  Mario, with Hal at the Headmaster's House listens to the show.",
         "characters": {
@@ -807,6 +861,7 @@
         "chapter": "16",
         "section": "55",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Description of units 1-7 of Ennett House.",
         "characters": {
@@ -821,6 +876,7 @@
         "chapter": "16",
         "section": "56",
         "date": [ "Year of the Depend Adult Undergarment", "11", "6" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Freer and Kornspan work out while Rader consults with Lyle.  Pemulis eavesdrops.",
         "characters": {
@@ -835,6 +891,7 @@
         "chapter": "16",
         "section": "57",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "More detailed introduction to Ennett House and its residents.  Tiny Ewell's obsession with tattoos.",
         "characters": {
@@ -849,6 +906,7 @@
         "chapter": "16",
         "section": "58",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Michael Pemulis explains that he has scored some DMZ, the \"Yale U. of the Ivy League of Acid\" from some Canadian insurgents.  The boys decide to plan on taking it the weekend before the WhataBurger Invitational.",
         "characters": {
@@ -863,6 +921,7 @@
         "chapter": "17",
         "section": "59",
         "date": [ "Year of the Depend Adult Undergarment", "11", "7" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Joelle Van Dyne, star of Jim Incandenza's movies, goes to Molly Notkin's MA thesis party.",
         "characters": {
@@ -877,6 +936,7 @@
         "chapter": "17",
         "section": "60",
         "date": [ "Year of Glad", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Chronology of Subsidized Time.",
         "characters": {
@@ -891,6 +951,7 @@
         "chapter": "17",
         "section": "61",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Joelle thinks about Orin and his father, the \"world's best hailer of Boston cabs\".",
         "characters": {
@@ -905,6 +966,7 @@
         "chapter": "17",
         "section": "62",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Helen P. Steeply's (putative) Curriculum Vitae.",
         "characters": {
@@ -919,6 +981,7 @@
         "chapter": "17",
         "section": "63",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Joelle attempts to overdose in the bathroom at a party of cinema graduate students.",
         "characters": {
@@ -933,6 +996,7 @@
         "chapter": "18",
         "section": "64",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Geographical description of Enfield, Massachusetts.",
         "characters": {
@@ -947,6 +1011,7 @@
         "chapter": "18",
         "section": "65",
         "date": [ "Year of the Depend Adult Undergarment", "11", "5" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal and Orin on the telephone.  Now Orin wants to discuss Himself's suicide.  (He put his head in a microwave)  Meanwhile, Hal is clipping his toenails and making miraculous shots into the wastepaper basket.",
         "characters": {
@@ -961,6 +1026,7 @@
         "chapter": "19",
         "section": "66",
         "date": [ "Year of the Depend Adult Undergarment", "11", "6" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Tennis meet at Port Washington Tennis Academy, Long Island, New York.  Descriptions of Hal and John \"No Relation\" Wayne playing their respective games.  Pemulis gets sick, Schacht plays a French-Canadian.",
         "characters": {
@@ -975,6 +1041,7 @@
         "chapter": "19",
         "section": "67",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gately (substance-free for 421 days) is now on staff at Ennett House.  Geoffrey Day, Charlotte Treat, Randy Lenz all appear.",
         "characters": {
@@ -989,6 +1056,7 @@
         "chapter": "19",
         "section": "68",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "ETA returns from Long Island Triumphant.",
         "characters": {
@@ -1003,6 +1071,7 @@
         "chapter": "20",
         "section": "69",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "The story of Orin and Joelle, the Prettiest Girl of All Time (PGOAT).  His switch from tennis to football in college.",
         "characters": {
@@ -1017,6 +1086,7 @@
         "chapter": "20",
         "section": "70",
         "date": [ "Year of the Depend Adult Undergarment", "11", "14" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Poor Tony goes through withdrawal in the bathroom stall of a Boston public library.",
         "characters": {
@@ -1031,6 +1101,7 @@
         "chapter": "21",
         "section": "71",
         "date": [ "Year of the Depend Adult Undergarment", "11", "6" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Mary Esther Thode's \"The Personal is the Political is the Pathological\".  Example of an exam on psychopathological double-binds.  Troeltsch's broadcast of the morning's games on WETA (ETA's intercom).  Hal is in Thierry Poutrincourt's class on Canadian political history.  Some details of anti-ONAN activity (large mirrors across highways).",
         "characters": {
@@ -1045,6 +1116,7 @@
         "chapter": "21",
         "section": "72",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Mario's surprise birth, and a description of some of his deformaties.",
         "characters": {
@@ -1059,6 +1131,7 @@
         "chapter": "21",
         "section": "73",
         "date": [ "Year of the Depend Adult Undergarment", "5/1", "Around midnight April 30" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe and Steeply continued.",
         "characters": {
@@ -1073,6 +1146,7 @@
         "chapter": "22",
         "section": "74",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Interdependence Day.  A game of Eschaton.",
         "characters": {
@@ -1087,6 +1161,7 @@
         "chapter": "22",
         "section": "75",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Boston AA meeting: description of several speakers (a \"fifty year old immigrant\" waxes eloquently about his first solid bowel movement in years) and the \"crocodiles\".  Gately is curious about new girl Joelle.",
         "characters": {
@@ -1101,6 +1176,7 @@
         "chapter": "22",
         "section": "76",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "The Statue of Liberty's product is changed every January 1st.",
         "characters": {
@@ -1115,6 +1191,7 @@
         "chapter": "22",
         "section": "77",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Boston AA meeting: a young girl describes her foster father sexually abusing her paraplegic stepsister.",
         "characters": {
@@ -1129,6 +1206,7 @@
         "chapter": "22",
         "section": "78",
         "date": [ "Year of the Depend Adult Undergarment", "5/1", "Around midnight April 30" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe and Steeply continued.",
         "characters": {
@@ -1143,6 +1221,7 @@
         "chapter": "22",
         "section": "79",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "James Incandenza's \"Found Drama\" came out of a late-night session with Lyle.",
         "characters": {
@@ -1157,6 +1236,7 @@
         "chapter": "22",
         "section": "80",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Boston AA meeting: story of baby's death.",
         "characters": {
@@ -1171,6 +1251,7 @@
         "chapter": "22",
         "section": "81",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "James Incandenza and Lyle in the weight room.",
         "characters": {
@@ -1185,6 +1266,7 @@
         "chapter": "23",
         "section": "82",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Mario Incandenza's film interpretation of the formation of ONAN.",
         "characters": {
@@ -1199,6 +1281,7 @@
         "chapter": "23",
         "section": "83",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Lyle in the weightroom with sweaty ETA student Marlon and others (Anton \"Booger\" Douchette).  Return to Mario's film, which is now covering major political events with a montage of newspaper headlines.  History of Johnny Gentle's CUSP and the Great Concavity.",
         "characters": {
@@ -1213,6 +1296,7 @@
         "chapter": "23",
         "section": "84",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Lyle tells Ortho \"The Darkness\" Stice, \"Do not underestimate objects\".  Stice's bed has been moving at night.",
         "characters": {
@@ -1227,6 +1311,7 @@
         "chapter": "23",
         "section": "85",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal watching Mario's film. Description of Himself's \"The Medusa vs. the Odalisque\" and \"THE JOKE\".",
         "characters": {
@@ -1241,6 +1326,7 @@
         "chapter": "23",
         "section": "86",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Continuation of Mario's film, with more headlines and a puppet show of Gentle and Rodney Tine, Chief, US Office of Unspecified Services. The story of legendary tennis player Eric Clipperton and his Glock 17 semiautomatic.",
         "characters": {
@@ -1255,6 +1341,7 @@
         "chapter": "23",
         "section": "87",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal watching Mario's film.  History of Interlace, proliferation of advertising, and garbage in space.",
         "characters": {
@@ -1269,6 +1356,7 @@
         "chapter": "23",
         "section": "88",
         "date": [ "Year of the Depend Adult Undergarment", "5/1", "Around midnight April 30" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe and Steeply continued.",
         "characters": {
@@ -1283,6 +1371,7 @@
         "chapter": "23",
         "section": "89",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Eric Clipperton's death.",
         "characters": {
@@ -1297,6 +1386,7 @@
         "chapter": "23",
         "section": "90",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gately's other job: cleaning bathrooms.",
         "characters": {
@@ -1311,6 +1401,7 @@
         "chapter": "23",
         "section": "91",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Mario's film continued.  More headlines and puppets.  The origin of subsidized time.",
         "characters": {
@@ -1325,6 +1416,7 @@
         "chapter": "24",
         "section": "92",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gately's relationship with the crocodiles.  He remembers the death of his mother.",
         "characters": {
@@ -1339,6 +1431,7 @@
         "chapter": "24",
         "section": "93",
         "date": [ "Year of the Depend Adult Undergarment", "10/31", "Very late October" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal's bad dream.",
         "characters": {
@@ -1353,6 +1446,7 @@
         "chapter": "24",
         "section": "94",
         "date": [ "Year of the Depend Adult Undergarment", "11", "9" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Morning drills at ETA.",
         "characters": {
@@ -1367,6 +1461,7 @@
         "chapter": "24",
         "section": "95",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Don Gately's responsibilities at Ennett House.  His boss, Pat Montesian.",
         "characters": {
@@ -1381,6 +1476,7 @@
         "chapter": "24",
         "section": "96",
         "date": [ "Year of the Depend Adult Undergarment", "5/1", "Pre-dawn May 1" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe and Steeply continued.  Discussion of BS government experiments on human subjects.",
         "characters": {
@@ -1395,6 +1491,7 @@
         "chapter": "24",
         "section": "97",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gately out in Pat Montesian's car.  Interesting shift, via a piece of garbage, to Lucien and Bertraud Antitoi's store.  Arrival of and interrogation by the dreaded ATF.",
         "characters": {
@@ -1409,6 +1506,7 @@
         "chapter": "25",
         "section": "98",
         "date": [ "Year of the Depend Adult Undergarment", "5/1", "Pre-dawn May 1" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe and Steeply continued.",
         "characters": {
@@ -1423,6 +1521,7 @@
         "chapter": "25",
         "section": "99",
         "date": [ "1963", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Jim Incandenza helps his father fix a mattress.",
         "characters": {
@@ -1437,6 +1536,7 @@
         "chapter": "25",
         "section": "100",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "At a NA meeting, Ken Erdedy gets a hug.",
         "characters": {
@@ -1451,6 +1551,7 @@
         "chapter": "25",
         "section": "101",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe and Steeply continued.",
         "characters": {
@@ -1465,6 +1566,7 @@
         "chapter": "25",
         "section": "102",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal anticipates an official scolding from Charles Tavis for the Eschaton game.  He waits in \"Lateral\" Alice Moore's office, overhears Avril counseling the pre-teen female ETAs.",
         "characters": {
@@ -1479,6 +1581,7 @@
         "chapter": "25",
         "section": "103",
         "date": [ "Year of the Depend Adult Undergarment", "5/1", "Pre-dawn May 1" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe and Steeply continued.",
         "characters": {
@@ -1493,6 +1596,7 @@
         "chapter": "25",
         "section": "104",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Discussion between Gately and Joelle.  The latter explains her membership in UHID.",
         "characters": {
@@ -1507,6 +1611,7 @@
         "chapter": "26",
         "section": "105",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Randy Lenz discovers his penchant for killing animals.",
         "characters": {
@@ -1521,6 +1626,7 @@
         "chapter": "26",
         "section": "106",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "No door at Ennett House.",
         "characters": {
@@ -1535,6 +1641,7 @@
         "chapter": "26",
         "section": "107",
         "date": [ "Year of the Depend Adult Undergarment", "11/1", "Early November" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Rodney Tine and his special metric ruler.",
         "characters": {
@@ -1549,6 +1656,7 @@
         "chapter": "26",
         "section": "108",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Pemulis interrupts John Wayne and Avril Incandenza in a game of sexual football.",
         "characters": {
@@ -1563,6 +1671,7 @@
         "chapter": "26",
         "section": "109",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Randy Lenz and Bruce Green walking Boston at night.",
         "characters": {
@@ -1577,6 +1686,7 @@
         "chapter": "26",
         "section": "110",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal in bed after lunch.  John Wayne stops by.",
         "characters": {
@@ -1591,6 +1701,7 @@
         "chapter": "26",
         "section": "111",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Randy Lenz and Bruce Green walking Boston at night.",
         "characters": {
@@ -1605,6 +1716,7 @@
         "chapter": "26",
         "section": "112",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Selected snippets of Gately's interactions with Ennett House residents.",
         "characters": {
@@ -1619,6 +1731,7 @@
         "chapter": "26",
         "section": "113",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Orin and a Swiss hand model in a motel room.",
         "characters": {
@@ -1633,6 +1746,7 @@
         "chapter": "26",
         "section": "114",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Idris Arslanian, in a blindfold, runs into first Ted Schacht and then Mike Pemulis.",
         "characters": {
@@ -1647,6 +1761,7 @@
         "chapter": "26",
         "section": "115",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Orin at motel door with a man in a wheelchair.",
         "characters": {
@@ -1661,6 +1776,7 @@
         "chapter": "26",
         "section": "116",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Bruce Green and Randy Lenz.  Green remembers the death of his mother (coiled toy snake in a can).  Lenz separates, kills a dog tied up in yard of a house having a Hawaiian party.",
         "characters": {
@@ -1675,6 +1791,7 @@
         "chapter": "26",
         "section": "117",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Mario, who can't sleep, walks outside.",
         "characters": {
@@ -1689,6 +1806,7 @@
         "chapter": "26",
         "section": "118",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "More of Gately's responsibilities at Ennett House.",
         "characters": {
@@ -1703,6 +1821,7 @@
         "chapter": "26",
         "section": "119",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Still at the motel door, Orin answers the man in the wheelchair's \"survey\".",
         "characters": {
@@ -1717,6 +1836,7 @@
         "chapter": "26",
         "section": "120",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gately's showdown with the Canadians.  Gately seriously wounded.",
         "characters": {
@@ -1731,6 +1851,7 @@
         "chapter": "27",
         "section": "121",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "\"The new millennium's passion for standing live witness to things\". Grad student engineer for WYYY is kidnapped by a man in a wheelchair.",
         "characters": {
@@ -1745,6 +1866,7 @@
         "chapter": "27",
         "section": "122",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Suppertime at ETA.  Troeltsch's conspiracy theory that the milk is powdered.",
         "characters": {
@@ -1759,6 +1881,7 @@
         "chapter": "27",
         "section": "123",
         "date": [ "Year of the Depend Adult Undergarment", "5", "1" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe and Steeply continued.  Steeply's father's addiction to BS-era show \"M*A*S*H\".",
         "characters": {
@@ -1773,6 +1896,7 @@
         "chapter": "27",
         "section": "124",
         "date": [ "Year of the Depend Adult Undergarment", "11", "13" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Kate Gompert, Geoffrey Day and Bruce Green late-night rap session.  Day describes the \"large, dark, billowing, black shape\" he's felt twice in his life.",
         "characters": {
@@ -1787,6 +1911,7 @@
         "chapter": "27",
         "section": "125",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
+        "cluster": "",
         "location": "",
         "synopsis": "The match between Stice and Hal. Narrrative \"clicks\" to scan Gatley, Poor Tony, Pemulis and Struck, Steeply's sedan, CT and even Orin in Arizona.  Steeply chats with Aubrey deLint as they watch the match.",
         "characters": {
@@ -1801,6 +1926,7 @@
         "chapter": "27",
         "section": "126",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Epistolary exchange between Steeply and Marlon Bain, friend of Orin's during adolescence.",
         "characters": {
@@ -1815,6 +1941,7 @@
         "chapter": "27",
         "section": "127",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Sub-14 males in ETA's tunnels on clean-up detail.  There are rumors of feral hamsters but instead they find a refrigerator full of rotting food.",
         "characters": {
@@ -1829,6 +1956,7 @@
         "chapter": "27",
         "section": "128",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Steeply speaks, in French, to female prorector Thierry Poutrincourt.",
         "characters": {
@@ -1843,6 +1971,7 @@
         "chapter": "27",
         "section": "129",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Matty Pemulis, male prostitute, eats in a diner.  Memories of sexual abuse from his father.",
         "characters": {
@@ -1857,6 +1986,7 @@
         "chapter": "27",
         "section": "130",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
+        "cluster": "",
         "location": "",
         "synopsis": "After supper Hal decides to watch some of Himself's films. Description of \"Wave Bye-Bye to the Bureaucrat\".",
         "characters": {
@@ -1871,6 +2001,7 @@
         "chapter": "27",
         "section": "131",
         "date": [ "Year of the Depend Adult Undergarment", "11", "14" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Poor Tony contemplates a purse snatching before he heads to the Antitois' shop.",
         "characters": {
@@ -1885,6 +2016,7 @@
         "chapter": "27",
         "section": "132",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Geoffrey Day: almost misses Lenz \"brandishing the Hog\" in the three-man room.",
         "characters": {
@@ -1899,6 +2031,7 @@
         "chapter": "27",
         "section": "133",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "On Kate Gompert's depression and depression in general.  Himself's \"The American Century as Seen Through a Brick\" described.",
         "characters": {
@@ -1913,6 +2046,7 @@
         "chapter": "27",
         "section": "134",
         "date": [ "Year of the Depend Adult Undergarment", "11", "14" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Kate Gompert and Ruth van Cleve on the street, followed by Poor Tony Krause.",
         "characters": {
@@ -1927,6 +2061,7 @@
         "chapter": "27",
         "section": "135",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Troeltsch puts in a pro-wrestling cartridge.",
         "characters": {
@@ -1941,6 +2076,7 @@
         "chapter": "27",
         "section": "136",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Pemulis adjusts a ceiling tile in subdorm B.",
         "characters": {
@@ -1955,6 +2091,7 @@
         "chapter": "27",
         "section": "137",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Lyle sitting.",
         "characters": {
@@ -1969,6 +2106,7 @@
         "chapter": "27",
         "section": "138",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Coach Schtitt with Mario in his BMW.",
         "characters": {
@@ -1983,6 +2121,7 @@
         "chapter": "27",
         "section": "139",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Avril calling Arizona.",
         "characters": {
@@ -1997,6 +2136,7 @@
         "chapter": "27",
         "section": "140",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal watches \"Blood Sister: One Tough Nun\".  The plot of this film in detail.  Hal thinks about another of his father's films, \"Low-Temperature Civics\".  Switches to Joelle at a Cocaine Anonymous meeting, listening to a speaker describe his lowest moment (walking out on his wife and child).",
         "characters": {
@@ -2011,6 +2151,7 @@
         "chapter": "27",
         "section": "141",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "The end of \"Blood Sister: One Tough Nun\".",
         "characters": {
@@ -2025,6 +2166,7 @@
         "chapter": "27",
         "section": "142",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Kate Gompert right after Poor Tony snatched her purse.",
         "characters": {
@@ -2039,6 +2181,7 @@
         "chapter": "27",
         "section": "143",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Lenz, high on coke, plans to rob the \"oriental women\".",
         "characters": {
@@ -2053,6 +2196,7 @@
         "chapter": "27",
         "section": "144",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "The plan of Les Assassins des Fauteuil Rollents.",
         "characters": {
@@ -2067,6 +2211,7 @@
         "chapter": "27",
         "section": "145",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Poor Tony running from Ruth van Cleve.",
         "characters": {
@@ -2081,6 +2226,7 @@
         "chapter": "27",
         "section": "146",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "AFR's USA cell's leader, M. Fortier: how the AFR found the Entertainment at the Antitois' shop.",
         "characters": {
@@ -2095,6 +2241,7 @@
         "chapter": "27",
         "section": "147",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "M. Fortier enjoys the USA's condescension toward the wheelchaired.",
         "characters": {
@@ -2109,6 +2256,7 @@
         "chapter": "27",
         "section": "148",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Joelle worries about her teeth.",
         "characters": {
@@ -2123,6 +2271,7 @@
         "chapter": "27",
         "section": "149",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "The Wheelchair Assassins discover the samizdat \"Entertainment\".",
         "characters": {
@@ -2137,6 +2286,7 @@
         "chapter": "27",
         "section": "150",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Lenz in a back alley after robbing the Asian women.",
         "characters": {
@@ -2151,6 +2301,7 @@
         "chapter": "27",
         "section": "151",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe at Ennett House.",
         "characters": {
@@ -2165,6 +2316,7 @@
         "chapter": "27",
         "section": "152",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Joelle cleaning her room.  How Joelle and Himself became close.  Descriptions of \"Prenuptial Agreement of Heaven and Hell\" and \"The Medusa vs. The Odalisque\".  Thanksgiving dinner at the Incandenza house.",
         "characters": {
@@ -2179,6 +2331,7 @@
         "chapter": "27",
         "section": "153",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe's entry interview (with Pat Montesian) at Ennett House.",
         "characters": {
@@ -2193,6 +2346,7 @@
         "chapter": "27",
         "section": "154",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Joelle cleaning.",
         "characters": {
@@ -2207,6 +2361,7 @@
         "chapter": "27",
         "section": "155",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe's entry interview (with Pat Montesian) at Ennett House continued.",
         "characters": {
@@ -2221,6 +2376,7 @@
         "chapter": "27",
         "section": "156",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Mario filming for his documentary.  Interviews Felicity Zweig, LaMont Chu, and then the Moms. He asks her, \"How can tell if somebody's sad?\"",
         "characters": {
@@ -2235,6 +2391,7 @@
         "chapter": "27",
         "section": "157",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Mario and Hal talk in their room.  Hal describes how Pemulis talked his way out of the urine test.",
         "characters": {
@@ -2249,6 +2406,7 @@
         "chapter": "27",
         "section": "158",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Marathe and Kate Gompert meet in a bar.",
         "characters": {
@@ -2263,6 +2421,7 @@
         "chapter": "27",
         "section": "159",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Mario tells Hal that he seems sad.",
         "characters": {
@@ -2277,6 +2436,7 @@
         "chapter": "27",
         "section": "160",
         "date": [ "Year of the Depend Adult Undergarment", "11", "17" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Johnette lets an upscale kid (Hal) into Ennett House.",
         "characters": {
@@ -2291,6 +2451,7 @@
         "chapter": "27",
         "section": "161",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Footnote 324.",
         "characters": {
@@ -2305,6 +2466,7 @@
         "chapter": "27",
         "section": "162",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Results of Rodney Tine Jr.'s interrogation of Molly Notkin.  Description of Thanksgiving dinner at Joelle's parents house, YTMP.",
         "characters": {
@@ -2319,6 +2481,7 @@
         "chapter": "27",
         "section": "163",
         "date": [ "(unspecified)", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Footnote 332.",
         "characters": {
@@ -2333,6 +2496,7 @@
         "chapter": "27",
         "section": "164",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal at what he thinks is a meeting for Narcotics Anonymous. Turns out the meeting focuses on the Inner Infant, and one of the speakers is Kevin Bain, Orin's friend Marlon's brother.",
         "characters": {
@@ -2347,6 +2511,7 @@
         "chapter": "28",
         "section": "165",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gately in the hospital.  Interactions with Tiny Ewell, Joelle, Pat Montesian and Calvin Thrust.",
         "characters": {
@@ -2361,6 +2526,7 @@
         "chapter": "28",
         "section": "166",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gately in the hospital.  The Wraith.  Gately remembers the MP that used to live with his mother.",
         "characters": {
@@ -2375,6 +2541,7 @@
         "chapter": "28",
         "section": "167",
         "date": [ "Year of the Depend Adult Undergarment", "11", "16" ],
+        "cluster": "",
         "location": "",
         "synopsis": "The AFR's plan to replace the Québecois tennis players en route to ETA.",
         "characters": {
@@ -2389,6 +2556,7 @@
         "chapter": "28",
         "section": "168",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gately in the hospital: His memories of Mrs. Waite and his vision of Joelle as death.",
         "characters": {
@@ -2403,6 +2571,7 @@
         "chapter": "28",
         "section": "169",
         "date": [ "Year of the Depend Adult Undergarment", "11", "20" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal narrates: he wakes up after a bad dream.",
         "characters": {
@@ -2417,6 +2586,7 @@
         "chapter": "28",
         "section": "170",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gately in the hospital: Joelle visits him.",
         "characters": {
@@ -2431,6 +2601,7 @@
         "chapter": "28",
         "section": "171",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal narrates: Ortho \"The Darkness\" Stice with his forehead stuck to a window in the dorm's hallway.  Late introduction of Kenkle and Brandt, ETA janitorial staff.",
         "characters": {
@@ -2445,6 +2616,7 @@
         "chapter": "28",
         "section": "172",
         "date": [ "Year of the Depend Adult Undergarment", "11", "20" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Meeting between Rodney Tine, Sr. (and staff) with Glad regarding Year of Glad and \"Fully Functional Phil\" the prancing ass.",
         "characters": {
@@ -2459,6 +2631,7 @@
         "chapter": "28",
         "section": "173",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gately in the hospital\" Memories of \"Nom\" from \"Cheers!\".  Ferocious Francis visits.  More about Gatley's past: how he started crewing.",
         "characters": {
@@ -2473,6 +2646,7 @@
         "chapter": "28",
         "section": "174",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal narrates: in his room, he lies down and is unable to get up.",
         "characters": {
@@ -2487,6 +2661,7 @@
         "chapter": "28",
         "section": "175",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gately in the hospital: the history of his substance abuse.",
         "characters": {
@@ -2501,6 +2676,7 @@
         "chapter": "28",
         "section": "176",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal narrates: he talks with Pemulis then watches part of his father's film \"Good-Looking Men in Small Clever Rooms That Utilize Every Centimeter of Available Space with Mind-Boggling Efficiency\".",
         "characters": {
@@ -2515,6 +2691,7 @@
         "chapter": "28",
         "section": "177",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gately in the hospital: remembers working for Willie Sorkin with Gene Fackelmann.",
         "characters": {
@@ -2529,6 +2706,7 @@
         "chapter": "28",
         "section": "178",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Pemulis finds several drop-ceiling panels on the floor of subdorm B.  He's looking for an old sneaker behind the relevant panel.",
         "characters": {
@@ -2543,6 +2721,7 @@
         "chapter": "28",
         "section": "179",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gately in the hospital: memories of Gene Fackelmann.  His ex-girlfriend Pamela Hoffman-Jeep.  His dream about a kid and Joelle in a graveyard… \"Too Late\".",
         "characters": {
@@ -2557,6 +2736,7 @@
         "chapter": "28",
         "section": "180",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Joelle is apprehended.",
         "characters": {
@@ -2571,6 +2751,7 @@
         "chapter": "28",
         "section": "181",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gately in the hospital: remembers getting high with Gene on the drugs Gene bought with stolen money.",
         "characters": {
@@ -2585,6 +2766,7 @@
         "chapter": "28",
         "section": "182",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Joelle being interviewed by Helen Steeply.",
         "characters": {
@@ -2599,6 +2781,7 @@
         "chapter": "28",
         "section": "183",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Hal narrates: Mario and Kyle Dempy Coyle are also watching one of Himself's films.  Explanation of what happened to Stice.  Description of \"Accomplice!\"",
         "characters": {
@@ -2613,6 +2796,7 @@
         "chapter": "28",
         "section": "184",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Joelle returns to Ennett House, sees a police car stationed outside.",
         "characters": {
@@ -2627,6 +2811,7 @@
         "chapter": "28",
         "section": "185",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Mikey, a \"sick fuck\", tells his story at an AA meeting.",
         "characters": {
@@ -2641,6 +2826,7 @@
         "chapter": "28",
         "section": "186",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "An ADA talks with Pat Montesian about the Ninth Step.  He needs to Gately to forgive him.",
         "characters": {
@@ -2655,6 +2841,7 @@
         "chapter": "28",
         "section": "187",
         "date": [ "Year of the Depend Adult Undergarment", "11", "20" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Immediately pre-Fundraiser Exhibition Fête.  Narrated by an unnamed ETA student.",
         "characters": {
@@ -2669,6 +2856,7 @@
         "chapter": "28",
         "section": "188",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Orin in a huge inverted glass, interrogation by Luria P---",
         "characters": {
@@ -2683,6 +2871,7 @@
         "chapter": "28",
         "section": "189",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
         "location": "",
         "synopsis": "Gately in the hospital: after the drug binge, Bobby C arrives to punish Gene Fackelman.",
         "characters": {
