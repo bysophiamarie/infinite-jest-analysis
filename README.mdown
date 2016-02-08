@@ -10,6 +10,7 @@ one being a hash with the following keys:
 
     chapter: chapter number (except endnotes)
     section: section number, sequential (except endnotes)
+    kindle: approximate position on my kindle version
     endnote: endnote number (if this describes a endnote)
     endnotes: list of endnotes called in this section or endnote
     date: array consisting of

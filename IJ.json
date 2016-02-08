@@ -2,6 +2,7 @@
     {
         "chapter": "1",
         "section": "1",
+        "kindle": 102,
         "date": [ "Year of Glad", "", "" ],
         "cluster": "ETA",
         "location": "University of Arizona",
@@ -15,12 +16,19 @@
             "absent": [ "Maury Klamkin", "Gerhardt Schtitt" ]
         },
         "narrator": "Hal Incandenza",
-        "motifs": [ "Brewster's Angle" ]
+        "motifs": [
+            "Optics (Brewster's Angle)",
+            "Prescriptive Grammar",
+            "Optics (Holography)",
+            "Heroic Stasis in Broadcast Entertainment",
+            "Byzantine Erotica (Justinian Erotica)"
+        ]
     },
     {
         "chapter": "1",
         "section": "2",
-        "date": [ "(unspecified)", "", "" ],
+        "kindle": 262,
+        "date": [ "(unspecified)", "4", "1", "approximative" ],
         "cluster": "ETA",
         "location": "Weston",
         "synopsis": "Hal narrates: Eating the mold.",
@@ -36,6 +44,7 @@
     {
         "chapter": "1",
         "section": "3",
+        "kindle": 295,
         "date": [ "Year of Glad", "", "" ],
         "cluster": "ETA",
         "location": "University of Arizona",
@@ -48,11 +57,12 @@
             ]
         },
         "narrator": "Hal Incandenza",
-        "motifs": [ "Dennis Gabor", "Holography", "Nunn Bush" ]
+        "motifs": [ "Optics (Dennis Gabor)", "Optics (Holography)", "Nunn Bush" ]
     },
     {
         "chapter": "1",
         "section": "4",
+        "kindle": 325,
         "date": [ "Year of Glad", "", "" ],
         "cluster": "ETA",
         "location": "University of Arizona",
@@ -70,6 +80,7 @@
     {
         "chapter": "1",
         "section": "5",
+        "kindle": 383,
         "date": [ "Year of Glad", "", "" ],
         "cluster": "ETA",
         "location": "University of Arizona",
@@ -94,15 +105,17 @@
     {
         "chapter": "2",
         "section": "6",
+        "kindle": 422,
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "Ennett",
         "location": "Ken Erdedy's apartment. Boston? Cambridge?",
         "synopsis": "Ken Erdedy, preparing for a marijuana binge, waits for a woman to deliver the goods.",
         "characters": {
-            "present": [ "Ken Erdedy" ]
+            "present": [ "Ken Erdedy" ],
+            "absent": [ "Appropriation artist" ]
         },
         "narrator": "Ken Erdedy",
-        "motifs": [ "Marijuana", "Allston Spur", "Appropriation art", "Visine", "E.W.D." ],
+        "motifs": [ "Marijuana", "Allston Spur", "Found Drama (Appropriation art)", "Visine", "E.W.D." ],
         "endnotes": [ "1" ]
     },
     {
@@ -114,6 +127,7 @@
     {
         "chapter": "3",
         "section": "7",
+        "kindle": 629,
         "date": [ "Year of the Tucks Medicated Pad", "4", "1" ],
         "cluster": "ETA",
         "location": "An office near ETA",
@@ -141,7 +155,7 @@
             "Ski",
             "Dunlop",
             "Himself's head",
-            "Appropriation art",
+            "Found Drama (Appropriation card)",
             "Interdependence Day",
             "Fifth wall"
         ]
@@ -149,6 +163,7 @@
     {
         "chapter": "4",
         "section": "8",
+        "kindle": 732,
         "date": [ "Year of the Depend Adult Undergarment", "5", "9" ],
         "cluster": "ETA",
         "location": "ETA, Hal and Mario's room",
@@ -159,11 +174,12 @@
                 "Brandt", "Kenkle"
             ]
         },
-        "motifs": [ "Dunlop" ]
+        "motifs": [ "Dunlop", "Telephone" ]
     },
     {
         "chapter": "5",
         "section": "9",
+        "kindle": 754,
         "date": [ "Year of the Depend Adult Undergarment", "4", "1" ],
         "cluster": "AFR",
         "location": "Medical Attaché's apartment, Boston",
@@ -185,6 +201,7 @@
     {
         "chapter": "5",
         "section": "10",
+        "kindle": 842,
         "date": [ "Year of the Trial-Size Dove Bar", "", "" ],
         "cluster": "Ennett",
         "location": "",
