@@ -27,6 +27,16 @@ one being a hash with the following keys:
         absent: array of characters only mentioned by name
     narrator: name of the narrator if applicable, else empty
     motifs: array of various items that appear at least twice in the book
+    filmography: array of titles of JOI's movies referenced explicitly or
+        implicitly in the section
+
+There will also be entries for James Orin Incandenza's filmography (from
+endnote 24):
+
+    number: ordinal
+    film: film title
+    date: release date (year)
+    actors: array of actors
 
 The initial data set, notably synopses and division in numbered sections, has
 been taken from [*Infinite Jest: a scene-by-scene
