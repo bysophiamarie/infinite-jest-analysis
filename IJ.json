@@ -123,12 +123,7 @@
         "motifs": [ "Marijuana", "Allston Spur", "Found Drama (Appropriation art)", "Visine", "E.W.D." ],
         "endnotes": [ "1" ]
     },
-    {
-        "chapter": "2",
-        "section": "6",
-        "endnote": "1",
-        "motifs": [ "Meth" ]
-    },
+    { "endnote": "1", "motifs": [ "Meth" ] },
     {
         "chapter": "3",
         "section": "7",
@@ -151,6 +146,7 @@
         "narrator": "none (dialogue)",
         "motifs": [
             "April 1st",
+            "Therapy",
             "Teeth",
             "Saliva",
             "O.E.D.",
@@ -185,7 +181,7 @@
         "chapter": "5",
         "section": "9",
         "kindle": 754,
-        "date": [ "Year of the Depend Adult Undergarment", "4", "1" ],
+        "date": [ "Year of the Depend Adult Undergarment", "4", "1", "until 1927h" ],
         "cluster": "AFR",
         "location": "Medical Attaché's apartment, Boston, MA",
         "synopsis": "The medical attaché comes home to relax and watch some \"Entertainment\".",
@@ -196,6 +192,7 @@
         "motifs": [
             "April 1st",
             "Statue of Liberty",
+            "Töblerone",
             "Mold/Yeast/Fungus",
             "Mr. Bouncety-Bounce",
             "Tawni Kondo",
@@ -226,8 +223,7 @@
             ]
         },
         "narrator": "Clenette",
-        "motifs": [ "Child abuse" ],
-        "filmography": [ ]
+        "motifs": [ "Child abuse" ]
     },
     {
         "chapter": "5",
@@ -238,7 +234,7 @@
         "location": "Winchester High School",
         "synopsis": "The tale of Bruce Green and Mildred Bonk.",
         "characters": {
-            "present": [ "Bruce Green", "Mildred Bonk" ],
+            "present": [ "Bruce Green", "Mildred Bonk", "Harriet Bonk-Green" ],
             "absent": [ "Tommy Doocey" ]
         },
         "motifs": [ "Visine", "Allston Spur" ]
@@ -246,67 +242,123 @@
     {
         "chapter": "6",
         "section": "12",
+        "kindle": 892,
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
-        "cluster": "",
-        "location": "",
-        "synopsis": "Hal and Mario in their room at night. They discuss Himself's funeral.",
+        "cluster": "ETA",
+        "location": "ETA, Hal and Mario's room",
+        "synopsis": "Hal and Mario in their room at night. They discuss Himself's death.",
         "characters": {
             "present": [ "Hal Incandenza", "Mario Incandenza" ],
-            "absent": [ ]
+            "absent": [ "Michael Pemulis", "Avril Incandenza", "James Orin Incandenza", "Charles Tavis" ]
         },
-        "narrator": "",
-        "motifs": [ ],
-        "filmography": [ ],
-        "endnotes": [ ]
+        "narrator": "none (dialogue)",
+        "motifs": [ "Tosca", "ETA flag lowered" ]
     },
     {
         "chapter": "6",
         "section": "13",
-        "date": [ "Year of the Depend Adult Undergarment", "4", "1" ],
-        "cluster": "",
-        "location": "",
+        "kindle": 950,
+        "date": [ "Year of the Depend Adult Undergarment", "4", "1", "2010h" ],
+        "cluster": "AFR",
+        "location": "Medical Attaché's apartment, Boston, MA",
         "synopsis": "The medical attaché is still watching the \"Entertainment\"",
-        "characters": {
-            "present": [ "Medical Attaché" ],
-            "absent": [ ]
-        },
-        "narrator": "",
-        "motifs": [ ],
-        "filmography": [ ],
-        "endnotes": [ ]
+        "characters": { "present": [ "Medical Attaché" ] },
+        "motifs": [ "The Entertainment" ]
     },
     {
         "chapter": "6",
         "section": "14",
-        "date": [ "Year of the Depend Adult Undergarment", "10/16", "October" ],
-        "cluster": "",
-        "location": "",
-        "synopsis": "Orin wakes up in Arizona, wishes last night's \"subject\" would leave.",
+        "kindle": 951,
+        "date": [ "Year of the Depend Adult Undergarment", "10", "16?", "0730h" ],
+        "cluster": "ETA",
+        "location": "Phoenix, AZ",
+        "synopsis": "Orin wakes up in Arizona, wishes last night's \"Subject\" would leave.",
         "characters": {
             "present": [ "Orin Incandenza" ],
-            "absent": [ ]
+            "absent": [
+                "Avril Incandenza", "James Orin Incandenza",
+                "Ross Reat", "Marlon Bain", "Walt Flechette",
+                "Bain's sister", "Developmental psychology grad student",
+                "Fenton", "Hal Incandenza"
+            ]
         },
-        "narrator": "",
-        "motifs": [ ],
-        "filmography": [ ],
-        "endnotes": [ ]
+        "motifs": [
+            "#71", "Air Conditioning", "Bird falling in the jacuzzi",
+            "Roaches", "Upside-down tumbler",
+            "Blind infants", "Hilltop graveyard slide",
+            "Dream", "Disembodied head", "Töblerone", "E.W.D.",
+            "Moment Magazine", "Shaving south-to-north", "Telephone"
+        ],
+        "endnotes": [ 2 ]
+    },
+    {
+        "endnote": "2",
+        "characters": { "present": [ "Orin Incandenza" ] },
+        "motifs": [ "Therapy" ]
     },
     {
         "chapter": "7",
         "section": "15",
+        "kindle": 1089,
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
-        "cluster": "",
-        "location": "",
+        "cluster": "ETA",
+        "location": "Pump Room, ETA",
         "synopsis": "17-year-old Hal getting high in the basement of Enfield Tennis Academy.",
         "characters": {
             "present": [ "Hal Incandenza" ],
-            "absent": [ ]
+            "absent": [
+                "Michael Pemulis",
+                "Jim Struck",
+                "Bridget Boone",
+                "Jim Troeltsch",
+                "Ted Schacht",
+                "Trevor Axford",
+                "Kyle D. Coyle",
+                "Tall Paul Shaw",
+                "Frannie Unwin",
+                "Bernadette Longley",
+                "Keith Freer",
+                "Mario Incandenza",
+                "Ortho Stice",
+                "Orin Incandenza",
+                "Avril Incandenza",
+                "Charles Tavis",
+                "Dolores Rusk",
+                "Leith", "Ogilvie",
+                "James Orin Incandenza",
+                "Gerhardt Schtitt"
+            ]
         },
-        "narrator": "",
-        "motifs": [ ],
+        "motifs": [
+            "Lung", "Pump Room", "TesTar", "ATHSCME", "Tunnel Club", "Interdependence Day", "The Show",
+            "Oral-B", "Visine (implicit)", "Old Spice", "Kodiak", "Secrecy"
+        ],
         "filmography": [ ],
-        "endnotes": [ ]
+        "endnotes": [ 3, 4, 5, 6, 7, 8, 9, 10 ]
     },
+    {
+        "endnote": "3",
+        "characters": {
+            "present": [
+                "Avril Incandenza", "Hal Incandenza", "Mario Incandenza",
+                "A.Y. Rickey", "Michael Pemulis"
+            ]
+        },
+        "motifs": [ "Cardioid", "Lung", "Mathematics (topology)" ]
+    },
+    { "endnote": "4", "motifs": [ "Prorectors" ] },
+    {
+        "endnote": "5",
+        "characters": {
+            "absent": [ "Jim Troeltsch", "Bridget Boone", "Michael Pemulis" ]
+        },
+        "motifs": [ "Drines", "Yachting cap", "Nystagmus" ]
+    },
+    { "endnote": "6", "motifs": [ "Tranqs" ] },
+    { "endnote": "7", "motifs": [ "Alcohol" ] },
+    { "endnote": "8", "motifs": [ "Muscimole", "DMZ", "Madame Psychosis (implicit)" ] },
+    { "endnote": "9", "motifs": [ "LSD" ] },
+    { "endnote": "10", "motifs": [ "ETA" ] },
     {
         "chapter": "7",
         "section": "16",
@@ -571,7 +623,7 @@
         "location": "",
         "synopsis": "Locker room banter at ETA.  Troeltsch, Pemulis, Wayne, Stice, Struck, Freer and Hal are present.",
         "characters": {
-            "present": [ "Jim Troeltsch", "Michael Pemulis", "John Wayne", "Ortho Stice", "Jim Struck Jr.", "Keith \"The Viking\" Freer", "Hal Incandenza" ],
+            "present": [ "Jim Troeltsch", "Michael Pemulis", "John Wayne", "Ortho Stice", "Jim Struck", "Keith Freer", "Hal Incandenza" ],
             "absent": [ ]
         },
         "narrator": "",
@@ -603,7 +655,7 @@
         "location": "",
         "synopsis": "More banter in the locker room.  Complaints about Schtitt's expectations of them.",
         "characters": {
-            "present": [ "Jim Troeltsch", "Michael Pemulis", "John Wayne", "Ortho Stice", "Jim Struck Jr.", "Keith \"The Viking\" Freer", "Hal Incandenza" ],
+            "present": [ "Jim Troeltsch", "Michael Pemulis", "John Wayne", "Ortho Stice", "Jim Struck", "Keith Freer", "Hal Incandenza" ],
             "absent": [ ]
         },
         "narrator": "",
@@ -635,7 +687,7 @@
         "location": "",
         "synopsis": "Hal with his \"little buddies\" (Kent Blott, Idris Arslanian, Ingersol).  He convinces them that their resentment of Schtitt is engineered by Schtitt and his staff.  Switches to John (NR) Wayne, Troeltsch, Struck, and Stice, each with his group of younger students.",
         "characters": {
-            "present": [ "Jim Troeltsch", "John Wayne", "Ortho Stice", "Jim Struck Jr.", "Hal Incandenza", "Idris Arslanian", "Evan Ingersoll", "Kent Blott" ],
+            "present": [ "Jim Troeltsch", "John Wayne", "Ortho Stice", "Jim Struck", "Hal Incandenza", "Idris Arslanian", "Evan Ingersoll", "Kent Blott" ],
             "absent": [ ]
         },
         "narrator": "",
@@ -955,7 +1007,7 @@
         "location": "",
         "synopsis": "Freer and Kornspan work out while Rader consults with Lyle.  Pemulis eavesdrops.",
         "characters": {
-            "present": [ "Keith \"The Viking\" Freer", "Eliot Kornspan", "Graham Rader", "Lyle", "Michael Pemulis" ],
+            "present": [ "Keith Freer", "Eliot Kornspan", "Graham Rader", "Lyle", "Michael Pemulis" ],
             "absent": [ ]
         },
         "narrator": "",
@@ -1243,7 +1295,7 @@
         "location": "",
         "synopsis": "Interdependence Day.  A game of Eschaton.",
         "characters": {
-            "present": [ "Michael Pemulis", "Hal Incandenza", "Evan Ingersoll", "Jim Troeltsch", "LaMont Chu", "Jim Struck Jr.", "Otis P. Lord", "Trevor \"The Axehandle\" Axford", "Josh Gopnik", "J. J. Penn", "Keiran McKenna", "Todd \"Postal Weight\" Poselthwaite", "Ann Kittenplan", "Timmy \"Sleepy TP\" Peterson", "Mary Esther Thode" ],
+            "present": [ "Michael Pemulis", "Hal Incandenza", "Evan Ingersoll", "Jim Troeltsch", "LaMont Chu", "Jim Struck", "Otis P. Lord", "Trevor Axford", "Josh Gopnik", "J. J. Penn", "Keiran McKenna", "Todd \"Postal Weight\" Poselthwaite", "Ann Kittenplan", "Timmy \"Sleepy TP\" Peterson", "Mary Esther Thode" ],
             "absent": [ ]
         },
         "narrator": "",
@@ -2059,7 +2111,7 @@
         "location": "",
         "synopsis": "The match between Stice and Hal. Narrrative \"clicks\" to scan Gatley, Poor Tony, Pemulis and Struck, Steeply's sedan, CT and even Orin in Arizona.  Steeply chats with Aubrey deLint as they watch the match.",
         "characters": {
-            "present": [ "Ortho Stice", "Hal Incandenza", "Don Gately", "Poor Tony Krause", "Michael Pemulis", "Jim Struck Jr.", "Hugh/Helen Steeply", "Charles Tavis", "Orin Incandenza", "Aubrey deLint" ],
+            "present": [ "Ortho Stice", "Hal Incandenza", "Don Gately", "Poor Tony Krause", "Michael Pemulis", "Jim Struck", "Hugh/Helen Steeply", "Charles Tavis", "Orin Incandenza", "Aubrey deLint" ],
             "absent": [ ]
         },
         "narrator": "",
