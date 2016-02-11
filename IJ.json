@@ -362,6 +362,16 @@
     {
         "chapter": "7",
         "section": "16",
+        "kindle": 1208
+    },
+    {
+        "chapter": "7",
+        "section": "17",
+        "kindle": 1214
+    },
+    {
+        "chapter": "7",
+        "section": "18",
         "date": [ "Year of Dairy Products from the American Heartland", "9/22", "Autumn" ],
         "cluster": "",
         "location": "",
@@ -377,7 +387,7 @@
     },
     {
         "chapter": "7",
-        "section": "17",
+        "section": "19",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -393,7 +403,7 @@
     },
     {
         "chapter": "7",
-        "section": "18",
+        "section": "20",
         "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
         "cluster": "",
         "location": "",
@@ -409,7 +419,7 @@
     },
     {
         "chapter": "7",
-        "section": "19",
+        "section": "21",
         "date": [ "(unspecified)", "", "" ],
         "cluster": "",
         "location": "",
@@ -425,7 +435,7 @@
     },
     {
         "chapter": "8",
-        "section": "20",
+        "section": "22",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -441,7 +451,7 @@
     },
     {
         "chapter": "8",
-        "section": "21",
+        "section": "23",
         "date": [ "Year of the Depend Adult Undergarment", "11", "1" ],
         "cluster": "",
         "location": "",
@@ -457,7 +467,7 @@
     },
     {
         "chapter": "9",
-        "section": "22",
+        "section": "24",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -473,7 +483,7 @@
     },
     {
         "chapter": "9",
-        "section": "23",
+        "section": "25",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -489,7 +499,7 @@
     },
     {
         "chapter": "10",
-        "section": "24",
+        "section": "26",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -505,7 +515,7 @@
     },
     {
         "chapter": "10",
-        "section": "25",
+        "section": "27",
         "date": [ "Year of the Depend Adult Undergarment", "4", "2" ],
         "cluster": "",
         "location": "",
@@ -521,7 +531,7 @@
     },
     {
         "chapter": "10",
-        "section": "26",
+        "section": "28",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -537,7 +547,7 @@
     },
     {
         "chapter": "10",
-        "section": "27",
+        "section": "29",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -553,7 +563,7 @@
     },
     {
         "chapter": "11",
-        "section": "28",
+        "section": "30",
         "date": [ "Year of the Depend Adult Undergarment", "4", "2" ],
         "cluster": "",
         "location": "",
@@ -569,7 +579,7 @@
     },
     {
         "chapter": "11",
-        "section": "29",
+        "section": "31",
         "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
         "cluster": "",
         "location": "",
@@ -585,7 +595,7 @@
     },
     {
         "chapter": "11",
-        "section": "30",
+        "section": "32",
         "date": [ "(unspecified)", "", "" ],
         "cluster": "",
         "location": "",
@@ -601,43 +611,11 @@
     },
     {
         "chapter": "11",
-        "section": "31",
-        "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
-        "cluster": "",
-        "location": "",
-        "synopsis": "Marathe and Steeply continued.",
-        "characters": {
-            "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
-            "absent": [ ]
-        },
-        "narrator": "",
-        "motifs": [ ],
-        "filmography": [ ],
-        "endnotes": [ ]
-    },
-    {
-        "chapter": "11",
-        "section": "32",
-        "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
-        "cluster": "",
-        "location": "",
-        "synopsis": "Locker room banter at ETA.  Troeltsch, Pemulis, Wayne, Stice, Struck, Freer and Hal are present.",
-        "characters": {
-            "present": [ "Jim Troeltsch", "Michael Pemulis", "John Wayne", "Ortho Stice", "Jim Struck", "Keith Freer", "Hal Incandenza" ],
-            "absent": [ ]
-        },
-        "narrator": "",
-        "motifs": [ ],
-        "filmography": [ ],
-        "endnotes": [ ]
-    },
-    {
-        "chapter": "11",
         "section": "33",
         "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
         "cluster": "",
         "location": "",
-        "synopsis": "Marathe and Steeply continued.  Sunset.",
+        "synopsis": "Marathe and Steeply continued.",
         "characters": {
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
@@ -653,7 +631,7 @@
         "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
         "cluster": "",
         "location": "",
-        "synopsis": "More banter in the locker room.  Complaints about Schtitt's expectations of them.",
+        "synopsis": "Locker room banter at ETA.  Troeltsch, Pemulis, Wayne, Stice, Struck, Freer and Hal are present.",
         "characters": {
             "present": [ "Jim Troeltsch", "Michael Pemulis", "John Wayne", "Ortho Stice", "Jim Struck", "Keith Freer", "Hal Incandenza" ],
             "absent": [ ]
@@ -669,7 +647,7 @@
         "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
         "cluster": "",
         "location": "",
-        "synopsis": "Marathe and Steeply continued. Talk of love.",
+        "synopsis": "Marathe and Steeply continued.  Sunset.",
         "characters": {
             "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
             "absent": [ ]
@@ -685,6 +663,38 @@
         "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
         "cluster": "",
         "location": "",
+        "synopsis": "More banter in the locker room.  Complaints about Schtitt's expectations of them.",
+        "characters": {
+            "present": [ "Jim Troeltsch", "Michael Pemulis", "John Wayne", "Ortho Stice", "Jim Struck", "Keith Freer", "Hal Incandenza" ],
+            "absent": [ ]
+        },
+        "narrator": "",
+        "motifs": [ ],
+        "filmography": [ ],
+        "endnotes": [ ]
+    },
+    {
+        "chapter": "11",
+        "section": "37",
+        "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
+        "cluster": "",
+        "location": "",
+        "synopsis": "Marathe and Steeply continued. Talk of love.",
+        "characters": {
+            "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
+            "absent": [ ]
+        },
+        "narrator": "",
+        "motifs": [ ],
+        "filmography": [ ],
+        "endnotes": [ ]
+    },
+    {
+        "chapter": "11",
+        "section": "38",
+        "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
+        "cluster": "",
+        "location": "",
         "synopsis": "Hal with his \"little buddies\" (Kent Blott, Idris Arslanian, Ingersol).  He convinces them that their resentment of Schtitt is engineered by Schtitt and his staff.  Switches to John (NR) Wayne, Troeltsch, Struck, and Stice, each with his group of younger students.",
         "characters": {
             "present": [ "Jim Troeltsch", "John Wayne", "Ortho Stice", "Jim Struck", "Hal Incandenza", "Idris Arslanian", "Evan Ingersoll", "Kent Blott" ],
@@ -697,7 +707,7 @@
     },
     {
         "chapter": "11",
-        "section": "37",
+        "section": "39",
         "date": [ "Year of the Depend Adult Undergarment", "10/16", "Mid October" ],
         "cluster": "",
         "location": "",
@@ -713,7 +723,7 @@
     },
     {
         "chapter": "11",
-        "section": "38",
+        "section": "40",
         "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
         "cluster": "",
         "location": "",
@@ -729,7 +739,7 @@
     },
     {
         "chapter": "11",
-        "section": "39",
+        "section": "41",
         "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
         "cluster": "",
         "location": "",
@@ -745,7 +755,7 @@
     },
     {
         "chapter": "12",
-        "section": "40",
+        "section": "42",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -761,7 +771,7 @@
     },
     {
         "chapter": "12",
-        "section": "41",
+        "section": "43",
         "date": [ "(unspecified)", "", "" ],
         "cluster": "",
         "location": "",
@@ -777,7 +787,7 @@
     },
     {
         "chapter": "13",
-        "section": "42",
+        "section": "44",
         "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
         "cluster": "",
         "location": "",
@@ -793,7 +803,7 @@
     },
     {
         "chapter": "13",
-        "section": "43",
+        "section": "45",
         "date": [ "(unspecified)", "", "" ],
         "cluster": "",
         "location": "",
@@ -809,7 +819,7 @@
     },
     {
         "chapter": "13",
-        "section": "44",
+        "section": "46",
         "date": [ "Year of Dairy Products from the American Heartland", "", "" ],
         "cluster": "",
         "location": "",
@@ -825,7 +835,7 @@
     },
     {
         "chapter": "13",
-        "section": "45",
+        "section": "47",
         "date": [ "Year of the Perdue Wonderchicken", "", "" ],
         "cluster": "",
         "location": "",
@@ -841,7 +851,7 @@
     },
     {
         "chapter": "13",
-        "section": "46",
+        "section": "48",
         "date": [ "Year of the Depend Adult Undergarment", "8", "10" ],
         "cluster": "",
         "location": "",
@@ -857,7 +867,7 @@
     },
     {
         "chapter": "13",
-        "section": "47",
+        "section": "49",
         "date": [ "(unspecified)", "", "" ],
         "cluster": "",
         "location": "",
@@ -873,7 +883,7 @@
     },
     {
         "chapter": "13",
-        "section": "48",
+        "section": "50",
         "date": [ "(unspecified)", "", "" ],
         "cluster": "",
         "location": "",
@@ -889,7 +899,7 @@
     },
     {
         "chapter": "14",
-        "section": "49",
+        "section": "51",
         "date": [ "Year of the Depend Adult Undergarment", "10", "15" ],
         "cluster": "",
         "location": "",
@@ -905,7 +915,7 @@
     },
     {
         "chapter": "15",
-        "section": "50",
+        "section": "52",
         "date": [ "1960", "", "" ],
         "cluster": "",
         "location": "",
@@ -921,7 +931,7 @@
     },
     {
         "chapter": "15",
-        "section": "51",
+        "section": "53",
         "date": [ "Year of the Depend Adult Undergarment", "11", "4" ],
         "cluster": "",
         "location": "",
@@ -937,7 +947,7 @@
     },
     {
         "chapter": "15",
-        "section": "52",
+        "section": "54",
         "date": [ "Year of the Yushityu 2007 Mimetic-Resolution-Cartridge-View-Motherboard-Easy-To-Install-Upgrade For Infernatron/InterLace TP Systems For Home, Office, Or Mobile (sic)", "", "" ],
         "cluster": "",
         "location": "",
@@ -953,7 +963,7 @@
     },
     {
         "chapter": "15",
-        "section": "53",
+        "section": "55",
         "date": [ "Year of the Depend Adult Undergarment", "11", "5" ],
         "cluster": "",
         "location": "",
@@ -969,7 +979,7 @@
     },
     {
         "chapter": "16",
-        "section": "54",
+        "section": "56",
         "date": [ "Year of the Depend Adult Undergarment", "10/30", "Late October" ],
         "cluster": "",
         "location": "",
@@ -985,7 +995,7 @@
     },
     {
         "chapter": "16",
-        "section": "55",
+        "section": "57",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1001,7 +1011,7 @@
     },
     {
         "chapter": "16",
-        "section": "56",
+        "section": "58",
         "date": [ "Year of the Depend Adult Undergarment", "11", "6" ],
         "cluster": "",
         "location": "",
@@ -1017,7 +1027,7 @@
     },
     {
         "chapter": "16",
-        "section": "57",
+        "section": "59",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1033,7 +1043,7 @@
     },
     {
         "chapter": "16",
-        "section": "58",
+        "section": "60",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1049,7 +1059,7 @@
     },
     {
         "chapter": "17",
-        "section": "59",
+        "section": "61",
         "date": [ "Year of the Depend Adult Undergarment", "11", "7" ],
         "cluster": "",
         "location": "",
@@ -1065,7 +1075,7 @@
     },
     {
         "chapter": "17",
-        "section": "60",
+        "section": "62",
         "date": [ "Year of Glad", "", "" ],
         "cluster": "",
         "location": "",
@@ -1081,7 +1091,7 @@
     },
     {
         "chapter": "17",
-        "section": "61",
+        "section": "63",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1097,7 +1107,7 @@
     },
     {
         "chapter": "17",
-        "section": "62",
+        "section": "64",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1113,7 +1123,7 @@
     },
     {
         "chapter": "17",
-        "section": "63",
+        "section": "65",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1129,7 +1139,7 @@
     },
     {
         "chapter": "18",
-        "section": "64",
+        "section": "66",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1145,7 +1155,7 @@
     },
     {
         "chapter": "18",
-        "section": "65",
+        "section": "67",
         "date": [ "Year of the Depend Adult Undergarment", "11", "5" ],
         "cluster": "",
         "location": "",
@@ -1161,7 +1171,7 @@
     },
     {
         "chapter": "19",
-        "section": "66",
+        "section": "68",
         "date": [ "Year of the Depend Adult Undergarment", "11", "6" ],
         "cluster": "",
         "location": "",
@@ -1177,7 +1187,7 @@
     },
     {
         "chapter": "19",
-        "section": "67",
+        "section": "69",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1193,7 +1203,7 @@
     },
     {
         "chapter": "19",
-        "section": "68",
+        "section": "70",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1209,7 +1219,7 @@
     },
     {
         "chapter": "20",
-        "section": "69",
+        "section": "71",
         "date": [ "(unspecified)", "", "" ],
         "cluster": "",
         "location": "",
@@ -1225,7 +1235,7 @@
     },
     {
         "chapter": "20",
-        "section": "70",
+        "section": "72",
         "date": [ "Year of the Depend Adult Undergarment", "11", "14" ],
         "cluster": "",
         "location": "",
@@ -1241,7 +1251,7 @@
     },
     {
         "chapter": "21",
-        "section": "71",
+        "section": "73",
         "date": [ "Year of the Depend Adult Undergarment", "11", "6" ],
         "cluster": "",
         "location": "",
@@ -1257,7 +1267,7 @@
     },
     {
         "chapter": "21",
-        "section": "72",
+        "section": "74",
         "date": [ "(unspecified)", "", "" ],
         "cluster": "",
         "location": "",
@@ -1273,7 +1283,7 @@
     },
     {
         "chapter": "21",
-        "section": "73",
+        "section": "75",
         "date": [ "Year of the Depend Adult Undergarment", "5/1", "Around midnight April 30" ],
         "cluster": "",
         "location": "",
@@ -1289,7 +1299,7 @@
     },
     {
         "chapter": "22",
-        "section": "74",
+        "section": "76",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
         "cluster": "",
         "location": "",
@@ -1305,7 +1315,7 @@
     },
     {
         "chapter": "22",
-        "section": "75",
+        "section": "77",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
         "cluster": "",
         "location": "",
@@ -1321,7 +1331,7 @@
     },
     {
         "chapter": "22",
-        "section": "76",
+        "section": "78",
         "date": [ "(unspecified)", "", "" ],
         "cluster": "",
         "location": "",
@@ -1337,7 +1347,7 @@
     },
     {
         "chapter": "22",
-        "section": "77",
+        "section": "79",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1353,7 +1363,7 @@
     },
     {
         "chapter": "22",
-        "section": "78",
+        "section": "80",
         "date": [ "Year of the Depend Adult Undergarment", "5/1", "Around midnight April 30" ],
         "cluster": "",
         "location": "",
@@ -1369,7 +1379,7 @@
     },
     {
         "chapter": "22",
-        "section": "79",
+        "section": "81",
         "date": [ "(unspecified)", "", "" ],
         "cluster": "",
         "location": "",
@@ -1385,7 +1395,7 @@
     },
     {
         "chapter": "22",
-        "section": "80",
+        "section": "82",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
         "cluster": "",
         "location": "",
@@ -1401,7 +1411,7 @@
     },
     {
         "chapter": "22",
-        "section": "81",
+        "section": "83",
         "date": [ "(unspecified)", "", "" ],
         "cluster": "",
         "location": "",
@@ -1417,7 +1427,7 @@
     },
     {
         "chapter": "23",
-        "section": "82",
+        "section": "84",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
         "cluster": "",
         "location": "",
@@ -1433,7 +1443,7 @@
     },
     {
         "chapter": "23",
-        "section": "83",
+        "section": "85",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
         "cluster": "",
         "location": "",
@@ -1449,7 +1459,7 @@
     },
     {
         "chapter": "23",
-        "section": "84",
+        "section": "86",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
         "cluster": "",
         "location": "",
@@ -1465,7 +1475,7 @@
     },
     {
         "chapter": "23",
-        "section": "85",
+        "section": "87",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
         "cluster": "",
         "location": "",
@@ -1481,7 +1491,7 @@
     },
     {
         "chapter": "23",
-        "section": "86",
+        "section": "88",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
         "cluster": "",
         "location": "",
@@ -1497,7 +1507,7 @@
     },
     {
         "chapter": "23",
-        "section": "87",
+        "section": "89",
         "date": [ "Year of the Depend Adult Undergarment", "11", "8" ],
         "cluster": "",
         "location": "",
@@ -1513,7 +1523,7 @@
     },
     {
         "chapter": "23",
-        "section": "88",
+        "section": "90",
         "date": [ "Year of the Depend Adult Undergarment", "5/1", "Around midnight April 30" ],
         "cluster": "",
         "location": "",
@@ -1529,7 +1539,7 @@
     },
     {
         "chapter": "23",
-        "section": "89",
+        "section": "91",
         "date": [ "(unspecified)", "", "" ],
         "cluster": "",
         "location": "",
@@ -1545,7 +1555,7 @@
     },
     {
         "chapter": "23",
-        "section": "90",
+        "section": "92",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1561,7 +1571,7 @@
     },
     {
         "chapter": "23",
-        "section": "91",
+        "section": "93",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1577,7 +1587,7 @@
     },
     {
         "chapter": "24",
-        "section": "92",
+        "section": "94",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1593,7 +1603,7 @@
     },
     {
         "chapter": "24",
-        "section": "93",
+        "section": "95",
         "date": [ "Year of the Depend Adult Undergarment", "10/31", "Very late October" ],
         "cluster": "",
         "location": "",
@@ -1609,7 +1619,7 @@
     },
     {
         "chapter": "24",
-        "section": "94",
+        "section": "96",
         "date": [ "Year of the Depend Adult Undergarment", "11", "9" ],
         "cluster": "",
         "location": "",
@@ -1625,7 +1635,7 @@
     },
     {
         "chapter": "24",
-        "section": "95",
+        "section": "97",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1641,7 +1651,7 @@
     },
     {
         "chapter": "24",
-        "section": "96",
+        "section": "98",
         "date": [ "Year of the Depend Adult Undergarment", "5/1", "Pre-dawn May 1" ],
         "cluster": "",
         "location": "",
@@ -1657,7 +1667,7 @@
     },
     {
         "chapter": "24",
-        "section": "97",
+        "section": "99",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1673,7 +1683,7 @@
     },
     {
         "chapter": "25",
-        "section": "98",
+        "section": "100",
         "date": [ "Year of the Depend Adult Undergarment", "5/1", "Pre-dawn May 1" ],
         "cluster": "",
         "location": "",
@@ -1689,7 +1699,7 @@
     },
     {
         "chapter": "25",
-        "section": "99",
+        "section": "101",
         "date": [ "1963", "", "" ],
         "cluster": "",
         "location": "",
@@ -1705,7 +1715,7 @@
     },
     {
         "chapter": "25",
-        "section": "100",
+        "section": "102",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1721,40 +1731,8 @@
     },
     {
         "chapter": "25",
-        "section": "101",
-        "date": [ "Year of the Depend Adult Undergarment", "", "" ],
-        "cluster": "",
-        "location": "",
-        "synopsis": "Marathe and Steeply continued.",
-        "characters": {
-            "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
-            "absent": [ ]
-        },
-        "narrator": "",
-        "motifs": [ ],
-        "filmography": [ ],
-        "endnotes": [ ]
-    },
-    {
-        "chapter": "25",
-        "section": "102",
-        "date": [ "Year of the Depend Adult Undergarment", "", "" ],
-        "cluster": "",
-        "location": "",
-        "synopsis": "Hal anticipates an official scolding from Charles Tavis for the Eschaton game.  He waits in \"Lateral\" Alice Moore's office, overhears Avril counseling the pre-teen female ETAs.",
-        "characters": {
-            "present": [ "Hal Incandenza", "Charles Tavis", "\"Lateral\" Alice Moore", "Avril Incandenza" ],
-            "absent": [ ]
-        },
-        "narrator": "",
-        "motifs": [ ],
-        "filmography": [ ],
-        "endnotes": [ ]
-    },
-    {
-        "chapter": "25",
         "section": "103",
-        "date": [ "Year of the Depend Adult Undergarment", "5/1", "Pre-dawn May 1" ],
+        "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
         "synopsis": "Marathe and Steeply continued.",
@@ -1770,6 +1748,38 @@
     {
         "chapter": "25",
         "section": "104",
+        "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
+        "location": "",
+        "synopsis": "Hal anticipates an official scolding from Charles Tavis for the Eschaton game.  He waits in \"Lateral\" Alice Moore's office, overhears Avril counseling the pre-teen female ETAs.",
+        "characters": {
+            "present": [ "Hal Incandenza", "Charles Tavis", "\"Lateral\" Alice Moore", "Avril Incandenza" ],
+            "absent": [ ]
+        },
+        "narrator": "",
+        "motifs": [ ],
+        "filmography": [ ],
+        "endnotes": [ ]
+    },
+    {
+        "chapter": "25",
+        "section": "105",
+        "date": [ "Year of the Depend Adult Undergarment", "5/1", "Pre-dawn May 1" ],
+        "cluster": "",
+        "location": "",
+        "synopsis": "Marathe and Steeply continued.",
+        "characters": {
+            "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
+            "absent": [ ]
+        },
+        "narrator": "",
+        "motifs": [ ],
+        "filmography": [ ],
+        "endnotes": [ ]
+    },
+    {
+        "chapter": "25",
+        "section": "106",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
         "cluster": "",
         "location": "",
@@ -1785,7 +1795,7 @@
     },
     {
         "chapter": "26",
-        "section": "105",
+        "section": "107",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1801,7 +1811,7 @@
     },
     {
         "chapter": "26",
-        "section": "106",
+        "section": "108",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1817,7 +1827,7 @@
     },
     {
         "chapter": "26",
-        "section": "107",
+        "section": "109",
         "date": [ "Year of the Depend Adult Undergarment", "11/1", "Early November" ],
         "cluster": "",
         "location": "",
@@ -1833,45 +1843,13 @@
     },
     {
         "chapter": "26",
-        "section": "108",
+        "section": "110",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
         "synopsis": "Pemulis interrupts John Wayne and Avril Incandenza in a game of sexual football.",
         "characters": {
             "present": [ "Michael Pemulis", "John Wayne", "Avril Incandenza" ],
-            "absent": [ ]
-        },
-        "narrator": "",
-        "motifs": [ ],
-        "filmography": [ ],
-        "endnotes": [ ]
-    },
-    {
-        "chapter": "26",
-        "section": "109",
-        "date": [ "Year of the Depend Adult Undergarment", "", "" ],
-        "cluster": "",
-        "location": "",
-        "synopsis": "Randy Lenz and Bruce Green walking Boston at night.",
-        "characters": {
-            "present": [ "Randy Lenz", "Bruce Green" ],
-            "absent": [ ]
-        },
-        "narrator": "",
-        "motifs": [ ],
-        "filmography": [ ],
-        "endnotes": [ ]
-    },
-    {
-        "chapter": "26",
-        "section": "110",
-        "date": [ "Year of the Depend Adult Undergarment", "", "" ],
-        "cluster": "",
-        "location": "",
-        "synopsis": "Hal in bed after lunch.  John Wayne stops by.",
-        "characters": {
-            "present": [ "Hal Incandenza", "John Wayne" ],
             "absent": [ ]
         },
         "narrator": "",
@@ -1898,6 +1876,38 @@
     {
         "chapter": "26",
         "section": "112",
+        "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
+        "location": "",
+        "synopsis": "Hal in bed after lunch.  John Wayne stops by.",
+        "characters": {
+            "present": [ "Hal Incandenza", "John Wayne" ],
+            "absent": [ ]
+        },
+        "narrator": "",
+        "motifs": [ ],
+        "filmography": [ ],
+        "endnotes": [ ]
+    },
+    {
+        "chapter": "26",
+        "section": "113",
+        "date": [ "Year of the Depend Adult Undergarment", "", "" ],
+        "cluster": "",
+        "location": "",
+        "synopsis": "Randy Lenz and Bruce Green walking Boston at night.",
+        "characters": {
+            "present": [ "Randy Lenz", "Bruce Green" ],
+            "absent": [ ]
+        },
+        "narrator": "",
+        "motifs": [ ],
+        "filmography": [ ],
+        "endnotes": [ ]
+    },
+    {
+        "chapter": "26",
+        "section": "114",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
         "cluster": "",
         "location": "",
@@ -1913,7 +1923,7 @@
     },
     {
         "chapter": "26",
-        "section": "113",
+        "section": "115",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1929,7 +1939,7 @@
     },
     {
         "chapter": "26",
-        "section": "114",
+        "section": "116",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1945,7 +1955,7 @@
     },
     {
         "chapter": "26",
-        "section": "115",
+        "section": "117",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1961,7 +1971,7 @@
     },
     {
         "chapter": "26",
-        "section": "116",
+        "section": "118",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1977,7 +1987,7 @@
     },
     {
         "chapter": "26",
-        "section": "117",
+        "section": "119",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -1993,7 +2003,7 @@
     },
     {
         "chapter": "26",
-        "section": "118",
+        "section": "120",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2009,7 +2019,7 @@
     },
     {
         "chapter": "26",
-        "section": "119",
+        "section": "121",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2025,7 +2035,7 @@
     },
     {
         "chapter": "26",
-        "section": "120",
+        "section": "122",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2041,7 +2051,7 @@
     },
     {
         "chapter": "27",
-        "section": "121",
+        "section": "123",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2057,7 +2067,7 @@
     },
     {
         "chapter": "27",
-        "section": "122",
+        "section": "124",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
         "cluster": "",
         "location": "",
@@ -2073,7 +2083,7 @@
     },
     {
         "chapter": "27",
-        "section": "123",
+        "section": "125",
         "date": [ "Year of the Depend Adult Undergarment", "5", "1" ],
         "cluster": "",
         "location": "",
@@ -2089,7 +2099,7 @@
     },
     {
         "chapter": "27",
-        "section": "124",
+        "section": "126",
         "date": [ "Year of the Depend Adult Undergarment", "11", "13" ],
         "cluster": "",
         "location": "",
@@ -2105,7 +2115,7 @@
     },
     {
         "chapter": "27",
-        "section": "125",
+        "section": "127",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
         "cluster": "",
         "location": "",
@@ -2121,7 +2131,7 @@
     },
     {
         "chapter": "27",
-        "section": "126",
+        "section": "128",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2137,7 +2147,7 @@
     },
     {
         "chapter": "27",
-        "section": "127",
+        "section": "129",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
         "cluster": "",
         "location": "",
@@ -2153,7 +2163,7 @@
     },
     {
         "chapter": "27",
-        "section": "128",
+        "section": "130",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
         "cluster": "",
         "location": "",
@@ -2169,7 +2179,7 @@
     },
     {
         "chapter": "27",
-        "section": "129",
+        "section": "131",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
         "cluster": "",
         "location": "",
@@ -2185,7 +2195,7 @@
     },
     {
         "chapter": "27",
-        "section": "130",
+        "section": "132",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
         "cluster": "",
         "location": "",
@@ -2201,7 +2211,7 @@
     },
     {
         "chapter": "27",
-        "section": "131",
+        "section": "133",
         "date": [ "Year of the Depend Adult Undergarment", "11", "14" ],
         "cluster": "",
         "location": "",
@@ -2217,7 +2227,7 @@
     },
     {
         "chapter": "27",
-        "section": "132",
+        "section": "134",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2233,7 +2243,7 @@
     },
     {
         "chapter": "27",
-        "section": "133",
+        "section": "135",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2249,7 +2259,7 @@
     },
     {
         "chapter": "27",
-        "section": "134",
+        "section": "136",
         "date": [ "Year of the Depend Adult Undergarment", "11", "14" ],
         "cluster": "",
         "location": "",
@@ -2265,7 +2275,7 @@
     },
     {
         "chapter": "27",
-        "section": "135",
+        "section": "137",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2281,7 +2291,7 @@
     },
     {
         "chapter": "27",
-        "section": "136",
+        "section": "138",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2297,7 +2307,7 @@
     },
     {
         "chapter": "27",
-        "section": "137",
+        "section": "139",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2313,7 +2323,7 @@
     },
     {
         "chapter": "27",
-        "section": "138",
+        "section": "140",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2329,7 +2339,7 @@
     },
     {
         "chapter": "27",
-        "section": "139",
+        "section": "141",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2345,7 +2355,7 @@
     },
     {
         "chapter": "27",
-        "section": "140",
+        "section": "142",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2361,7 +2371,7 @@
     },
     {
         "chapter": "27",
-        "section": "141",
+        "section": "143",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2377,7 +2387,7 @@
     },
     {
         "chapter": "27",
-        "section": "142",
+        "section": "144",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2393,7 +2403,7 @@
     },
     {
         "chapter": "27",
-        "section": "143",
+        "section": "145",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2409,7 +2419,7 @@
     },
     {
         "chapter": "27",
-        "section": "144",
+        "section": "146",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2425,7 +2435,7 @@
     },
     {
         "chapter": "27",
-        "section": "145",
+        "section": "147",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2441,7 +2451,7 @@
     },
     {
         "chapter": "27",
-        "section": "146",
+        "section": "148",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2457,7 +2467,7 @@
     },
     {
         "chapter": "27",
-        "section": "147",
+        "section": "149",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2473,7 +2483,7 @@
     },
     {
         "chapter": "27",
-        "section": "148",
+        "section": "150",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2489,7 +2499,7 @@
     },
     {
         "chapter": "27",
-        "section": "149",
+        "section": "151",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2505,7 +2515,7 @@
     },
     {
         "chapter": "27",
-        "section": "150",
+        "section": "152",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2521,7 +2531,7 @@
     },
     {
         "chapter": "27",
-        "section": "151",
+        "section": "153",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2537,7 +2547,7 @@
     },
     {
         "chapter": "27",
-        "section": "152",
+        "section": "154",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2553,7 +2563,7 @@
     },
     {
         "chapter": "27",
-        "section": "153",
+        "section": "155",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2569,7 +2579,7 @@
     },
     {
         "chapter": "27",
-        "section": "154",
+        "section": "156",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2585,7 +2595,7 @@
     },
     {
         "chapter": "27",
-        "section": "155",
+        "section": "157",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2601,7 +2611,7 @@
     },
     {
         "chapter": "27",
-        "section": "156",
+        "section": "158",
         "date": [ "Year of the Depend Adult Undergarment", "11", "11" ],
         "cluster": "",
         "location": "",
@@ -2617,7 +2627,7 @@
     },
     {
         "chapter": "27",
-        "section": "157",
+        "section": "159",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2633,7 +2643,7 @@
     },
     {
         "chapter": "27",
-        "section": "158",
+        "section": "160",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2649,7 +2659,7 @@
     },
     {
         "chapter": "27",
-        "section": "159",
+        "section": "161",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2665,7 +2675,7 @@
     },
     {
         "chapter": "27",
-        "section": "160",
+        "section": "162",
         "date": [ "Year of the Depend Adult Undergarment", "11", "17" ],
         "cluster": "",
         "location": "",
@@ -2681,7 +2691,7 @@
     },
     {
         "chapter": "27",
-        "section": "161",
+        "section": "163",
         "date": [ "(unspecified)", "", "" ],
         "cluster": "",
         "location": "",
@@ -2697,7 +2707,7 @@
     },
     {
         "chapter": "27",
-        "section": "162",
+        "section": "164",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2713,7 +2723,7 @@
     },
     {
         "chapter": "27",
-        "section": "163",
+        "section": "165",
         "date": [ "(unspecified)", "", "" ],
         "cluster": "",
         "location": "",
@@ -2729,7 +2739,7 @@
     },
     {
         "chapter": "27",
-        "section": "164",
+        "section": "166",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2745,7 +2755,7 @@
     },
     {
         "chapter": "28",
-        "section": "165",
+        "section": "167",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2761,7 +2771,7 @@
     },
     {
         "chapter": "28",
-        "section": "166",
+        "section": "168",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2777,7 +2787,7 @@
     },
     {
         "chapter": "28",
-        "section": "167",
+        "section": "169",
         "date": [ "Year of the Depend Adult Undergarment", "11", "16" ],
         "cluster": "",
         "location": "",
@@ -2793,7 +2803,7 @@
     },
     {
         "chapter": "28",
-        "section": "168",
+        "section": "170",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2809,7 +2819,7 @@
     },
     {
         "chapter": "28",
-        "section": "169",
+        "section": "171",
         "date": [ "Year of the Depend Adult Undergarment", "11", "20" ],
         "cluster": "",
         "location": "",
@@ -2825,7 +2835,7 @@
     },
     {
         "chapter": "28",
-        "section": "170",
+        "section": "172",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2841,7 +2851,7 @@
     },
     {
         "chapter": "28",
-        "section": "171",
+        "section": "173",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2857,7 +2867,7 @@
     },
     {
         "chapter": "28",
-        "section": "172",
+        "section": "174",
         "date": [ "Year of the Depend Adult Undergarment", "11", "20" ],
         "cluster": "",
         "location": "",
@@ -2873,7 +2883,7 @@
     },
     {
         "chapter": "28",
-        "section": "173",
+        "section": "175",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2889,7 +2899,7 @@
     },
     {
         "chapter": "28",
-        "section": "174",
+        "section": "176",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2905,7 +2915,7 @@
     },
     {
         "chapter": "28",
-        "section": "175",
+        "section": "177",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2921,7 +2931,7 @@
     },
     {
         "chapter": "28",
-        "section": "176",
+        "section": "178",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2937,7 +2947,7 @@
     },
     {
         "chapter": "28",
-        "section": "177",
+        "section": "179",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2953,7 +2963,7 @@
     },
     {
         "chapter": "28",
-        "section": "178",
+        "section": "180",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2969,7 +2979,7 @@
     },
     {
         "chapter": "28",
-        "section": "179",
+        "section": "181",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -2985,7 +2995,7 @@
     },
     {
         "chapter": "28",
-        "section": "180",
+        "section": "182",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -3001,7 +3011,7 @@
     },
     {
         "chapter": "28",
-        "section": "181",
+        "section": "183",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -3017,7 +3027,7 @@
     },
     {
         "chapter": "28",
-        "section": "182",
+        "section": "184",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -3033,7 +3043,7 @@
     },
     {
         "chapter": "28",
-        "section": "183",
+        "section": "185",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -3049,7 +3059,7 @@
     },
     {
         "chapter": "28",
-        "section": "184",
+        "section": "186",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -3065,7 +3075,7 @@
     },
     {
         "chapter": "28",
-        "section": "185",
+        "section": "187",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -3081,7 +3091,7 @@
     },
     {
         "chapter": "28",
-        "section": "186",
+        "section": "188",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -3097,7 +3107,7 @@
     },
     {
         "chapter": "28",
-        "section": "187",
+        "section": "189",
         "date": [ "Year of the Depend Adult Undergarment", "11", "20" ],
         "cluster": "",
         "location": "",
@@ -3113,7 +3123,7 @@
     },
     {
         "chapter": "28",
-        "section": "188",
+        "section": "190",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
@@ -3129,7 +3139,7 @@
     },
     {
         "chapter": "28",
-        "section": "189",
+        "section": "191",
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
         "cluster": "",
         "location": "",
