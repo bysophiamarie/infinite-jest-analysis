@@ -136,7 +136,7 @@
             "present": [ "Hal Incandenza", "James Orin Incandenza" ],
             "absent": [
                 "Dr. Zegarelli",
-                "M. DuPlessis",
+                "Guillaume DuPlessis",
                 "Luria P---",
                 "Avril Incandenza",
                 "Medical Attaché",
@@ -193,6 +193,7 @@
             "April 1st",
             "Statue of Liberty",
             "Töblerone",
+            "Kif",
             "Mold/Yeast/Fungus",
             "Mr. Bouncety-Bounce",
             "Tawni Kondo",
@@ -330,7 +331,7 @@
             ]
         },
         "motifs": [
-            "Lung", "Pump Room", "TesTar", "ATHSCME", "Tunnel Club", "Interdependence Day", "The Show",
+            "Lung", "Pump Room, ETA", "TesTar", "ATHSCME", "Tunnel Club", "Interdependence Day", "The Show",
             "Oral-B", "Visine (implicit)", "Old Spice", "Kodiak", "Secrecy"
         ],
         "filmography": [ ],
@@ -362,50 +363,77 @@
     {
         "chapter": "7",
         "section": "16",
-        "kindle": 1208
+        "kindle": 1208,
+        "date": [ "Year of the Depend Adult Undergarment", "4", "2", "0015h-0020h" ],
+        "cluster": "AFR",
+        "location": "Medical Attaché's apartment, Boston, MA",
+        "synopsis": "The medical attaché is watching some \"Entertainment\".",
+        "characters": { "present": [ "Medical Attaché", "Medical Attaché's wife" ] },
+        "motifs": [ "Kif" ],
+        "endnotes": [ 11 ]
     },
+    { "endnote": "11", "motifs": [ ] },
     {
         "chapter": "7",
         "section": "17",
-        "kindle": 1214
+        "kindle": 1214,
+        "date": [ "Year of the Depend Adult Undergarment" ],
+        "cluster": "ETA",
+        "location": "ETA",
+        "synopsis": "Mario's filmic function",
+        "characters": {
+            "present": [ "Mario Incandenza" ],
+            "absent": [ "Gerhardt Schtitt" ]
+        },
+        "motifs": [ "Tripod" ]
     },
     {
         "chapter": "7",
         "section": "18",
-        "date": [ "Year of Dairy Products from the American Heartland", "9/22", "Autumn" ],
-        "cluster": "",
-        "location": "",
+        "kindle": 1219,
+        "date": [ "Year of Dairy Products from the American Heartland", "", "", "Autumn" ],
+        "cluster": "Ennett",
+        "location": [ "Revere, MA", "Brookline, MA" ],
         "synopsis": "Don Gately's criminal career comes to an end after accidentally murdering a Canadian VIP during a robbery. This VIP has ties to various anti-ONAN groups.",
         "characters": {
-            "present": [ "Don Gately" ],
-            "absent": [ ]
+            "present": [ "Don Gately", "Assistant District Attorney", "Guillaume DuPlessis" ],
+            "absent": [ "Trent Kite" ]
         },
-        "narrator": "",
-        "motifs": [ ],
-        "filmography": [ ],
-        "endnotes": [ ]
+        "motifs": [
+            "Square head", "Kismet", "E.W.D.", "NyQuil", "Feral hamsters",
+            "Great Concavity", "Great Convexity"
+        ],
+        "endnotes": [ 12, 13, 14, 15, 16, 17, 18, 19, 20 ]
     },
+    { "endnote": "12", "motifs": [ "Kiss of the forehead" ] },
+    { "endnote": "13", "characters": { "present": [ "Trent Kite" ] } },
+    { "endnote": "14", "motifs": [ "Stetson" ] },
+    { "endnote": "15", "motifs": [ "A.T.F", "U.S.O.U.S." ] },
+    {
+        "endnote": "16",
+        "motifs": [ "The Entertainment" ],
+        "characters": { "present": [ "Trent Kite" ] }
+    },
+    { "endnote": "17", "characters": { "present": [ "Don Gately" ] }, "motifs": [ "NyQuil" ] },
+    { "endnote": "18", "motifs": [ "Stolen cartridges" ] },
+    { "endnote": "19", "motifs": [ "French language" ] },
+    { "endnote": "20", "motifs": [ "Fluorescent light", "Ad-cards" ] },
     {
         "chapter": "7",
         "section": "19",
+        "kindle": 1326,
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
-        "cluster": "",
-        "location": "",
+        "cluster": "unspecified",
+        "location": "unspecified",
         "synopsis": "Description of a state-of-the-art teleputer.",
-        "characters": {
-            "present": [ "" ],
-            "absent": [ ]
-        },
-        "narrator": "",
-        "motifs": [ ],
-        "filmography": [ ],
-        "endnotes": [ ]
+        "motifs": [ "Screens so high-def you might as well be there" ]
     },
     {
         "chapter": "7",
         "section": "20",
+        "kindle": 1332,
         "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
-        "cluster": "",
+        "cluster": "ETA",
         "location": "",
         "synopsis": "Troeltsch sick in bed at ETA.",
         "characters": {
