@@ -20,7 +20,8 @@ one being a hash with the following keys:
         - comments (if applicable)
     cluster: the narrative cluster, indicating sub-plots.
         One of "ETA", "Ennett", "AFR".
-    location: broadly defined physical location
+    location: broadly defined physical locations where the action
+        takes place (as an array)
     synopsis: short synopsis of the section
     characters: hash consisting of
         present: array of present characters
