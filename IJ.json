@@ -285,7 +285,7 @@
         },
         "motifs": [
             "#71", "Air Conditioning", "Bird falling in the jacuzzi",
-            "Roaches", "Upside-down tumbler",
+            "Insects (Roaches)", "Upside-down tumbler",
             "Blind infants", "Hilltop graveyard slide",
             "Dream", "Disembodied head", "Töblerone", "E.W.D.",
             "Moment Magazine", "Shaving south-to-north", "Telephone"
@@ -434,55 +434,63 @@
         "kindle": 1332,
         "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
         "cluster": "ETA",
-        "location": [ "" ],
+        "location": [ "ETA, room 204, subdormitory B (Troeltsch's room)" ],
         "synopsis": "Troeltsch sick in bed at ETA.",
         "characters": {
-            "present": [ "Jim Troeltsch" ],
-            "absent": [ ]
+            "present": [ "Jim Troeltsch", "Wraith(?)" ],
+            "absent": [ "Michael Pemulis", "Graham Rader", "Ted Schacht" ]
         },
-        "narrator": "",
-        "motifs": [ ],
-        "filmography": [ ],
-        "endnotes": [ ]
+        "motifs": [ "Paranoid King", "Illness", "ATHSCME" ],
+        "endnotes": [ 21 ]
     },
+    { "endnote": "21", "endnotes": [ 211 ] },
+    { "endnote": "22", "motifs": [ "Medecine (Antihistamine)" ] },
     {
         "chapter": "7",
         "section": "21",
+        "kindle": 1362,
         "date": [ "(unspecified)", "", "" ],
-        "cluster": "",
-        "location": [ "" ],
+        "cluster": "ETA",
+        "location": [ "ETA" ],
         "synopsis": "Description of 12 yr old's nightmare at ETA.",
-        "characters": {
-            "present": [ "" ],
-            "absent": [ ]
-        },
-        "narrator": "",
-        "motifs": [ ],
-        "filmography": [ ],
-        "endnotes": [ ]
+        "characters": { "present": [ "Unknown ETA boy" ] },
+        "narrator": "Unknown ETA boy",
+        "motifs": [ "Nightmare", "Tawni Kondo", "Face in the floor" ]
     },
     {
         "chapter": "8",
         "section": "22",
+        "kindle": 1392,
         "date": [ "Year of the Depend Adult Undergarment", "", "" ],
-        "cluster": "",
-        "location": [ "" ],
+        "cluster": "ETA",
+        "location": [ "ETA" ],
         "synopsis": "Brief description and history of ETA and its founder, James O. Incandenza.",
         "characters": {
-            "present": [ "James Orin Incandenza" ],
-            "absent": [ ]
+            "absent": [
+                "James Orin Incandenza", "Charles Tavis", "Avril Incandenza",
+                "Orin Incandenza", "Johnny Gentle"
+            ]
         },
-        "narrator": "",
-        "motifs": [ ],
-        "filmography": [ ],
-        "endnotes": [ ]
+        "motifs": [
+            "Method acting", "Tucson, AZ", "Insects (Spiders)", "O.N.R.", "Optics",
+            "Annular fusion", "Videophonic Tableaux", "Fluorescent light", "U.S.T.A.",
+            "Après-garde", "Prescriptive Grammar", "R.C.M.P.", "Québecois-Separatist Left",
+            "L'Islet County", "Burial"
+        ],
+        "endnotes": [ 23, 24 ]
+    },
+    { "endnote": "23", "motifs": [ "O.N.R." ] },
+    {
+        "endnote": "24",
+        "synopsis": "The Filmography"
     },
     {
         "chapter": "8",
         "section": "23",
+        "kindle": 1439,
         "date": [ "Year of the Depend Adult Undergarment", "11", "1" ],
         "cluster": "",
-        "location": [ "" ],
+        "location": [ "Denver, CO" ],
         "synopsis": "Orin at football practice.",
         "characters": {
             "present": [ "Orin Incandenza" ],
