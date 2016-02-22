@@ -1,6 +1,422 @@
 [
 {
     "number": 1,
+    "film": "Cage",
+    "date": "BS",
+    "company": "Meniscus Films",
+    "storage_medium": "16mm",
+    "length": 0.5,
+    "color": "bw",
+    "sound": "sound",
+    "motifs": [ "Ad", "Shampoo", "Parody", "Mirrors" ],
+    "distribution_medium": "unreleased",
+    "characters": { "cast": [ "Uncredited actress" ] }
+},
+{
+    "number": 2,
+    "film": "Kinds of Light",
+    "date": "BS",
+    "company": "Meniscus Films",
+    "storage_medium": "16mm",
+    "length": 3,
+    "color": "color",
+    "sound": "silent",
+    "motifs": [ "Optics", "Light", "Frames" ],
+    "distribution_medium": "celluloid"
+},
+{
+    "number": 3,
+    "film": "Dark Logic",
+    "date": "BS",
+    "company": "Meniscus Films",
+    "storage_medium": "35mm",
+    "length": 21,
+    "color": "color",
+    "sound": "silent",
+    "motifs": [ "D.W. Griffith", "Taka Iimura", "Parody" ],
+    "distribution_medium": "unreleased"
+},
+{
+    "number": 4,
+    "film": "Tennis, Everyone?",
+    "date": "BS",
+    "company": "Heliotrope Films / U.S.T.A. Films",
+    "storage_medium": "35mm",
+    "length": 26,
+    "color": "color",
+    "sound": "sound",
+    "motifs": [ "Tennis", "Wilson Sporting Goods", "Documentary" ],
+    "distribution_medium": "magnetic video",
+    "characters": { "cast": [ "Judith Fukuoka-Hearn" ] }
+},
+{
+    "number": 5,
+    "film": "There Are No Losers Here",
+    "date": "BS",
+    "company": "Heliotrope Films / U.S.T.A. Films",
+    "storage_medium": "35mm",
+    "length": "unspecified",
+    "color": "color",
+    "sound": "sound",
+    "motifs": [ "Tennis", "Wilson Sporting Goods", "Documentary" ],
+    "distribution_medium": "magnetic video",
+    "characters": { "cast": [ "P.A. Heaven" ] }
+},
+{
+    "number": 6,
+    "film": "Flux in a Box",
+    "date": "BS",
+    "company": "Heliotrope Films / Wilson Inc.",
+    "storage_medium": "35mm",
+    "length": 52,
+    "color": "bw, color",
+    "sound": "sound",
+    "motifs": [ "Tennis", "History", "Documentary" ],
+    "distribution_medium": "magnetic video",
+    "characters": { "cast": [ "Judith Fukuoka-Hearn" ] }
+},
+{
+    "number": 7,
+    "film": "Infinite Jest (I)",
+    "date": "BS",
+    "company": "Meniscus Films",
+    "storage_medium": "16/35mm",
+    "length": 90,
+    "color": "bw",
+    "sound": "silent",
+    "motifs": [ "Entertainment" ],
+    "distribution_medium": "unreleased",
+    "characters": { "cast": [ "Judith Fukuoka-Hearn" ] }
+},
+{
+    "number": 8,
+    "film": "Annular Fusion Is Our Friend",
+    "date": "BS",
+    "company": "Heliotrope Films / Sunstrand Power & Light Co.",
+    "storage_medium": "78mm",
+    "length": 45,
+    "color": "color",
+    "sound": "sound",
+    "motifs": [ "Annular fusion", "Documentary" ],
+    "distribution_medium": "celluloid, magnetic video",
+    "characters": { "cast": [ "C.N. Reilly" ] }
+},
+{
+    "number": 9,
+    "film": "Annular Amplified Light: Some Reflections",
+    "date": "BS",
+    "company": "Heliotrope Films / Sunstrand Power & Light Co.",
+    "storage_medium": "78mm",
+    "length": 45,
+    "color": "color",
+    "sound": "sound",
+    "motifs": [ "Annular fusion", "Documentary" ],
+    "distribution_medium": "celluloid, magnetic video",
+    "characters": { "cast": [ "C.N. Reilly" ] }
+},
+{
+    "number": 10,
+    "film": "Union of Nurses in Berkeley",
+    "date": "BS (1996)",
+    "company": "Meniscus Films",
+    "storage_medium": "35mm",
+    "length": 26,
+    "color": "color",
+    "sound": "silent",
+    "motifs": [ "Documentary", "Bay Area health care reform riots" ],
+    "distribution_medium": "magnetic video"
+},
+{
+    "number": 11,
+    "film": "Union of Theoretical Grammarians in Cambridge",
+    "date": "BS (1997)",
+    "company": "Meniscus Films",
+    "storage_medium": "35mm",
+    "length": 26,
+    "color": "color",
+    "sound": "silent",
+    "motifs": [
+        "Documentary", "Prescriptive Grammar",
+        "Militant Grammarians of Massachusetts",
+        "M.I.T. language riots"
+    ],
+    "distribution_medium": "unreleased",
+    "characters": {
+        "cast": [ "Steven Pinker", "Avril Incandenza" ]
+    }
+},
+{
+    "number": 12,
+    "film": "Widower",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "35mm",
+    "length": 34,
+    "color": "bw",
+    "sound": "sound",
+    "motifs": [ "Parody", "Tucson, AZ", "Insects (Spiders)", "Cocaine" ],
+    "distribution_medium": "celluloid, interlace telent cartridge",
+    "characters": {
+        "cast": [ "Cosgrove Watt", "Ross Reat" ]
+    }
+},
+{
+    "number": 13,
+    "film": "Cage II",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "35mm",
+    "length": 120,
+    "color": "bw",
+    "sound": "sound",
+    "motifs": [ "Blindness", "Deafness", "Prison", "Communication" ],
+    "distribution_medium": "celluloid, magnetic video",
+    "characters": {
+        "cast": [ "Cosgrove Watt", "Disney Leith" ]
+    }
+},
+{
+    "number": 14,
+    "film": "Death in Scarsdale",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "78mm",
+    "length": 39,
+    "color": "color",
+    "sound": "silent",
+    "motifs": [ "Parody", "Endocrinology", "Excessive perspiration" ],
+    "distribution_medium": "unreleased",
+    "characters": {
+        "cast": [ "Cosgrove Watt", "Marlon Bain" ]
+    }
+},
+{
+    "number": 15,
+    "film": "Fun with Teeth",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "35mm",
+    "length": 73,
+    "color": "bw",
+    "sound": "silent",
+    "motifs": [ "Parody", "Teeth", "Dentist", "Adultery" ],
+    "distribution_medium": "magnetic video",
+    "characters": {
+        "cast": [ "Herbert G. Birch", "Billy Tolan", "Pam Heath" ]
+    }
+},
+{
+    "number": 16,
+    "film": "Infinite Jest (II)",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "35/78mm",
+    "length": 90,
+    "color": "bw",
+    "sound": "silent",
+    "motifs": [ "Entertainment" ],
+    "distribution_medium": "unreleased",
+    "characters": { "cast": [ "Pam Heath" ] }
+},
+{
+    "number": 17,
+    "film": "Immanent Domain",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "35mm",
+    "length": 88,
+    "color": "bw",
+    "sound": "sound",
+    "motifs": [ "Neurons", "Psychoanalysis" ],
+    "distribution_medium": "celluloid, interlace telent cartridge",
+    "characters": {
+        "cast": [
+            "Cosgrove Watt", "Judith Fukuoka-Hearn", "Pam Heath",
+            "Pamela-Sue Voorheis", "Herbert G. Birch"
+        ]
+    }
+},
+{
+    "number": 18,
+    "film": "Kinds of Pain",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "35/78mm",
+    "length": 6,
+    "color": "color",
+    "sound": "silent",
+    "motifs": [ "Pain", "Frames" ],
+    "distribution_medium": "celluloid",
+    "characters": { "cast": [ "Uncredited" ] }
+},
+{
+    "number": 19,
+    "film": "Various Small Flames",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "16mm",
+    "length": 25,
+    "color": "color",
+    "sound": "silent",
+    "motifs": [ "Adultery", "Flames" ],
+    "distribution_medium": "unreleased, interlace telent cartridge",
+    "characters": {
+        "cast": [ "Cosgrove Watt", "Pam Heath", "Ken N. Johnson" ]
+    }
+},
+{
+    "number": 20,
+    "film": "Cage III - Free Show",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions / Infernatron Animation Concepts",
+    "storage_medium": "35mm",
+    "length": 65,
+    "color": "bw",
+    "sound": "sound",
+    "motifs": [ "Death", "Life", "Eyeballs", "Compelling entertainment" ],
+    "distribution_medium": "interlace telent cartridge",
+    "characters": {
+        "cast": [ "Cosgrove Watt", "P.A. Heaven", "Everard Maynell", "Pam Heath" ]
+    }
+},
+{
+    "number": 21,
+    "film": "The Medusa v. the Odalisque",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "holography, 78mm",
+    "length": 29,
+    "color": "bw",
+    "sound": "silent",
+    "motifs": [ "Mirrors" ],
+    "distribution_medium": "celluloid, magnetic video",
+    "characters": {
+        "cast": [ "Uncredited" ],
+        "other": [ "Urquhart Ogilvie, Jr.", "Kenjiru Hirota" ]
+    }
+},
+{
+    "number": 22,
+    "film": "The Machine in the Ghost: Annular Holography for Fun and Prophet",
+    "date": "BS",
+    "company": "Heliotrope Films / National Film Board of Canada",
+    "storage_medium": "78mm",
+    "length": 35,
+    "color": "color",
+    "sound": "sound",
+    "motifs": [ "Annular fusion", "Holography" ],
+    "distribution_medium": "unreleased",
+    "characters": { "cast": [ "P.A. Heaven" ] }
+},
+{
+    "number": 23,
+    "film": "Homo Duplex",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "Super-8",
+    "length": 70,
+    "color": "bw",
+    "sound": "sound",
+    "motifs": [ "Parody" ],
+    "distribution_medium": "magnetic video",
+    "characters": { "cast": [ "P.A. Heaven", "John Wayne" ] }
+},
+{
+    "number": 24,
+    "film": "Zero-Gravity Tea Ceremony",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "35mm",
+    "length": 82,
+    "color": "bw, color",
+    "sound": "silent",
+    "distribution_medium": "interlace telent cartridge",
+    "characters": {
+        "cast": [ "Ken N. Johnson", "Judith Fukuoka-Hearn", "Brandt", "Kenkle" ]
+    }
+},
+{
+    "number": 25,
+    "film": "Pre-Nuptial Agreement of Heaven and Hell",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions / Infernatron Animation Concepts",
+    "storage_medium": "35mm",
+    "length": 59,
+    "color": "color",
+    "sound": "sound",
+    "motifs": [ "Sandwich-bag salesman", "The Ecstasy of St. Teresa" ],
+    "distribution_medium": "celluloid, magnetic video",
+    "characters": { "cast": [ "Uncredited" ] }
+},
+{
+    "number": 26,
+    "film": "The Joke",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "35mm",
+    "length": "variable",
+    "color": "bw",
+    "sound": "silent",
+    "motifs": [ "Parody" ],
+    "distribution_medium": "nonrecorded"
+},
+{
+    "number": 27,
+    "film": "Various Lachrymose U.S. Corporate Middle-Management Figures",
+    "date": "unfinished",
+    "distribution_medium": "unreleased"
+},
+{
+    "number": 28,
+    "film": "Every Inch of Disney Leith",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions / Medical Imagery of Alberta",
+    "storage_medium": "35mm",
+    "length": 253,
+    "color": "color",
+    "sound": "silent",
+    "distribution_medium": "magnetic video, interlace telent cartridge",
+    "characters": { "cast": [ "Disney Leith" ] }
+},
+{
+    "number": 29,
+    "film": "Infinite Jest (III)",
+    "date": "BS",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "16/35mm",
+    "color": "color",
+    "sound": "sound",
+    "motifs": [ "Entertainment" ],
+    "distribution_medium": "unreleased",
+    "characters": { "cast": [ "Uncredited" ] }
+},
+{
+    "number": 30,
+    "film": "Found Drama I, II, III...",
+    "distribution_medium": "unreleased"
+},
+{
+    "number": 31,
+    "film": "The Man Who Began to Suspect He Was Made of Glass",
+    "date": "Year of the Whopper",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "35mm",
+    "length": 21,
+    "color": "bw",
+    "sound": "sound",
+    "motifs": [ "Psychotherapy" ],
+    "distribution_medium": "interlace telent cartridge",
+    "characters": {
+        "cast": [ "Cosgrove Watt", "Gerhardt Schtitt" ]
+    }
+},
+{
+    "number": 32,
+    "film": "Found Drama V, VI...",
+    "distribution_medium": "unreleased"
+},
+{
+    "number": 0,
     "film": "",
     "date": "",
     "company": "",
@@ -14,5 +430,6 @@
         "cast": [ ],
         "other": [ ]
     }
-}
+},
+{ }
 ]
