@@ -1,0 +1,18 @@
+[
+{
+    "number": 1,
+    "film": "",
+    "date": "",
+    "company": "",
+    "storage_medium": "",
+    "length": "",
+    "color": "",
+    "sound": "",
+    "motifs": [ ],
+    "distribution_medium": "",
+    "characters": {
+        "cast": [ ],
+        "other": [ ]
+    }
+}
+]

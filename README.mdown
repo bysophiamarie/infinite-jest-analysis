@@ -31,13 +31,21 @@ one being a hash with the following keys:
     filmography: array of titles of JOI's movies referenced explicitly or
         implicitly in the section
 
-There will also be entries for James Orin Incandenza's filmography (from
-endnote 24):
+There's a separate file for James Orin Incandenza's filmography (from endnote 24):
 
     number: ordinal
     film: film title
-    date: release date (year)
-    actors: array of actors
+    date: year of completion
+    company: name of the production company
+    storage_medium: typically in mm
+    length: (in minutes)
+    color: "bw", "color", or "both"
+    sound: "silent", "sound", or "both"
+    motifs: array of motifs
+    distribution_medium: distribution medium or "unreleased"
+    characters: hash consisting of
+        cast: array of actors
+        other: other characters mentioned by name, but not actors
 
 The initial data set, notably synopses and division in numbered sections, has
 been taken from [*Infinite Jest: a scene-by-scene
