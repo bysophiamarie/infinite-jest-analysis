@@ -416,6 +416,307 @@
     "distribution_medium": "unreleased"
 },
 {
+    "number": 33,
+    "film": "The American Century as Seen Through a Brick",
+    "date": "Year of the Whopper",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "35mm",
+    "length": 52,
+    "color": "color",
+    "sound": "silent",
+    "motifs": [
+        "Documentary", "Found art", "E.W.D.", "F.L.Q.", "Anti-O.N.A.N riots", "Plucked string"
+    ],
+    "distribution_medium": "magnetic video",
+    "characters": { "cast": [ "P.A. Heaven" ] }
+},
+{
+    "number": 34,
+    "film": "The ONANtiad",
+    "date": "Year of the Whopper",
+    "company": "Latrodectus Mactans Productions / Infernatron Animation Concepts",
+    "storage_medium": "35mm",
+    "length": 76,
+    "color": "bw, color",
+    "sound": "sound, silent",
+    "motifs": [ "Adultery", "Continental Reconfiguration" ],
+    "distribution_medium": "magnetic video",
+    "characters": {
+        "cast": [
+            "Cosgrove Watt", "P.A. Heaven", "Pam Heath", "Ken N. Johnson", "Ibn-Said Chawaf",
+            "Squyre Frydell", "Marla-Dean Chumm", "Herbert G. Birch", "Everard Meynell"
+        ]
+    }
+},
+{
+    "number": 35,
+    "film": "The Universe Lashes Out",
+    "date": "Year of the Whopper",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "16mm",
+    "length": 28,
+    "color": "color",
+    "sound": "silent",
+    "motifs": [ "Documentary", "Continental Reconfiguration" ],
+    "distribution_medium": "magnetic video",
+    "characters": { "cast": [ "Herbert G. Birch" ] }
+},
+{
+    "number": 36,
+    "film": "Poultry in Motion",
+    "date": "Year of the Whopper",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "16mm",
+    "length": 56,
+    "color": "color",
+    "sound": "silent",
+    "motifs": [ "Documentary", "Turkey", "North Syracuse, NNY" ],
+    "distribution_medium": "magnetic video",
+    "characters": { "cast": [ "P.A. Heaven" ] }
+},
+{
+    "number": 37,
+    "film": "Found Drama IX, X, XI...",
+    "distribution_medium": "unreleased"
+},
+{
+    "number": 38,
+    "film": "Möbius Strips",
+    "date": "Year of the Whopper",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "35mm",
+    "length": 109,
+    "color": "bw",
+    "sound": "sound",
+    "motifs": [ "Parody", "Mathematics", "Death" ],
+    "distribution_medium": "interlace telent cartridge",
+    "characters": {
+        "cast": [ "Hugh G. Rection", "Pam Heath", "Bunny Day", "Taffy Appel" ]
+    }
+},
+{
+    "number": 39,
+    "film": "Wave Bye-Bye to the Bureaucrat",
+    "date": "Year of the Whopper",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "16mm",
+    "length": 19,
+    "color": "bw",
+    "sound": "sound",
+    "motifs": [ "Christ", "Church of Jesus Christ of Latter-Day Saints" ],
+    "characters": {
+        "cast": [ "Everard Maynell", "Phillip T. Smothergill", "Paul Anthony Heaven", "Pamela-Sue Voorheis" ],
+        "other": [ "Romney", "Sperber" ]
+    }
+},
+{
+    "number": 40,
+    "film": "Blood Sister: One Though Nun",
+    "date": "Year of the Tucks Medicated Pad",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "35mm",
+    "length": 90,
+    "color": "color",
+    "sound": "sound",
+    "motifs": [
+        "Parody"
+    ],
+    "distribution_medium": "interlace telent cartridge",
+    "characters": {
+        "cast": [ "Telma Hurley", "Pam Heath", "Marla-Dean Chumm", "Diane Saltoone", "Soma Richardson-Levy", "Cosgrove Watt" ]
+    }
+},
+{
+    "number": 41,
+    "film": "Infinite Jest (IV)",
+    "date": "Year of the Tucks Medicated Pad",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "78mm",
+    "length": 90,
+    "color": "color",
+    "sound": "sound",
+    "motifs": [ "Entertainment" ],
+    "distribution_medium": "unreleased",
+    "characters": {
+        "cast": [ "Pam Heath", "Madame Psychosis" ]
+    }
+},
+{
+    "number": 42,
+    "film": "Let There Be Lite",
+    "date": "Year of the Tucks Medicated Pad",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "storage_medium": "16mm",
+    "length": 50,
+    "color": "bw",
+    "sound": "silent",
+    "motifs": [ "Documentary", "Alcohol (Bourbon)" ],
+    "distribution_medium": "unreleased",
+    "characters": { "cast": [ "Ken N. Johnson" ] }
+},
+{ "number": 43, "film": "Untitled", "date": "unfinished", "distribution_medium": "unreleased" },
+{
+    "number": 44,
+    "film": "No Troy",
+    "date": "Year of the Whopper",
+    "company": "Latrodectus Mactans Productions",
+    "storage_medium": "holography, 35mm",
+    "length": 7,
+    "color": "color",
+    "sound": "silent",
+    "motifs": [ "Troy, NY", "Bombardment", "Waste Displacement" ],
+    "distribution_medium": "magnetic video",
+    "characters": { "other": [ "Urquhart Ogilvie, Jr." ] }
+},
+{ "number": 45, "film": "Untitled", "date": "unfinished", "distribution_medium": "unreleased" },
+{
+    "number": 46,
+    "film": "Valuable Coupon Has Been Reomved",
+    "date": "Year of the Tucks Medicated Pad",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "storage_medium": "15mm",
+    "length": 52,
+    "color": "color",
+    "sound": "silent",
+    "motifs": [ "Parody", "Annular fusion", "Dismantled bed", "Rodents", "Father" ],
+    "distribution_medium": "celluloid, unreleased",
+    "characters": {
+        "cast": [ "Cosgrove Watt", "Phillip T. Smothergill", "Diane Saltoone" ]
+    }
+},
+{
+    "number": 47,
+    "film": "Baby Pictures of Famous Dictators",
+    "date": "Year of the Tucks Medicated Pad",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "storage_medium": "16mm",
+    "length": 45,
+    "color": "bw",
+    "sound": "sound",
+    "motifs": [ "Documentary", "Eschaton", "ATHSCME" ],
+    "distribution_medium": "celluloid, unreleased",
+    "characters": { "cast": [ "P.A. Heaven" ] }
+},
+{
+    "number": 48,
+    "film": "Stand Behind the Men Behind the Wire",
+    "date": "Year of the Tucks Medicated Pad",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "storage_medium": "Super-8",
+    "length": 52,
+    "color": "bw, color",
+    "sound": "sound",
+    "motifs": [ "Documentary", "Feral infant", "Lowell, MA" ],
+    "distribution_medium": "interlace telent cartridge",
+    "characters": { "cast": [ "Soma Richardson-Levy" ] }
+},
+{
+    "number": 49,
+    "film": "As of Yore",
+    "date": "Year of the Tucks Medicated Pad",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "storage_medium": "16/78mm",
+    "length": 181,
+    "color": "bw, color",
+    "sound": "sound",
+    "motifs": [ "Tennis", "Father", "Alcohol", "Excessive perspiration" ],
+    "distribution_medium": "interlace telent cartridge",
+    "characters": {
+        "cast": [ "Cosgrove Watt", "Marlon Bain" ]
+    }
+},
+{ "number": 50, "film": "The Clever Little Bastard", "date": "unfinished", "distribution_medium": "unreleased" },
+{ "number": 51, "film": "The Cold Majesty of the Numb", "date": "unfinished", "distribution_medium": "unreleased" },
+{
+    "number": 52,
+    "film": "Good-Looking Men in Small Clever Rooms That Utilize Every Centimeter of Available Space With Mind-Boggling Efficiency",
+    "date": "unfinished",
+    "distribution_medium": "unreleased"
+},
+{
+    "number": 53,
+    "film": "Low-Temperature Civics",
+    "date": "Year of the Tucks Medicated Pad",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "storage_medium": "35mm",
+    "length": 80,
+    "color": "bw",
+    "sound": "sound",
+    "motifs": [ "Sandwich-bag conglomerate", "Death", "Catatonia" ],
+    "distribution_medium": "dissemination, interlace telent cartridge",
+    "characters": {
+        "cast": [
+            "Cosgrove Watt", "Herbert G. Birch", "Ken N. Johnson",
+            "Soma Richardson-Levy", "Everard Maynell",
+            "Madame Psychosis", "Phillip T. Smothergill",
+            "Paul Anthony Heaven"
+        ]
+    }
+},
+{
+    "number": 54,
+    "film": "(At Least) Three Cheers for Cause and Effect",
+    "date": "Year of the Tucks Medicated Pad",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "storage_medium": "78mm",
+    "length": 26,
+    "color": "bw",
+    "sound": "sound",
+    "motifs": [ "Sports Academy", "V.A. Hospital", "Adultery", "Mathematics (topology)" ],
+    "distribution_medium": "celluloid, unreleased",
+    "characters": {
+        "cast": [ "Cosgrove Watt", "Pam Heath", "Hugh G. Rection" ]
+    }
+},
+{
+    "number": 55,
+    "film": "(The) Desire to Desire",
+    "date": "Year of the Tucks Medicated Pad",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "storage_medium": "35mm",
+    "length": 99,
+    "color": "bw",
+    "sound": "silent",
+    "motifs": [ "Feral infant", "Death", "Paralysis" ],
+    "distribution_medium": "unreleased",
+    "characters": {
+        "cast": [ "Robert Lingley", "Madame Psychosis", "Marla-Dean Chumm" ]
+    }
+},
+{
+    "number": 56,
+    "film": "Safe Boating Is No Accident",
+    "date": "Year of the Tucks Medicated Pad",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "storage_medium": "",
+    "motifs": [
+        "Shuco-Mist Medical Pressure Systems", "Parody", "Claustrophobia",
+        "Water-ski instructor", "Disfiguration", "Hospital", "Elevator",
+        "Trappist", "Church of Jesus Christ of Latter-Day Saints",
+        "Fitness Guru", "State Commissioner for Beach and Water Safety",
+        "Intoxicated Opticians", "Silly Hats", "Exploding Cigars"
+    ],
+    "distribution_medium": "unreleased",
+    "characters": {
+        "cast": [ "Ken N. Johnson", "Madame Psychosis", "P.A. Heaven" ]
+    }
+},
+{
+    "number": 57,
+    "film": "Very Low Impact",
+    "date": "Year of the Tucks Medicated Pad",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "storage_medium": "35mm",
+    "length": 30,
+    "color": "color",
+    "sound": "sound",
+    "motifs": [ "Narcolepsy", "Aerobics instructor" ],
+    "distribution_medium": "interlace telent cartridge",
+    "characters": {
+        "cast": [ "Marla-Dean Chumm", "Pam Heath", "Soma Richardson-Levy-O'Byrne" ]
+    }
+},
+{
     "number": 0,
     "film": "",
     "date": "",
