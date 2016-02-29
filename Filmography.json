@@ -504,6 +504,7 @@
     "color": "bw",
     "sound": "sound",
     "motifs": [ "Christ", "Church of Jesus Christ of Latter-Day Saints" ],
+    "distribution_medium": "unspecified",
     "characters": {
         "cast": [ "Everard Maynell", "Phillip T. Smothergill", "Paul Anthony Heaven", "Pamela-Sue Voorheis" ],
         "other": [ "Romney", "Sperber" ]
@@ -519,7 +520,7 @@
     "color": "color",
     "sound": "sound",
     "motifs": [
-        "Parody"
+        "Parody", "Nun"
     ],
     "distribution_medium": "interlace telent cartridge",
     "characters": {
@@ -571,7 +572,7 @@
 { "number": 45, "film": "Untitled", "date": "unfinished", "distribution_medium": "unreleased" },
 {
     "number": 46,
-    "film": "Valuable Coupon Has Been Reomved",
+    "film": "Valuable Coupon Has Been Removed",
     "date": "Year of the Tucks Medicated Pad",
     "company": "Poor Yorick Entertainment Unlimited",
     "storage_medium": "15mm",
@@ -717,20 +718,124 @@
     }
 },
 {
-    "number": 0,
-    "film": "",
-    "date": "",
-    "company": "",
-    "storage_medium": "",
-    "length": "",
-    "color": "",
-    "sound": "",
-    "motifs": [ ],
-    "distribution_medium": "",
+    "number": 58,
+    "film": "The Night Wears a Sombrero",
+    "date": "Year of the Tucks Medicated Pad",
+    "storage_medium": "78mm",
+    "length": 105,
+    "color": "color",
+    "sound": "silent, sound",
+    "motifs": [ "Parody", "Western", "Oedipus", "Nun", "Blind" ],
+    "distribution_medium": "interlace telent cartridge",
     "characters": {
-        "cast": [ ],
-        "other": [ ]
+        "cast": [
+            "Ken N. Johnson", "Phillip T. Smothergill",
+            "Dianne Saltoone", "Madame Psychosis"
+        ]
     }
 },
-{ }
+{
+    "number": 59,
+    "film": "Accomplice!",
+    "date": "Year of the Tucks Medicated Pad",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "storage_medium": "16mm",
+    "length": 26,
+    "color": "color",
+    "sound": "sound",
+    "motifs": [ "Pederast", "Street hustler", "Tatoo", "Mutilation" ],
+    "distribution_medium": "interlace telent cartridge, unreleased",
+    "characters": {
+        "cast": [ "Cosgrove Watt", "Stokely 'Dark Star' McNair" ]
+    }
+},
+{ "number": 60, "film": "Untitled", "date": "unfinished", "distribution_medium": "unreleased" },
+{ "number": 61, "film": "Untitled", "date": "unfinished", "distribution_medium": "unreleased" },
+{ "number": 62, "film": "Untitled", "date": "unfinished", "distribution_medium": "unreleased" },
+{
+    "number": 63,
+    "film": "Dial C for Concupiscence",
+    "date": "Year of the Trial-Size Dove Bar",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "storage_medium": "35mm",
+    "length": 122,
+    "color": "bw",
+    "sound": "silent",
+    "motifs": [
+        "Parody", "Cell phone operator", "Québecois terrorist", "FLQ",
+        "Semaphore flags", "Medical attaché", "Communication"
+    ],
+    "distribution_medium": "interlace telent cartridge",
+    "characters": {
+        "cast": [
+            "Soma Richardson-Levy-O'Byrne", "Marla-Dean Chumm",
+            "Ibn-Said Chawaf", "Yves Francoeur"
+        ]
+    }
+},
+{
+    "number": 64,
+    "film": "Insubstantial Country",
+    "date": "Year of the Trial-Size Dove Bar",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "storage_medium": "16mm",
+    "length": 30,
+    "color": "bw",
+    "sound": "silent, sound",
+    "motifs": [ "Filmmaker", "Seizure", "Delusion", "Mute", "Communication" ],
+    "distribution_medium": "private cartridge",
+    "characters": { "cast": [ "Cosgrove Watt" ] }
+},
+{
+    "number": 65,
+    "film": "It Was a Great Marvel That He Was in the Father Without Knowing Him",
+    "date": "Year of the Trial-Size Dove Bar",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "storage_medium": "16mm",
+    "length": 5,
+    "color": "bw",
+    "sound": "silent, sound",
+    "motifs": [
+        "Father", "Delusion", "Mute", "Communication", "Professional Conversationalist"
+    ],
+    "distribution_medium": "interlace telent cartridge",
+    "characters": { "cast": [ "Cosgrove Watt", "Phillip T. Smothergill"] }
+},
+{ "number": 66, "film": "Cage IV - Web", "date": "unfinished", "distribution_medium": "unreleased" },
+{ "number": 67, "film": "Cage V - Infinite Jim", "date": "unfinished", "distribution_medium": "unreleased" },
+{ "number": 68, "film": "Death and the Single Girl", "date": "unfinished", "distribution_medium": "unreleased" },
+{
+    "number": 69,
+    "film": "The Film Adaptation of Peter Weiss's 'The Persecution and Assassination of Marat as Performed by the Inmates of the Asylum at Charenton Under the Direction of the Marquis de Sade'",
+    "date": "Year of the Trial-Size Dove Bar",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "storage_medium": "Super-8",
+    "length": 88,
+    "color": "bw",
+    "sound": "silent, sound",
+    "motifs": [ "Documentary", "Parody", "Meta", "Method Acting", "Marlon Brando" ],
+    "distribution_medium": "celluloid, unreleased",
+    "characters": {
+        "cast": [
+            "James Orin Incandenza", "Disney Leith", "Urquhart Ogilvie, Jr.", "Jane Ann Prickett",
+            "Herbert G. Birch", "Madame Psychosis", "Marla-Dean Chumm", "Marlon Bain", "Pam Heath",
+            "Soma Richardson-Levy-O'Byrne-Chawaf", "Ken N. Johnson", "Dianne Saltoone"
+        ]
+    }
+},
+{ "number": 70, "film": "Too Much Fun", "date": "unfinished", "distribution_medium": "unreleased" },
+{ "number": 71, "film": "The Unfortunate Case of Me", "date": "unfinished", "distribution_medium": "unreleased" },
+{ "number": 72, "film": "Sorry All Over the Place", "date": "unfinished", "distribution_medium": "unreleased" },
+{
+    "number": 73,
+    "film": "Infinite Jest (V)",
+    "date": "Year of the Trial-Size Dove Bar",
+    "company": "Poor Yorick Entertainment Unlimited",
+    "motifs": [ "Entertainment" ],
+    "distribution_medium": "unreleased, posthumous",
+    "characters": {
+        "cast": [ "Madame Psychosis" ],
+        "other": [ "Tête-Bêche", "E. Duquette" ]
+    }
+}
 ]
