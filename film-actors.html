@@ -15,14 +15,21 @@
 <body>
 <h1>James O. Incandenza filmography</h1>
 <h3>Co-occurence of actors</h3>
+<p>
+Nodes are actors, and links are films in which they co-star, weighted by number of films.
+The surface of circles is proportional to the number of films in which the actors appear.
+It should be noted that Soma Richardson-Levy, Soma Richardson-Levy-O'Byrne, and
+Soma Richardson-Levy-O'Byrne-Chawaf are considered the same person, and that other
+minor spelling difference in actor names have been normalized.
+</p>
 <script>
 var width = 1200, height = 600;
 
 var color = d3.scale.category20();
 
 var force = d3.layout.force()
-    .charge(-170)
-    .linkDistance(150)
+    .charge(-250)
+    .linkDistance(180)
     .size([width, height]);
 
 var svg = d3.select("body").append("svg")
@@ -46,26 +53,38 @@ function canonName(c) {
   return c;
 }
 
+function nameToGroup(c) {
+  if (c == "Madame Psychosis") {
+    return 2;
+  }
+  if (c == "Marlon Bain" || c == "Gerhardt Schtitt" || c == "John Wayne" || c == "Avril Incandenza" || c == "Brandt" || c == "Kenkle" || c == "James Orin Incandenza") {
+    return 3; // ETA
+  }
+  return 1;
+}
+
 d3.json("Filmography.json", function(e, data) {
   if (e) throw e;
 
-  var castSet = new Set; // set of unique actor names
+  var castCounts = new Map; // map actor names -> number of films
   data.forEach(function (film) {
     if (film.characters && film.characters.cast) {
-      film.characters.cast.forEach(function (c) { castSet.add(canonName(c)) });
+      film.characters.cast.forEach(function (c) {
+        var cc = canonName(c);
+        castCounts.set(cc, (castCounts.get(cc) || 0) + 1)
+      });
     }
   });
   // this is the data structure we should fill
   var graph = { "nodes": [], "links": [] };
   var castToIndex = [];
   var i = 0;
-  for (c of castSet) {
-    // TODO - figure out groups for coloring: parody ? documentaries ? unreleased ?
-    // TODO - make circles bigger depending on number of movies
-    graph.nodes.push({ "name":c, "group":1 });
+  castCounts.forEach(function (n, c) {
+    graph.nodes.push({ "name":c, "group":nameToGroup(c), "numFilms":n });
     castToIndex[c] = i;
+    console.log(c);
     i++;
-  }
+  });
   var linkWeights = new Map();
   data.forEach(function (film) {
     if (film.characters && film.characters.cast) {
@@ -101,7 +120,7 @@ d3.json("Filmography.json", function(e, data) {
       .data(graph.nodes)
     .enter().append("circle")
       .attr("class", "node")
-      .attr("r", 5)
+      .attr("r", function (d) { return 5 * Math.sqrt(d.numFilms) } )
       .style("fill", function(d) { return color(d.group); })
       .call(force.drag);
 
