@@ -19,8 +19,8 @@
 Nodes are actors, and links are films in which they co-star, weighted by number of films.
 The surface of circles is proportional to the number of films in which the actors appear.
 It should be noted that Soma Richardson-Levy, Soma Richardson-Levy-O'Byrne, and
-Soma Richardson-Levy-O'Byrne-Chawaf are considered the same person, and that other
-minor spelling difference in actor names have been normalized.
+Soma Richardson-Levy-O'Byrne-Chawaf are considered the same person (JOI's third-favorite
+actress), and that other minor spelling differences in actor names have been normalized.
 </p>
 <script>
 var width = 1200, height = 600;
@@ -59,6 +59,18 @@ function nameToGroup(c) {
   }
   if (c == "Marlon Bain" || c == "Gerhardt Schtitt" || c == "John Wayne" || c == "Avril Incandenza" || c == "Brandt" || c == "Kenkle" || c == "James Orin Incandenza") {
     return 3; // ETA
+  }
+  if (c == 'Soma Richardson-Levy' ||
+      c == 'Judith Fukuoka-Hearn' ||
+      c == 'Pam Heath' ||
+      c == 'Pamela-Sue Voorheis' ||
+      c == 'Marla-Dean Chumm' ||
+      c == 'Bunny Day' ||
+      c == 'Taffy Appel' ||
+      c == 'Telma Hurley' ||
+      c == 'Diane Saltoone' ||
+      c == 'Jane Ann Prickett') {
+    return 4; // women (other than Madame Psychosis)
   }
   return 1;
 }
