@@ -336,7 +336,6 @@
         "Lung", "Pump Room, ETA", "TesTar", "ATHSCME", "Tunnel Club", "Interdependence Day", "The Show",
         "Oral-B", "Visine (implicit)", "Old Spice", "Kodiak", "Secrecy"
     ],
-    "filmography": [ ],
     "endnotes": [ 3, 4, 5, 6, 7, 8, 9, 10 ]
 },
 {
@@ -479,62 +478,62 @@
         "Après-garde", "Prescriptive Grammar", "R.C.M.P.", "Québecois-Separatist Left",
         "L'Islet County", "Burial"
     ],
-    "endnotes": [ 23, 24 ]
+    "endnotes": [ 23, 24, 25 ]
 },
 { "endnote": "23", "motifs": [ "O.N.R." ] },
 { "endnote": "24", "synopsis": "The Filmography" },
+{ "endnote": "25", "motifs": [ "Marriage" ] },
 {
     "chapter": "8",
     "section": "23",
-    "kindle": 1439,
+    "kindle": 1438,
     "date": [ "Year of the Depend Adult Undergarment", "11", "1" ],
-    "cluster": "",
+    "cluster": "ETA",
     "location": [ "Denver, CO" ],
     "synopsis": "Orin at football practice.",
-    "characters": {
-        "present": [ "Orin Incandenza" ],
-        "absent": [ ]
-    },
-    "narrator": "",
-    "motifs": [ ],
-    "filmography": [ ],
-    "endnotes": [ ]
+    "characters": { "present": [ "Orin Incandenza", "Clayt" ] },
+    "motifs": [ "Football", "Stadium", "Noisy Crowd", "Bird costume", "Vertigo" ]
 },
 {
     "chapter": "9",
     "section": "24",
+    "kindle": 1464,
     "date": [ "Year of the Depend Adult Undergarment", "", "" ],
-    "cluster": "",
-    "location": [ "" ],
+    "cluster": "ETA",
+    "location": [ "ETA, Viewing Room" ],
     "synopsis": "Michael Pemulis as \"Big Buddy,\" talks about drugs to his younger charges",
     "characters": {
-        "present": [ "Michael Pemulis" ],
-        "absent": [ ]
+        "present": [ "Michael Pemulis", "Pemulis' Little Buds" ]
     },
-    "narrator": "",
-    "motifs": [ ],
-    "filmography": [ ],
-    "endnotes": [ ]
+    "motifs": [
+        "Muscimole", "Mold/Yeast/Fungus", "Amanita muscaria",
+        "Québec", "Great Concavity"
+    ]
 },
 {
     "chapter": "9",
     "section": "25",
+    "kindle": 1475,
     "date": [ "Year of the Depend Adult Undergarment", "", "" ],
-    "cluster": "",
-    "location": [ "" ],
+    "cluster": "ETA",
+    "location": [ "ETA" ],
     "synopsis": "Hal, after a bong hit, relates a tennis dream.",
     "characters": {
         "present": [ "Hal Incandenza" ],
-        "absent": [ ]
+        "absent": [ "Bridget Boone", "Avril Incandenza" ]
     },
-    "narrator": "",
-    "motifs": [ ],
-    "filmography": [ ],
-    "endnotes": [ ]
+    "narrator": "Hal Incandenza",
+    "motifs": [
+        "Drines", "Bob Hope", "Tennis", "Dream", "Silent Crowd", "Tableau"
+    ],
+    "endnotes": [ 26, 27 ]
 },
+{ "endnote": "26", "motifs": [ "Drugs" ] },
+{ "endnote": "27", "motifs": [ "Argot", "Bob Hope", "Bing Crosby" ] },
 {
     "chapter": "10",
     "section": "26",
+    "kindle": 1499,
     "date": [ "Year of the Depend Adult Undergarment", "", "" ],
     "cluster": "",
     "location": [ "" ],
