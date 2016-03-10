@@ -535,33 +535,34 @@
     "section": "26",
     "kindle": 1499,
     "date": [ "Year of the Depend Adult Undergarment", "", "" ],
-    "cluster": "",
-    "location": [ "" ],
+    "cluster": "Ennett",
+    "location": [ "Hospital (Psych ward, 5th floor)" ],
     "synopsis": "Kate Gompert explains the extent of her addiction to marijuana (\"Bob Hope\") to a young doctor.",
     "characters": {
-        "present": [ "Kate Gompert" ],
-        "absent": [ ]
+        "present": [ "Kate Gompert", "Unnamed doctor" ],
+        "absent": [ "Dr. Garton", "Mrs. Diggs" ]
     },
-    "narrator": "",
-    "motifs": [ ],
+    "motifs": [
+        "Yevtuschenko", "Wellesley Hills", "Depression (unipolar)", "Suicide",
+        "Electro-Convulsive Therapy", "Bob Hope", "Allston Spur", "Parnate",
+        "Cartridge (Nichols and the big Indian?)"
+    ],
     "filmography": [ ],
-    "endnotes": [ ]
+    "endnotes": [ 28, 29, 30 ]
 },
+{ "endnote": "28", "motifs": [ "Drugs (Pharmacy)" ] },
+{ "endnote": "29", "motifs": [ "Electro-Convulsive Therapy" ] },
+{ "endnote": "30", "motifs": [ "Collyrium", "Visine" ] },
 {
     "chapter": "10",
     "section": "27",
-    "date": [ "Year of the Depend Adult Undergarment", "4", "2" ],
-    "cluster": "",
-    "location": [ "" ],
+    "kindle": 1736,
+    "date": [ "Year of the Depend Adult Undergarment", "4", "2", "0145h" ],
+    "cluster": "AFR",
+    "location": [ "Medical Attaché's apartment, Boston, MA" ],
     "synopsis": "The medical attaché's wife returns home.",
-    "characters": {
-        "present": [ "Medical Attaché" ],
-        "absent": [ ]
-    },
-    "narrator": "",
-    "motifs": [ ],
-    "filmography": [ ],
-    "endnotes": [ ]
+    "characters": { "present": [ "Medical Attaché", "Medical Attaché's wife" ] },
+    "motifs": [ "The Entertainment" ]
 },
 {
     "chapter": "10",
