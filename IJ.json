@@ -567,56 +567,72 @@
 {
     "chapter": "10",
     "section": "28",
+    "kindle": 1740,
     "date": [ "Year of the Depend Adult Undergarment", "", "" ],
-    "cluster": "",
-    "location": [ "" ],
+    "cluster": "ETA",
+    "location": [ "East Newton" ],
     "synopsis": "Gerhardt Schtitt and Mario talk game theory.",
     "characters": {
         "present": [ "Gerhardt Schtitt", "Mario Incandenza" ],
-        "absent": [ ]
+        "absent": [
+            "James Orin Incandenza", "Aubrey deLint", "Mary Esther Thode", "Charles Tavis",
+            "Michael Pemulis", "Shaw"
+        ]
     },
-    "narrator": "",
-    "motifs": [ ],
-    "filmography": [ ],
-    "endnotes": [ ]
+    "motifs": [
+        "Flattened hilltop", "We are what we walk between", "Mathematics (statistics)", "Tennis",
+        "Ice cream", "Dumpster"
+    ],
+    "endnotes": [ 31, 32, 33, 34, 35, 36 ]
 },
+{ "endnote": "31", "characters": { "absent": [ "Aubrey deLint" ] } },
+{ "endnote": "32", "motifs": [ "Latin motto" ] },
+{ "endnote": "33", "motifs": [ "O.N.A.N. calendar" ], "characters": { "absent": [ "Johnny Gentle" ] } },
+{
+    "endnote": "34",
+    "motifs": [ "Extra-Linear Dynamics", "Mathematics (chaos)" ],
+    "characters": { "absent": [ "James Orin Incandenza" ] }
+},
+{ "endnote": "35", "motifs": [ "Mathematics (Cantor)" ], "characters": { "absent": [ "James Orin Incandenza" ] } },
+{ "endnote": "36", "motifs": [ "German" ] },
 {
     "chapter": "10",
     "section": "29",
+    "kindle": 1871,
     "date": [ "Year of the Depend Adult Undergarment", "", "" ],
-    "cluster": "",
-    "location": [ "" ],
+    "cluster": "Ennett",
+    "location": [ "East Watertown, MA" ],
     "synopsis": "Tiny Ewell and an unnamed passenger are transported to the Enfield Marine VA hospital.",
-    "characters": {
-        "present": [ "Tiny Ewell" ],
-        "absent": [ ]
-    },
-    "narrator": "",
-    "motifs": [ ],
-    "filmography": [ ],
-    "endnotes": [ ]
+    "characters": { "present": [ "Tiny Ewell", "Unnamed patient" ] },
+    "motifs": [ "Alcoholism", "Air conditioner", "Unit #6" ]
 },
 {
-    "chapter": "11",
+    "chapter": "10",
     "section": "30",
+    "kindle": 1918,
     "date": [ "Year of the Depend Adult Undergarment", "4", "2" ],
-    "cluster": "",
-    "location": [ "" ],
+    "cluster": "AFR",
+    "location": [ "Medical Attaché's apartment, Boston, MA" ],
     "synopsis": "The list of people who have come to the medical attaché's house to look at him.",
     "characters": {
-        "present": [ "Medical Attaché" ],
-        "absent": [ ]
+        "present": [
+            "Medical Attaché", "Medical Attaché's wife",
+            "Prince Q---'s personal physician's personal assistant",
+            "Prince Q---'s personal physician",
+            "Embassy security guard 1",
+            "Embassy security guard 2",
+            "Seventh Day Adventists"
+        ],
+        "absent": [ "Prince Q---" ]
     },
-    "narrator": "",
-    "motifs": [ ],
-    "filmography": [ ],
-    "endnotes": [ ]
+    "motifs": [ "The Entertainment" ]
 },
 {
     "chapter": "11",
     "section": "31",
+    "kindle": 1926,
     "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
-    "cluster": "",
+    "cluster": "AFR",
     "location": [ "" ],
     "synopsis": "Tuscon, Arizona: Marathe and special agent Hugh Steeply (in drag) meet on a hillside to discuss the appearance, earlier that month, of a special form of \"Entertainment\".",
     "characters": {
