@@ -346,7 +346,7 @@
             "A.Y. Rickey", "Michael Pemulis"
         ]
     },
-    "motifs": [ "Cardioid", "Lung", "Mathematics (topology)" ]
+    "motifs": [ "Cardioid", "Lung", "Mathematics (topology)", "Brandeis" ]
 },
 { "endnote": "4", "motifs": [ "Prorectors" ] },
 {
@@ -402,7 +402,7 @@
     },
     "motifs": [
         "Square head", "Kismet", "E.W.D.", "NyQuil", "Feral hamsters",
-        "Great Concavity", "Great Convexity"
+        "Great Concavity", "Great Convexity", "Burglary"
     ],
     "endnotes": [ 12, 13, 14, 15, 16, 17, 18, 19, 20 ]
 },
@@ -476,7 +476,7 @@
         "Method acting", "Tucson, AZ", "Insects (Spiders)", "O.N.R.", "Optics",
         "Annular fusion", "Videophonic Tableaux", "Fluorescent light", "U.S.T.A.",
         "Après-garde", "Prescriptive Grammar", "R.C.M.P.", "Québecois-Separatist Left",
-        "L'Islet County", "Burial"
+        "L'Islet County", "Burial", "A.E.C."
     ],
     "endnotes": [ 23, 24, 25 ]
 },
@@ -547,7 +547,6 @@
         "Electro-Convulsive Therapy", "Bob Hope", "Allston Spur", "Parnate",
         "Cartridge (Nichols and the big Indian?)"
     ],
-    "filmography": [ ],
     "endnotes": [ 28, 29, 30 ]
 },
 { "endnote": "28", "motifs": [ "Drugs (Pharmacy)" ] },
@@ -581,7 +580,7 @@
     },
     "motifs": [
         "Flattened hilltop", "We are what we walk between", "Mathematics (statistics)", "Tennis",
-        "Ice cream", "Dumpster"
+        "Ice cream", "Dumpster", "A.E.C."
     ],
     "endnotes": [ 31, 32, 33, 34, 35, 36 ]
 },
@@ -631,54 +630,62 @@
     "chapter": "11",
     "section": "31",
     "kindle": 1926,
-    "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
+    "date": [ "Year of the Depend Adult Undergarment", "4", "30", "Sunset" ],
     "cluster": "AFR",
-    "location": [ "" ],
-    "synopsis": "Tuscon, Arizona: Marathe and special agent Hugh Steeply (in drag) meet on a hillside to discuss the appearance, earlier that month, of a special form of \"Entertainment\".",
+    "location": [ "Desert, Tucson, AZ" ],
+    "synopsis": "Tucson, Arizona: Marathe and special agent Hugh Steeply (in drag) meet on a hillside to discuss the appearance, earlier that month, of a special form of \"Entertainment\".",
     "characters": {
         "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
-        "absent": [ ]
+        "absent": [
+            "Mrs. Marathe", "M. Fortier", "Medical Attaché", "Avril Incandenza",
+            "Rodney Tine Sr.", "Guillaume DuPlessis", "Luria Perec"
+        ]
     },
-    "narrator": "",
-    "motifs": [ ],
-    "filmography": [ ],
-    "endnotes": [ ]
+    "motifs": [
+        "Papineau", "Québec", "Shadow", "AFR", "BSS", "Unspecified Services",
+        "The Entertainment", "A.E.C.", "Brandeis", "L'Islet County"
+    ],
+    "endnotes": [ 37, 38, 39, 40, 41 ]
 },
+{ "endnote": "37", "motifs": [ "French", "Wheelchair" ] },
+{ "endnote": "38", "motifs": [ "German", "Wraith" ] },
+{ "endnote": "39", "motifs": [ "AFR", "Dernier Train" ], "endnotes": [ 304 ] },
+{
+    "endnote": "40",
+    "characters": { "absent": [ "Mrs. Marathe", "M. Fortier" ] },
+    "motifs": [ "AFR", "BSS", "Mont-Tremblant", "Triple agent" ]
+},
+{ "endnote": "41", "motifs": [ "Triple agent" ] },
 {
     "chapter": "11",
     "section": "32",
+    "kindle": 2040,
     "date": [ "(unspecified)", "", "" ],
-    "cluster": "",
-    "location": [ "" ],
+    "cluster": "unspecified",
+    "location": [ "Great Concavity" ],
     "synopsis": "Description of a herd of feral hamsters in the Great Concavity",
-    "characters": {
-        "present": [ "" ],
-        "absent": [ ]
-    },
-    "narrator": "",
-    "motifs": [ ],
-    "filmography": [ ],
-    "endnotes": [ ]
+    "motifs": [ "Feral hamsters" ]
 },
 {
     "chapter": "11",
     "section": "33",
-    "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
-    "cluster": "",
-    "location": [ "" ],
+    "kindle": 2053,
+    "date": [ "Year of the Depend Adult Undergarment", "4", "30", "Dusk" ],
+    "cluster": "AFR",
+    "location": [ "Desert, Tucson, AZ" ],
     "synopsis": "Marathe and Steeply continued.",
     "characters": {
         "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
-        "absent": [ ]
+        "absent": [ "M. Fortier", "Rodney Tine Sr.", "Guillaume DuPlessis", "Luria Perec" ]
     },
-    "narrator": "",
-    "motifs": [ ],
-    "filmography": [ ],
-    "endnotes": [ ]
+    "motifs": [ "BSS", "AFR", "Burglary" ],
+    "endnotes": [ 42 ]
 },
+{ "endnote": "42", "motifs": [ "Triple agent" ] },
 {
     "chapter": "11",
     "section": "34",
+    "kindle": 2089,
     "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
     "cluster": "",
     "location": [ "" ],
