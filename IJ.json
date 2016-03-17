@@ -327,7 +327,8 @@
             "Avril Incandenza",
             "Charles Tavis",
             "Dolores Rusk",
-            "Leith", "Ogilvie",
+            "Disney Leith",
+            "Urquhart Ogilvie, Jr.",
             "James Orin Incandenza",
             "Gerhardt Schtitt"
         ]
@@ -575,7 +576,7 @@
         "present": [ "Gerhardt Schtitt", "Mario Incandenza" ],
         "absent": [
             "James Orin Incandenza", "Aubrey deLint", "Mary Esther Thode", "Charles Tavis",
-            "Michael Pemulis", "Shaw"
+            "Michael Pemulis", "Tall Paul Shaw"
         ]
     },
     "motifs": [
@@ -686,38 +687,36 @@
     "chapter": "11",
     "section": "34",
     "kindle": 2089,
-    "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
-    "cluster": "",
+    "date": [ "Year of the Depend Adult Undergarment", "11", "3", "1640h" ],
+    "cluster": "ETA",
     "location": [ "" ],
     "synopsis": "Locker room banter at ETA.  Troeltsch, Pemulis, Wayne, Stice, Struck, Freer and Hal are present.",
     "characters": {
-        "present": [ "Jim Troeltsch", "Michael Pemulis", "John Wayne", "Ortho Stice", "Jim Struck", "Keith Freer", "Hal Incandenza" ],
-        "absent": [ ]
+        "present": [ "Jim Troeltsch", "Michael Pemulis", "John Wayne", "Ortho Stice", "Jim Struck", "Keith Freer", "Hal Incandenza", "Graham Rader", "Tall Paul Shaw" ],
+        "absent": [ "Ted Schacht", "Disney Leith", "Trevor Axford" ]
     },
-    "narrator": "",
-    "motifs": [ ],
-    "filmography": [ ],
-    "endnotes": [ ]
+    "motifs": [
+        "Prescriptive Grammar", "Barbicide", "Allston", "Tolstoy",
+        "History of Entertainment (Class)", "Optics",
+        "Broadcast TV", "TP", "Dictionary"
+    ]
 },
 {
     "chapter": "11",
     "section": "35",
+    "kindle": 2139,
     "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
-    "cluster": "",
-    "location": [ "" ],
+    "cluster": "AFR",
+    "location": [ "Desert, Tucson, AZ" ],
     "synopsis": "Marathe and Steeply continued.  Sunset.",
     "characters": {
-        "present": [ "Remy Marathe", "Hugh/Helen Steeply" ],
-        "absent": [ ]
-    },
-    "narrator": "",
-    "motifs": [ ],
-    "filmography": [ ],
-    "endnotes": [ ]
+        "present": [ "Remy Marathe", "Hugh/Helen Steeply" ]
+    }
 },
 {
     "chapter": "11",
     "section": "36",
+    "kindle": 2145,
     "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
     "cluster": "",
     "location": [ "" ],
