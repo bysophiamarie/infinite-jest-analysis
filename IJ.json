@@ -689,7 +689,7 @@
     "kindle": 2089,
     "date": [ "Year of the Depend Adult Undergarment", "11", "3", "1640h" ],
     "cluster": "ETA",
-    "location": [ "" ],
+    "location": [ "Locker room, ETA" ],
     "synopsis": "Locker room banter at ETA.  Troeltsch, Pemulis, Wayne, Stice, Struck, Freer and Hal are present.",
     "characters": {
         "present": [ "Jim Troeltsch", "Michael Pemulis", "John Wayne", "Ortho Stice", "Jim Struck", "Keith Freer", "Hal Incandenza", "Graham Rader", "Tall Paul Shaw" ],
@@ -718,21 +718,31 @@
     "section": "36",
     "kindle": 2145,
     "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
-    "cluster": "",
-    "location": [ "" ],
+    "cluster": "ETA",
+    "location": [ "Locker room, ETA" ],
     "synopsis": "More banter in the locker room.  Complaints about Schtitt's expectations of them.",
     "characters": {
-        "present": [ "Jim Troeltsch", "Michael Pemulis", "John Wayne", "Ortho Stice", "Jim Struck", "Keith Freer", "Hal Incandenza" ],
-        "absent": [ ]
+        "present": [
+            "Jim Troeltsch", "Michael Pemulis", "John Wayne",
+            "Ortho Stice", "Jim Struck", "Keith Freer", "Hal Incandenza",
+            "Peter Beak", "Evan Ingersoll", "Kent Blott", "Zoltan Csikzentmihalyi",
+            "Idris Arslanian", "Yardley", "Tall Paul Shaw", "Graham Rader"
+        ],
+        "absent": [
+            "Charles Tavis", "Todd Possalthwaite", "Trevor Axford",
+            "Tony Nwangi", "Tex Watson", "Lateral Alice Moore", "Orin Incandenza",
+            "Mario Incandenza", "James Orin Incandenza", "Avril Incandenza",
+            "Aubrey deLint", "Carol Spodek", "Barry Loach"
+        ]
     },
-    "narrator": "",
-    "motifs": [ ],
-    "filmography": [ ],
-    "endnotes": [ ]
+    "motifs": [ "Big Buddy", "Shoes and socks", "Lemon Pledge", "Visine", "The Show" ],
+    "endnotes": [ 43 ]
 },
+{ "endnote": "43", "motifs": [ "Crohn's disease" ] },
 {
     "chapter": "11",
     "section": "37",
+    "kindle": 2308,
     "date": [ "Year of the Depend Adult Undergarment", "4", "30" ],
     "cluster": "",
     "location": [ "" ],
@@ -752,7 +762,7 @@
     "date": [ "Year of the Depend Adult Undergarment", "11", "3" ],
     "cluster": "",
     "location": [ "" ],
-    "synopsis": "Hal with his \"little buddies\" (Kent Blott, Idris Arslanian, Ingersol).  He convinces them that their resentment of Schtitt is engineered by Schtitt and his staff.  Switches to John (NR) Wayne, Troeltsch, Struck, and Stice, each with his group of younger students.",
+    "synopsis": "Hal with his \"little buddies\" (Kent Blott, Idris Arslanian, Ingersoll).  He convinces them that their resentment of Schtitt is engineered by Schtitt and his staff.  Switches to John (NR) Wayne, Troeltsch, Struck, and Stice, each with his group of younger students.",
     "characters": {
         "present": [ "Jim Troeltsch", "John Wayne", "Ortho Stice", "Jim Struck", "Hal Incandenza", "Idris Arslanian", "Evan Ingersoll", "Kent Blott" ],
         "absent": [ ]
