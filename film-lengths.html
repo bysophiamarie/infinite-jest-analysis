@@ -26,33 +26,37 @@ d3.json('Filmography.json', function(e, data) {
     .attr("width", divWidth)
     .attr("height", divHeight);
 
+  var barColor = function(distribution_medium, fg) {
+    if (distribution_medium.match(/unreleased/)) {
+      return fg ? "#ffcc99" : "#ffffcc";
+    } else {
+      return fg ? "#99ccff" : "#ccffff";
+    }
+  };
+
   var enterFilmRect = films.selectAll("rect").data(data).enter();
   enterFilmRect
-    .append("svg:rect")
+    .append("rect")
     .attr("x", 0)
     .attr("y", function(d, i) { return y(i); })
-    .attr("width", function(d) { return x(+d.length) || divWidth; })
+    .attr("width", function(d) { return x(+d.length || 0) })
     .attr("height", thickness)
-    .attr("fill", function(d) {
-        if (d.distribution_medium.match(/unreleased/)) {
-            return +d.length ? "#ffcc99" : "#ffffcc";
-        } else {
-            return +d.length ? "#99ccff" : "#ccffff";
-        }
-    });
+    .attr("fill", function(d) { return barColor(d.distribution_medium, true) })
+    ;
   enterFilmRect
-    .append("svg:rect")
-    .attr("x", function(d) { return x(+d.length || divWidth); })
+    .append("rect")
+    .attr("x", function(d) { return x(+d.length || 0); })
     .attr("y", function(d, i) { return y(i); })
-    .attr("width", function(d) { return divWidth - (x(+d.length) || divWidth); })
+    .attr("width", function(d) { return divWidth - x(+d.length || 0); })
     .attr("height", thickness)
-    .attr("fill", function(d) {
-        if (d.distribution_medium.match(/unreleased/)) {
-            return "#ffffcc";
-        } else {
-            return "#ccffff";
-        }
-    });
+    .attr("fill", function(d) { return barColor(d.distribution_medium, false) })
+    .on("mouseover", function(d) {
+        d3.select(this).transition().duration(100).style("fill", barColor(d.distribution_medium, true));
+    })
+    .on("mouseout", function(d) {
+        d3.select(this).transition().duration(300).style("fill", barColor(d.distribution_medium, false));
+    })
+    ;
 
   films.selectAll("text")
     .data(data)
